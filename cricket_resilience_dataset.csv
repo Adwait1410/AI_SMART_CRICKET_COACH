@@ -1,0 +1,2001 @@
+player_id,player_name,age,role,practice_hours,balls_bowled,sprint_count,training_days,sleep_hours,heart_rate,fitness_score,previous_injury,batting_sessions,bowling_sessions,fielding_sessions,hydration_score,recovery_time,fatigue_level,injury_risk
+PL0001,Ben Starc,28,Bowler,6,179,66,2,8,141,41,Yes,2,4,1,100,31,Medium,Medium
+PL0002,Jofra Starc,16,Batsman,2,8,42,3,6,114,81,Yes,4,1,2,96,6,Low,Medium
+PL0003,Shreyas Bavuma,37,Batsman,3,13,58,4,9,91,78,No,7,0,2,64,19,Low,Low
+PL0004,Travis Nortje,26,All-Rounder,2,52,54,7,8,86,95,No,3,2,3,93,34,Low,Low
+PL0005,Ravindra Buttler,20,Wicket Keeper,7,8,33,6,6,139,72,No,4,1,5,91,47,Medium,Low
+PL0006,Shreyas Maxwell,21,Bowler,6,167,85,2,7,137,75,No,2,3,3,49,42,Medium,Medium
+PL0007,Joe Pant,19,All-Rounder,8,66,60,1,5,144,68,Yes,4,4,3,93,53,Medium,Medium
+PL0008,Jos Pant,27,Wicket Keeper,2,0,68,1,10,108,40,Yes,6,1,7,85,25,Low,Medium
+PL0009,Aaron Nortje,18,Wicket Keeper,6,4,31,6,4,140,90,No,3,0,7,87,58,Medium,Low
+PL0010,David Afridi,36,Wicket Keeper,3,6,51,1,6,107,91,No,4,1,4,58,16,Low,Low
+PL0011,Rashid Stokes,32,All-Rounder,6,66,63,7,4,131,100,Yes,5,5,4,82,32,Medium,Medium
+PL0012,Glenn Yadav,35,Batsman,1,12,48,3,10,95,48,Yes,7,0,3,62,10,Low,Medium
+PL0013,Mohammad Buttler,23,Bowler,1,153,80,1,4,133,44,No,1,7,1,85,6,Medium,Medium
+PL0014,Shubman Pandya,34,Batsman,8,20,39,4,9,140,66,Yes,7,1,4,95,0,Medium,Medium
+PL0015,Glenn Cummins,22,All-Rounder,5,120,59,4,4,154,47,Yes,5,2,3,61,62,Medium,High
+PL0016,Pat Head,20,Wicket Keeper,3,1,58,4,4,117,75,Yes,6,1,5,96,0,Low,Medium
+PL0017,Lokesh Root,36,Bowler,8,221,53,1,5,165,42,No,1,5,4,71,18,High,Medium
+PL0018,Lokesh Cummins,28,Wicket Keeper,7,5,42,5,5,136,96,No,3,1,8,54,3,Medium,Medium
+PL0019,Kagiso Cummins,32,Bowler,2,246,70,2,6,125,67,No,0,7,4,79,3,Medium,Medium
+PL0020,Shreyas Azam,35,Bowler,3,101,50,6,6,130,44,Yes,0,3,1,81,49,Medium,Medium
+PL0021,Shaheen Smith,35,Batsman,4,16,29,5,5,141,66,No,8,0,5,86,58,Medium,Low
+PL0022,Jofra Bavuma,16,Wicket Keeper,3,2,63,1,6,129,47,Yes,6,0,4,85,64,Medium,Medium
+PL0023,Pat Archer,29,Bowler,4,225,78,5,8,94,94,No,2,3,4,78,35,Medium,Low
+PL0024,Temba de Kock,20,All-Rounder,7,98,48,1,6,130,76,Yes,2,4,3,62,61,Medium,Medium
+PL0025,Shaheen Pandya,29,Batsman,1,9,48,7,9,82,93,Yes,5,1,2,70,50,Low,Medium
+PL0026,Shubman Rabada,23,Wicket Keeper,8,7,53,5,5,133,84,Yes,4,0,6,80,23,Medium,Medium
+PL0027,Joe Williamson,22,All-Rounder,2,130,79,4,9,82,100,Yes,2,4,2,44,30,Medium,Medium
+PL0028,Ben Cummins,36,Batsman,6,15,27,6,10,111,95,Yes,4,0,4,51,64,Low,Medium
+PL0029,Lokesh Afridi,21,Bowler,4,240,58,6,5,138,67,No,1,7,4,71,30,Medium,Medium
+PL0030,Suryakumar Rizwan,24,Batsman,8,15,38,1,6,148,64,No,4,1,2,73,51,Medium,Low
+PL0031,Rashid Maxwell,21,Bowler,5,127,59,3,8,134,49,Yes,2,3,2,90,37,Medium,Medium
+PL0032,Glenn Stokes,19,Bowler,1,128,55,2,5,97,87,Yes,0,6,3,55,55,Medium,Medium
+PL0033,Ravindra Azam,35,Batsman,4,17,34,3,5,138,45,No,7,1,5,46,68,Medium,Low
+PL0034,Temba Warner,39,Bowler,7,230,84,7,7,140,67,Yes,0,4,2,56,41,High,High
+PL0035,Kane Buttler,32,Batsman,2,13,48,6,7,115,73,Yes,8,1,2,73,51,Low,Medium
+PL0036,Aaron Jadeja,19,Wicket Keeper,4,1,37,7,7,109,71,No,3,1,8,91,21,Low,Low
+PL0037,Travis Archer,27,Wicket Keeper,3,7,51,5,7,121,72,Yes,3,1,8,51,56,Medium,Medium
+PL0038,Jos Rabada,29,All-Rounder,2,116,40,7,8,107,71,Yes,5,4,4,49,40,Medium,Medium
+PL0039,Rohit Finch,31,Bowler,5,155,80,6,4,137,59,Yes,0,3,2,83,61,Medium,High
+PL0040,Anrich Rizwan,35,Wicket Keeper,7,2,30,2,10,139,40,Yes,6,0,4,74,44,Medium,Medium
+PL0041,Mohammad Gill,24,All-Rounder,2,146,73,7,10,86,87,No,2,5,3,91,46,Low,Low
+PL0042,Shubman Khan,22,Batsman,2,15,54,7,6,131,46,Yes,5,0,4,60,68,Medium,Medium
+PL0043,Rohit Starc,38,All-Rounder,3,153,59,5,9,113,50,No,3,4,4,96,49,Medium,Low
+PL0044,Ravindra Maxwell,38,All-Rounder,8,79,40,2,4,148,96,No,5,5,5,60,17,Medium,Medium
+PL0045,Shaheen Pandya,23,Wicket Keeper,3,9,36,6,4,128,63,Yes,4,1,5,45,57,Medium,Medium
+PL0046,Travis Cummins,25,Wicket Keeper,2,6,43,5,9,80,100,No,3,1,6,89,34,Low,Low
+PL0047,Travis Pandya,19,All-Rounder,4,78,44,3,9,114,59,No,2,3,3,99,18,Low,Low
+PL0048,Rishabh Kohli,26,Batsman,7,7,21,1,7,128,74,Yes,5,0,2,62,60,Medium,Medium
+PL0049,Quinton Afridi,17,Batsman,3,16,49,1,10,121,42,Yes,7,1,4,45,56,Medium,Medium
+PL0050,Joe Smith,35,Wicket Keeper,1,7,64,7,5,106,77,Yes,4,1,8,88,72,Low,Medium
+PL0051,Aaron Afridi,34,Batsman,8,12,54,4,6,158,56,No,6,0,3,53,45,Medium,Medium
+PL0052,Jasprit Rahul,26,Batsman,1,18,56,5,8,81,89,No,7,1,4,95,50,Low,Low
+PL0053,Kane Archer,30,Bowler,6,121,62,5,5,143,48,Yes,0,7,4,69,20,Medium,High
+PL0054,Travis Smith,32,Wicket Keeper,4,9,47,7,4,128,69,Yes,4,0,4,79,26,Medium,High
+PL0055,Glenn Starc,26,Wicket Keeper,5,8,41,2,5,139,77,Yes,3,0,7,42,35,Medium,Medium
+PL0056,Quinton Finch,22,Batsman,6,2,37,6,8,146,45,No,8,0,5,100,41,Medium,Low
+PL0057,Mohammad Sharma,31,Bowler,6,217,89,1,10,119,44,Yes,1,5,1,61,51,Medium,Medium
+PL0058,Suryakumar Nortje,35,All-Rounder,1,128,59,7,10,67,100,No,3,4,2,49,13,Low,Low
+PL0059,Rohit Iyer,16,Bowler,8,118,100,1,5,155,67,No,0,7,3,81,57,Medium,Medium
+PL0060,Travis Khan,22,Batsman,5,15,30,6,5,130,91,No,7,0,2,70,63,Medium,Low
+PL0061,Glenn Smith,29,All-Rounder,6,106,40,5,9,105,100,No,3,4,5,73,22,Low,Low
+PL0062,Glenn Starc,30,Batsman,2,10,46,3,9,100,76,No,4,1,3,90,28,Low,Low
+PL0063,Shubman Bavuma,40,Bowler,8,196,92,2,5,145,89,No,0,3,3,71,0,Medium,Medium
+PL0064,Mitchell Maxwell,20,All-Rounder,7,130,71,3,10,117,76,Yes,2,3,3,96,6,Medium,Medium
+PL0065,Rohit Afridi,40,Bowler,7,197,54,1,8,136,59,No,2,4,2,99,72,Medium,Low
+PL0066,Steve Starc,19,Batsman,7,12,60,1,5,156,49,Yes,4,0,4,61,24,Medium,High
+PL0067,Rishabh Head,23,Batsman,1,16,41,7,7,104,68,Yes,7,0,4,63,11,Low,Medium
+PL0068,Virat Azam,16,Bowler,7,180,70,6,10,122,64,No,1,7,4,99,58,Medium,Low
+PL0069,Rishabh Starc,40,Bowler,8,131,68,7,6,164,40,Yes,2,5,3,58,9,High,High
+PL0070,Aaron Yadav,26,Wicket Keeper,7,5,33,5,7,126,93,Yes,3,0,7,53,45,Medium,Medium
+PL0071,Temba Nortje,23,Wicket Keeper,7,10,60,4,9,129,57,No,5,1,4,96,48,Medium,Low
+PL0072,Lokesh Stokes,40,Bowler,8,108,58,6,6,165,49,No,1,3,4,45,39,High,Medium
+PL0073,Suryakumar Bavuma,33,Bowler,3,229,73,2,5,131,55,No,0,4,4,58,16,Medium,Medium
+PL0074,Travis Khan,19,Wicket Keeper,8,9,52,1,6,151,53,Yes,5,0,6,79,34,Medium,Medium
+PL0075,Steve Williamson,16,All-Rounder,5,113,49,4,4,143,82,No,4,4,2,44,8,Medium,Medium
+PL0076,Pat Head,34,Batsman,2,1,36,5,7,96,89,Yes,8,1,3,54,31,Low,Medium
+PL0077,Suryakumar Rabada,35,Batsman,7,16,25,2,8,129,62,No,8,0,3,95,70,Low,Low
+PL0078,Shaheen Starc,20,All-Rounder,4,148,47,2,7,127,75,No,5,3,4,81,22,Medium,Low
+PL0079,Kane Starc,30,Wicket Keeper,2,2,59,6,9,110,49,Yes,5,0,8,85,72,Low,Medium
+PL0080,Travis Smith,32,Wicket Keeper,8,6,43,1,9,135,74,No,4,0,6,66,15,Medium,Low
+PL0081,Rohit Nortje,38,Batsman,1,3,48,4,10,105,51,Yes,8,0,2,99,14,Low,Medium
+PL0082,Kane Smith,38,Wicket Keeper,6,5,41,7,4,150,80,No,3,0,8,52,60,Medium,Low
+PL0083,Babur Jadeja,35,All-Rounder,5,172,68,2,4,138,93,No,4,3,4,92,31,Medium,Low
+PL0084,Kane Warner,27,All-Rounder,7,109,77,5,6,137,81,Yes,5,2,4,62,69,Medium,Medium
+PL0085,Joe Buttler,38,Wicket Keeper,8,1,66,7,10,138,43,No,6,1,8,66,26,Medium,Low
+PL0086,Suryakumar Pandya,30,Batsman,7,13,37,4,9,118,76,Yes,4,0,5,73,42,Medium,Medium
+PL0087,Anrich Rizwan,28,Bowler,4,144,70,1,9,111,72,Yes,2,6,4,65,15,Medium,Medium
+PL0088,Mitchell Gill,34,Bowler,5,104,62,7,6,132,78,Yes,0,4,1,54,26,Medium,High
+PL0089,Temba Warner,34,Wicket Keeper,8,6,51,4,7,137,71,Yes,5,1,5,70,3,Medium,High
+PL0090,Shubman Rabada,40,Bowler,3,248,62,7,9,98,86,No,1,7,3,77,14,Medium,Low
+PL0091,Rashid Starc,31,All-Rounder,3,68,71,1,7,124,45,Yes,4,5,5,66,27,Medium,Medium
+PL0092,Joe Finch,29,All-Rounder,4,147,73,1,9,115,73,Yes,3,3,2,40,2,Medium,Medium
+PL0093,Rashid Smith,37,Bowler,8,194,66,6,5,160,45,No,1,5,1,92,2,High,Medium
+PL0094,Shubman Bumrah,30,Bowler,6,208,89,1,10,115,87,Yes,1,7,3,55,51,Medium,Medium
+PL0095,Kagiso Afridi,25,Batsman,3,4,57,2,10,94,93,No,6,1,4,93,28,Low,Low
+PL0096,Shaheen Iyer,25,Wicket Keeper,5,2,44,6,8,107,84,Yes,5,1,8,61,28,Medium,Medium
+PL0097,Shaheen Head,28,Wicket Keeper,3,4,47,1,7,96,92,No,5,0,4,91,57,Low,Low
+PL0098,Suryakumar Stokes,38,Wicket Keeper,6,10,55,3,5,153,64,Yes,5,1,4,93,27,Medium,Medium
+PL0099,Kane Maxwell,17,Bowler,6,243,91,7,5,126,89,No,2,3,4,88,49,Medium,Medium
+PL0100,Babur Root,39,Wicket Keeper,1,6,35,3,6,105,62,No,4,1,8,60,22,Low,Low
+PL0101,Glenn Rahul,38,All-Rounder,1,153,43,3,6,117,64,Yes,5,5,5,64,59,Medium,Medium
+PL0102,Pat Bumrah,20,Bowler,7,127,90,6,4,166,51,No,0,5,1,49,21,High,Medium
+PL0103,Suryakumar Smith,27,Batsman,2,3,37,3,10,94,55,Yes,5,1,5,80,61,Low,Medium
+PL0104,David de Kock,18,All-Rounder,3,51,71,4,5,124,78,Yes,4,5,4,84,56,Medium,Medium
+PL0105,Joe Smith,35,All-Rounder,3,103,50,1,6,141,43,Yes,5,4,4,55,27,Medium,High
+PL0106,Temba Pandya,33,Wicket Keeper,4,9,67,3,10,106,72,Yes,6,0,8,61,51,Low,Medium
+PL0107,Aaron Stokes,40,Batsman,8,0,59,1,8,144,52,Yes,4,0,3,93,7,Medium,Medium
+PL0108,Mohammad Azam,25,Batsman,4,4,40,1,10,92,81,No,7,1,3,84,55,Low,Low
+PL0109,Rohit Bavuma,35,All-Rounder,3,122,43,6,8,122,58,Yes,5,5,4,43,70,Medium,Medium
+PL0110,Aaron Afridi,38,All-Rounder,1,83,78,3,9,88,77,No,4,3,4,92,46,Low,Low
+PL0111,Jos Afridi,17,Bowler,3,102,96,5,10,93,86,No,2,5,3,42,33,Medium,Low
+PL0112,Suryakumar Sharma,35,Wicket Keeper,1,6,61,6,9,84,84,Yes,4,1,5,78,15,Low,Medium
+PL0113,Quinton Bumrah,37,Wicket Keeper,5,7,55,5,7,116,68,Yes,4,1,6,44,6,Medium,High
+PL0114,Steve Khan,21,Bowler,3,219,76,6,9,114,52,No,1,6,4,81,38,Medium,Low
+PL0115,Shaheen Root,30,Wicket Keeper,7,3,52,6,7,149,44,No,5,0,4,40,17,Medium,Medium
+PL0116,Ravindra Kohli,30,Wicket Keeper,2,4,47,4,7,92,94,Yes,4,0,5,40,12,Low,Medium
+PL0117,Hardik Pandya,24,Batsman,5,10,60,2,9,131,50,Yes,8,1,4,60,22,Medium,Medium
+PL0118,Ravindra Sharma,36,Wicket Keeper,3,3,49,3,5,132,68,Yes,4,0,7,78,65,Medium,Medium
+PL0119,Anrich Maxwell,36,Batsman,3,5,44,6,7,129,55,No,5,0,5,69,70,Medium,Low
+PL0120,Kane Williamson,18,Bowler,5,188,95,1,8,107,90,Yes,2,6,3,96,41,Medium,Medium
+PL0121,Joe Smith,32,All-Rounder,3,76,67,3,4,131,88,No,3,2,5,84,13,Medium,Low
+PL0122,Jofra Warner,18,Wicket Keeper,7,4,67,6,4,159,57,No,6,1,8,41,47,High,Medium
+PL0123,Jasprit Jadeja,22,Bowler,4,115,100,1,8,129,50,No,1,6,2,75,38,Medium,Low
+PL0124,Rashid Bumrah,22,All-Rounder,5,56,72,5,10,116,77,No,3,3,3,55,44,Medium,Low
+PL0125,Steve Buttler,36,Batsman,3,9,54,4,6,115,95,Yes,6,1,4,70,43,Low,Medium
+PL0126,Ben Bavuma,29,Bowler,2,224,57,1,5,135,55,No,0,4,3,82,47,Medium,Low
+PL0127,Anrich Maxwell,33,Bowler,3,130,52,1,7,138,40,Yes,2,5,4,90,8,Medium,Medium
+PL0128,Rohit Stokes,36,Bowler,7,168,61,6,6,126,90,Yes,1,3,1,84,10,Medium,High
+PL0129,Suryakumar Yadav,34,Batsman,7,13,21,6,8,136,47,Yes,4,0,3,80,6,Medium,Medium
+PL0130,Hardik Rahul,19,Bowler,7,215,94,3,4,130,96,No,1,6,2,63,49,Medium,Medium
+PL0131,Shaheen Jadeja,33,Wicket Keeper,7,6,55,5,10,121,52,No,4,1,7,97,0,Medium,Low
+PL0132,Mitchell de Kock,39,All-Rounder,7,139,63,6,4,141,93,No,4,2,3,57,3,Medium,Medium
+PL0133,Shaheen Afridi,24,Bowler,2,169,88,5,7,114,45,Yes,2,5,3,72,61,Medium,Medium
+PL0134,Kagiso Finch,29,Bowler,4,250,50,5,6,114,98,Yes,1,7,3,78,67,Medium,Medium
+PL0135,Pat Rizwan,16,Bowler,6,125,86,2,10,109,88,Yes,1,6,1,100,13,Low,Medium
+PL0136,Travis Kohli,21,Batsman,6,13,22,7,4,147,52,No,8,0,3,64,15,Medium,Medium
+PL0137,Shubman Bumrah,36,Bowler,4,122,98,1,6,142,40,Yes,1,7,4,64,60,Medium,High
+PL0138,Mitchell Buttler,40,Batsman,2,2,51,4,6,108,65,Yes,8,1,4,91,34,Low,Medium
+PL0139,Jos Rizwan,27,Wicket Keeper,3,6,53,6,8,126,49,Yes,3,1,6,43,66,Medium,Medium
+PL0140,Hardik Starc,29,Batsman,8,12,57,7,7,138,61,No,4,0,3,55,32,Medium,Medium
+PL0141,Jos Rizwan,24,Wicket Keeper,3,7,54,3,8,102,87,No,5,0,8,90,54,Low,Low
+PL0142,Rohit Sharma,39,Batsman,6,9,32,6,6,156,40,No,7,0,5,65,50,Medium,Low
+PL0143,Aaron Bavuma,29,Wicket Keeper,1,8,44,5,7,119,49,Yes,6,1,6,61,40,Medium,Medium
+PL0144,Ravindra de Kock,20,All-Rounder,8,56,57,7,8,120,98,No,3,5,5,87,4,Medium,Low
+PL0145,Steve Maxwell,40,Bowler,8,167,61,5,9,123,81,No,0,7,1,91,43,Medium,Low
+PL0146,Shubman Gill,21,Bowler,6,143,96,5,7,133,48,No,0,5,2,41,23,High,Medium
+PL0147,Suryakumar Maxwell,36,Wicket Keeper,7,3,60,4,7,149,58,No,3,1,6,65,25,Medium,Low
+PL0148,David Cummins,40,All-Rounder,7,57,58,6,9,114,83,No,3,5,2,84,56,Medium,Low
+PL0149,Kagiso Starc,20,Batsman,6,4,26,6,6,143,62,No,7,0,3,58,59,Medium,Low
+PL0150,Glenn Finch,21,Wicket Keeper,2,6,41,3,7,113,78,Yes,3,1,5,59,34,Low,Medium
+PL0151,Virat Starc,23,Bowler,4,146,99,5,9,123,51,Yes,1,7,1,81,54,Medium,Medium
+PL0152,Glenn Warner,36,Bowler,5,137,54,3,7,118,94,No,0,4,3,68,36,Medium,Low
+PL0153,Kagiso Gill,20,Batsman,4,7,25,7,7,119,59,No,8,1,3,56,52,Medium,Low
+PL0154,Mitchell Finch,30,Bowler,8,127,80,5,6,150,41,No,2,6,1,74,3,High,Medium
+PL0155,Jofra Kohli,17,Wicket Keeper,2,2,36,5,8,95,98,Yes,4,1,8,64,68,Low,Medium
+PL0156,Jos de Kock,24,Batsman,4,18,34,3,8,104,93,No,4,0,4,80,13,Low,Low
+PL0157,Aaron Azam,28,Bowler,4,145,64,1,4,132,92,No,2,6,3,90,14,Medium,Low
+PL0158,Suryakumar Warner,36,Wicket Keeper,5,5,49,3,7,109,86,Yes,6,1,8,90,5,Low,Medium
+PL0159,Jos de Kock,32,Bowler,7,230,95,5,6,142,67,No,2,7,3,79,2,High,Medium
+PL0160,Virat Stokes,18,Bowler,8,158,76,6,4,155,90,No,1,3,4,73,29,Medium,Medium
+PL0161,Shaheen Cummins,33,Wicket Keeper,3,3,59,7,9,93,94,No,4,1,7,69,7,Low,Low
+PL0162,Virat Bavuma,38,Wicket Keeper,5,10,49,4,7,145,41,Yes,5,0,4,74,53,Medium,Medium
+PL0163,Shubman de Kock,24,Wicket Keeper,7,8,70,4,7,147,65,Yes,4,0,8,54,60,Medium,Medium
+PL0164,Hardik Smith,35,Wicket Keeper,5,6,34,5,5,136,76,Yes,6,1,6,64,71,Medium,Medium
+PL0165,Travis Head,28,All-Rounder,5,52,45,4,10,100,94,Yes,2,5,4,40,60,Medium,Medium
+PL0166,Kagiso Maxwell,33,Batsman,8,1,51,7,7,132,97,No,5,0,3,58,8,Medium,Low
+PL0167,Rohit Starc,29,All-Rounder,6,139,44,2,7,119,75,No,3,5,4,75,60,Medium,Low
+PL0168,Virat Starc,17,Wicket Keeper,7,6,35,5,9,142,41,Yes,3,0,4,52,53,Medium,Medium
+PL0169,Anrich Warner,23,All-Rounder,7,146,78,1,8,138,56,Yes,3,5,2,82,54,Medium,Medium
+PL0170,Jos Finch,22,Bowler,4,168,58,5,7,134,40,Yes,1,7,3,73,13,Medium,High
+PL0171,Jasprit Maxwell,19,All-Rounder,2,94,49,5,6,131,52,Yes,2,4,5,76,69,Medium,Medium
+PL0172,Babur Stokes,16,Batsman,2,10,25,1,5,123,56,Yes,6,0,4,68,33,Medium,Medium
+PL0173,Shubman Rizwan,39,Bowler,7,214,97,2,10,134,46,No,2,6,3,46,31,High,Medium
+PL0174,Babur Bumrah,36,Bowler,6,205,89,1,5,123,97,No,1,5,4,91,43,Medium,Low
+PL0175,Travis Iyer,17,Bowler,1,102,51,3,4,100,94,No,2,6,4,74,14,Low,Low
+PL0176,Hardik Kohli,30,All-Rounder,1,144,52,2,7,105,80,No,2,2,4,76,54,Low,Low
+PL0177,Rishabh Pandya,24,All-Rounder,6,123,50,4,9,121,79,Yes,2,4,3,49,14,Medium,Medium
+PL0178,Joe Starc,20,Wicket Keeper,6,5,57,1,10,105,93,No,4,1,5,63,35,Low,Low
+PL0179,Anrich Rahul,37,Wicket Keeper,7,0,33,5,9,120,79,No,5,0,5,77,6,Low,Low
+PL0180,Aaron Warner,26,Batsman,1,10,36,4,4,122,45,No,4,0,4,54,19,Medium,Medium
+PL0181,Temba de Kock,28,Bowler,3,125,86,1,7,113,74,Yes,2,5,3,52,49,Medium,Medium
+PL0182,Rishabh Rizwan,33,Bowler,8,212,79,5,7,134,78,No,2,7,4,51,47,High,Medium
+PL0183,Shreyas Starc,32,Bowler,1,137,74,3,7,100,82,No,2,6,1,99,15,Low,Low
+PL0184,Lokesh Warner,18,Batsman,2,9,28,7,8,96,68,No,4,1,4,77,3,Low,Low
+PL0185,Mitchell Smith,25,All-Rounder,7,54,67,1,10,129,72,Yes,2,3,3,45,22,Medium,Medium
+PL0186,Virat Buttler,26,Bowler,2,116,66,7,10,106,62,No,1,3,1,72,66,Medium,Low
+PL0187,Kane Starc,36,Wicket Keeper,3,7,40,7,6,111,81,Yes,4,0,4,77,1,Low,Medium
+PL0188,Steve Afridi,22,Wicket Keeper,5,7,33,3,4,140,87,Yes,4,1,6,53,41,Medium,Medium
+PL0189,Mohammad de Kock,25,Batsman,7,3,59,7,8,140,60,No,8,1,2,58,24,Medium,Low
+PL0190,Pat Nortje,19,Batsman,8,13,29,2,4,178,41,Yes,5,1,5,44,4,High,High
+PL0191,Jos Afridi,32,Wicket Keeper,7,1,38,1,4,151,56,No,5,1,5,66,51,Medium,Medium
+PL0192,Babur Iyer,40,Batsman,3,2,48,7,10,97,56,Yes,4,1,2,91,0,Low,Medium
+PL0193,Jofra Smith,25,Bowler,1,235,53,5,9,107,58,No,2,3,1,89,23,Medium,Low
+PL0194,Suryakumar Finch,20,Bowler,2,170,72,2,10,92,68,No,0,3,1,60,59,Medium,Low
+PL0195,Mitchell Warner,39,Batsman,6,19,34,5,5,141,50,Yes,7,0,2,84,39,Medium,High
+PL0196,Lokesh Archer,21,Wicket Keeper,4,10,69,2,5,134,52,Yes,3,1,8,90,10,Medium,High
+PL0197,Jos Sharma,31,Wicket Keeper,2,0,65,2,4,142,55,No,6,0,7,96,37,Medium,Low
+PL0198,Babur Afridi,31,All-Rounder,4,75,68,5,6,102,98,Yes,2,5,3,77,72,Medium,Medium
+PL0199,Glenn de Kock,39,Wicket Keeper,7,8,36,1,10,121,88,No,3,0,7,58,9,Low,Low
+PL0200,Steve Smith,34,Bowler,5,150,69,5,10,87,97,Yes,2,4,1,72,63,Medium,Medium
+PL0201,Shubman Sharma,17,Bowler,7,103,100,1,6,152,62,Yes,1,3,1,98,37,Medium,High
+PL0202,Jasprit Rabada,17,Batsman,6,7,27,4,6,138,67,No,7,1,4,80,36,Medium,Low
+PL0203,David Pant,16,Wicket Keeper,6,7,33,4,4,140,79,Yes,4,1,6,80,70,Medium,Medium
+PL0204,David Maxwell,27,Bowler,7,219,60,4,9,129,77,No,2,5,2,95,2,Medium,Low
+PL0205,David Azam,25,Bowler,4,177,57,4,4,143,40,Yes,1,4,1,71,40,Medium,High
+PL0206,Virat Head,40,All-Rounder,5,79,56,7,4,141,60,No,4,3,3,55,64,Medium,Medium
+PL0207,Jasprit Afridi,36,Bowler,7,188,94,6,6,125,80,No,2,7,4,54,24,High,Medium
+PL0208,Shubman Iyer,34,Batsman,5,10,31,5,10,124,53,No,5,1,3,74,44,Low,Low
+PL0209,Glenn Yadav,35,Batsman,8,5,28,2,6,161,41,Yes,8,1,5,81,68,Medium,Medium
+PL0210,Travis Rizwan,19,Batsman,2,5,59,3,6,107,77,No,6,0,2,45,40,Medium,Low
+PL0211,Jos Root,32,All-Rounder,4,100,55,1,10,120,60,No,3,4,2,91,19,Low,Low
+PL0212,Pat Bavuma,35,Wicket Keeper,4,4,45,1,5,153,42,No,3,0,8,71,62,Medium,Low
+PL0213,Lokesh Kohli,39,Batsman,4,18,41,2,6,141,41,No,7,0,5,94,64,Medium,Low
+PL0214,Aaron Williamson,17,Wicket Keeper,7,7,62,1,5,135,96,No,3,1,6,81,0,Medium,Low
+PL0215,Temba Pandya,34,Batsman,8,14,35,1,10,120,81,Yes,7,0,4,61,68,Medium,Medium
+PL0216,Babur Pandya,32,Bowler,6,227,88,4,8,116,97,No,1,3,4,54,4,Medium,Medium
+PL0217,Jofra Jadeja,27,All-Rounder,2,169,64,4,10,81,81,Yes,4,4,4,95,59,Low,Medium
+PL0218,Shubman Williamson,17,Bowler,2,173,83,3,9,86,84,No,1,3,2,97,32,Low,Low
+PL0219,Temba Nortje,20,Batsman,6,7,26,2,8,146,43,Yes,7,0,5,58,45,Medium,Medium
+PL0220,Rashid Iyer,17,Batsman,2,7,31,3,4,118,84,Yes,7,0,2,68,20,Low,Medium
+PL0221,Jofra Smith,33,All-Rounder,5,78,61,5,6,123,100,No,5,2,3,41,44,Medium,Low
+PL0222,Anrich Nortje,40,All-Rounder,3,116,53,6,9,127,40,Yes,4,2,3,53,40,Medium,Medium
+PL0223,David Rahul,39,Bowler,1,218,52,6,4,129,48,No,1,7,1,49,22,Medium,Medium
+PL0224,Jofra Afridi,31,Bowler,5,118,67,2,4,130,82,Yes,2,4,2,97,58,Medium,Medium
+PL0225,Quinton Smith,26,All-Rounder,4,97,62,1,8,139,42,No,5,3,4,80,55,Medium,Low
+PL0226,Ben Afridi,27,Wicket Keeper,3,3,69,7,10,115,41,Yes,6,1,8,65,8,Medium,Medium
+PL0227,Babur Stokes,25,Bowler,6,137,59,2,7,139,41,No,1,6,1,89,29,Medium,Low
+PL0228,Mohammad Rahul,38,Bowler,5,178,65,5,9,108,81,Yes,0,7,1,72,67,Medium,Medium
+PL0229,Quinton Smith,29,Bowler,5,109,99,2,9,106,100,Yes,2,6,1,96,59,Low,Medium
+PL0230,Steve Jadeja,35,Batsman,1,6,41,1,9,96,68,No,6,1,2,54,43,Low,Low
+PL0231,Rohit de Kock,34,All-Rounder,2,69,56,5,5,97,96,Yes,3,3,5,89,69,Low,Medium
+PL0232,Rashid Starc,27,Bowler,2,213,87,3,6,111,85,No,0,3,1,59,56,Medium,Low
+PL0233,Travis Finch,20,All-Rounder,4,96,50,7,4,136,86,No,3,5,4,92,25,Medium,Low
+PL0234,Mitchell Pant,40,Bowler,3,196,88,5,8,109,87,No,1,4,2,88,32,Medium,Low
+PL0235,Steve Khan,19,All-Rounder,1,137,40,7,8,106,44,No,4,5,5,64,59,Medium,Low
+PL0236,Aaron Rabada,21,Batsman,8,3,27,1,8,148,47,No,4,0,3,54,15,Medium,Low
+PL0237,Virat Finch,32,Batsman,5,5,54,4,9,124,63,No,8,1,4,50,63,Medium,Low
+PL0238,Lokesh Bumrah,37,Bowler,3,144,80,3,4,133,43,No,2,7,3,84,32,Medium,Medium
+PL0239,Temba Gill,39,Bowler,7,240,66,2,6,133,95,No,2,6,2,52,38,Medium,Medium
+PL0240,Steve Jadeja,31,Batsman,6,4,46,2,7,138,44,No,5,1,2,100,5,Medium,Low
+PL0241,Temba Finch,32,Bowler,3,249,73,2,6,139,40,Yes,0,6,4,63,29,Medium,High
+PL0242,Rishabh Cummins,31,Wicket Keeper,2,6,37,2,8,109,70,No,5,1,6,93,61,Low,Low
+PL0243,Anrich Rizwan,38,Bowler,8,135,79,6,5,136,84,Yes,2,4,3,94,42,Medium,High
+PL0244,Travis Iyer,21,Wicket Keeper,6,9,38,1,8,128,75,Yes,5,1,6,50,13,Medium,Medium
+PL0245,Mohammad Bavuma,39,All-Rounder,8,161,47,6,4,159,74,Yes,5,5,3,54,15,High,High
+PL0246,David Buttler,33,Batsman,3,13,30,4,6,133,55,Yes,7,1,2,45,28,Medium,Medium
+PL0247,Shubman Archer,24,Bowler,6,175,81,7,4,131,80,Yes,2,7,1,86,20,Medium,High
+PL0248,Shreyas Buttler,39,All-Rounder,4,124,62,7,10,121,51,No,3,3,4,87,42,Medium,Low
+PL0249,Shubman Stokes,35,All-Rounder,2,107,73,1,4,109,95,No,4,5,4,66,6,Medium,Low
+PL0250,Mohammad Finch,35,Batsman,3,12,51,1,4,127,81,No,5,1,2,59,50,Medium,Low
+PL0251,Virat Nortje,35,Wicket Keeper,6,5,42,3,9,116,77,Yes,3,1,4,94,67,Low,Medium
+PL0252,Jasprit Pant,25,Wicket Keeper,3,8,65,6,6,111,79,Yes,6,0,7,85,68,Low,Medium
+PL0253,Kane Gill,26,Wicket Keeper,5,1,38,7,4,143,57,Yes,6,0,4,65,41,Medium,High
+PL0254,Joe Sharma,37,Wicket Keeper,5,3,44,6,6,116,80,Yes,3,0,8,81,11,Medium,Medium
+PL0255,Suryakumar Cummins,21,All-Rounder,3,122,62,5,5,117,71,Yes,2,3,2,73,47,Medium,Medium
+PL0256,Jos Azam,33,Bowler,5,225,79,3,7,117,72,Yes,1,7,2,83,5,Medium,High
+PL0257,Kagiso Kohli,36,Batsman,3,1,50,7,5,105,100,Yes,4,0,4,68,24,Low,Medium
+PL0258,Aaron Afridi,28,Bowler,5,110,64,7,4,128,88,Yes,0,5,2,67,70,Medium,Medium
+PL0259,Glenn Azam,34,Batsman,8,19,30,5,5,154,78,No,6,1,2,93,63,Medium,Low
+PL0260,Jofra Buttler,36,Wicket Keeper,7,6,42,6,8,112,93,No,5,1,8,63,47,Medium,Low
+PL0261,Hardik Kohli,17,Batsman,4,11,21,3,8,96,89,Yes,7,0,4,87,10,Low,Medium
+PL0262,Glenn Jadeja,16,Bowler,7,209,81,7,10,108,80,Yes,0,4,4,55,44,Medium,Medium
+PL0263,Jasprit Buttler,23,Batsman,1,7,24,4,9,84,98,No,7,0,5,82,16,Low,Low
+PL0264,Anrich Rizwan,20,Bowler,6,112,74,4,10,117,51,Yes,0,5,2,100,44,Medium,Medium
+PL0265,Suryakumar Smith,40,All-Rounder,3,132,57,6,6,105,97,No,3,2,3,70,47,Medium,Low
+PL0266,Joe Maxwell,23,Bowler,8,182,71,4,7,135,84,Yes,1,6,1,40,10,Medium,High
+PL0267,Kane Starc,40,All-Rounder,2,129,62,4,7,103,89,No,4,2,2,81,68,Low,Low
+PL0268,Lokesh Iyer,18,All-Rounder,8,98,71,4,4,152,82,Yes,2,4,4,61,31,Medium,High
+PL0269,Shubman Kohli,35,Wicket Keeper,7,10,36,5,10,124,44,No,3,0,8,97,58,Medium,Low
+PL0270,Rishabh Bavuma,37,Batsman,2,9,38,6,10,84,90,No,4,1,2,84,54,Low,Low
+PL0271,Ravindra Pandya,16,Wicket Keeper,5,7,46,4,5,134,56,No,4,1,5,66,47,Medium,Low
+PL0272,Virat Cummins,18,Batsman,1,18,23,5,7,94,79,No,4,1,4,95,19,Low,Low
+PL0273,Shaheen Warner,21,Bowler,1,208,81,4,10,92,81,No,2,7,1,43,13,Medium,Low
+PL0274,Hardik Stokes,18,Batsman,8,11,25,4,7,147,59,Yes,7,1,5,80,70,Medium,Medium
+PL0275,Joe Warner,18,Wicket Keeper,3,7,49,3,10,106,42,No,4,1,6,100,48,Low,Low
+PL0276,Travis Root,18,Batsman,8,14,28,2,5,148,53,Yes,7,1,5,51,61,Medium,High
+PL0277,Mitchell Bavuma,23,Bowler,8,163,69,3,8,125,92,Yes,0,3,1,92,23,Medium,Medium
+PL0278,Kane Jadeja,28,Batsman,4,1,35,1,6,121,77,No,6,0,5,89,25,Low,Low
+PL0279,Rashid Root,26,Wicket Keeper,7,8,65,5,9,122,56,Yes,6,1,4,49,41,Medium,Medium
+PL0280,Rishabh Bumrah,32,Batsman,8,8,51,1,5,149,74,No,5,0,2,42,49,Medium,Medium
+PL0281,Pat Khan,39,Batsman,8,6,54,1,6,130,92,No,8,0,3,89,66,Medium,Low
+PL0282,Lokesh Bavuma,22,Wicket Keeper,6,2,39,1,6,130,92,No,4,0,4,62,66,Medium,Low
+PL0283,Hardik Bavuma,23,Wicket Keeper,2,9,50,6,5,102,88,No,4,1,8,91,45,Low,Low
+PL0284,Anrich Stokes,19,Batsman,1,19,46,3,4,103,87,No,8,0,3,42,48,Medium,Low
+PL0285,Joe Rizwan,23,All-Rounder,2,136,54,3,5,141,45,Yes,2,5,4,40,14,Medium,High
+PL0286,Kane Kohli,34,Wicket Keeper,8,9,62,2,8,135,55,No,4,1,8,69,41,Medium,Low
+PL0287,Temba Bumrah,19,Bowler,6,132,53,1,7,117,99,No,0,4,3,86,62,Medium,Low
+PL0288,Quinton Williamson,29,Batsman,1,14,60,2,10,85,92,Yes,7,0,3,87,49,Low,Medium
+PL0289,Anrich Finch,27,Batsman,8,18,50,3,9,137,48,No,8,1,4,48,40,Medium,Low
+PL0290,Rohit Stokes,25,Batsman,4,8,21,6,8,126,46,Yes,5,1,3,72,67,Medium,Medium
+PL0291,Rohit Head,37,Bowler,7,226,58,7,10,124,74,No,0,7,1,71,56,Medium,Low
+PL0292,Shubman Jadeja,30,All-Rounder,3,157,60,2,8,107,87,Yes,4,3,4,89,50,Low,Medium
+PL0293,Babur Rabada,25,Batsman,3,14,41,3,4,141,67,No,8,0,4,68,39,Medium,Low
+PL0294,Kagiso Jadeja,28,Wicket Keeper,5,5,64,2,8,112,100,No,4,0,6,45,6,Medium,Low
+PL0295,Mohammad Bumrah,23,Bowler,4,240,58,2,7,125,55,Yes,0,5,2,90,31,Medium,Medium
+PL0296,Pat Gill,27,All-Rounder,3,88,44,5,9,93,79,No,5,4,3,54,48,Medium,Low
+PL0297,Hardik Cummins,27,All-Rounder,4,118,65,5,4,152,47,Yes,3,2,2,94,2,Medium,High
+PL0298,Kagiso Iyer,28,Bowler,5,222,67,6,6,129,62,No,0,5,3,100,38,Medium,Low
+PL0299,Steve Azam,20,All-Rounder,7,129,79,4,8,120,84,No,2,4,3,94,1,Medium,Low
+PL0300,Mohammad Pant,33,All-Rounder,7,126,49,1,7,148,57,Yes,5,2,2,80,27,Medium,Medium
+PL0301,Rishabh Gill,25,Bowler,2,158,70,5,7,112,57,No,0,5,1,91,7,Medium,Low
+PL0302,Mohammad Sharma,22,Batsman,3,4,42,1,8,120,47,No,4,1,5,54,44,Medium,Low
+PL0303,Steve de Kock,26,Wicket Keeper,2,4,55,3,5,121,77,No,3,0,7,78,71,Low,Low
+PL0304,Mohammad Starc,33,Bowler,1,106,91,2,6,102,71,No,2,7,1,80,2,Medium,Low
+PL0305,Rashid Rabada,39,All-Rounder,2,164,58,5,10,104,71,No,5,2,5,51,55,Medium,Low
+PL0306,Shaheen Rabada,33,Wicket Keeper,1,7,48,5,10,95,62,Yes,3,1,7,71,3,Low,Medium
+PL0307,Pat Yadav,20,Batsman,6,0,20,7,5,139,62,No,6,1,2,56,25,Medium,Medium
+PL0308,Pat Pandya,28,Batsman,8,8,47,3,10,124,63,Yes,5,1,4,40,65,Medium,Medium
+PL0309,Jofra Bumrah,29,All-Rounder,6,144,58,3,7,134,76,No,4,3,2,52,61,Medium,Low
+PL0310,Shubman Rahul,38,Batsman,5,15,49,6,6,140,59,Yes,8,1,2,92,24,Medium,Medium
+PL0311,Mitchell Iyer,34,All-Rounder,6,111,66,5,6,126,95,Yes,3,5,5,45,65,Medium,Medium
+PL0312,Glenn Root,40,Bowler,4,126,61,4,9,110,85,Yes,0,6,4,55,11,Medium,Medium
+PL0313,Kagiso Buttler,36,Wicket Keeper,2,5,37,6,5,139,45,Yes,3,1,8,49,57,Medium,Medium
+PL0314,Anrich Finch,23,All-Rounder,7,134,63,7,7,123,90,No,2,4,5,46,22,Medium,Medium
+PL0315,Anrich Archer,33,Bowler,7,211,85,5,9,136,50,Yes,0,4,4,98,61,Medium,Medium
+PL0316,Shubman Cummins,35,Wicket Keeper,4,10,49,1,8,120,59,Yes,5,0,7,40,27,Medium,Medium
+PL0317,Kagiso Azam,31,Wicket Keeper,1,5,40,1,9,90,75,Yes,3,0,6,88,37,Low,Medium
+PL0318,Virat Pandya,31,Bowler,3,124,63,4,4,132,62,Yes,2,3,2,46,71,Medium,High
+PL0319,Shaheen Pant,28,All-Rounder,3,127,62,1,7,128,54,Yes,2,5,5,43,31,Medium,High
+PL0320,Shubman Starc,36,Batsman,8,14,52,6,8,121,84,Yes,5,0,5,90,22,Medium,Medium
+PL0321,Steve Yadav,21,Bowler,7,139,85,6,9,127,47,No,1,3,3,69,55,Medium,Low
+PL0322,Jasprit Azam,18,Wicket Keeper,4,7,55,2,8,93,98,Yes,4,0,6,90,66,Low,Medium
+PL0323,Hardik Khan,31,All-Rounder,6,171,53,1,8,135,61,No,2,3,3,49,13,Medium,Medium
+PL0324,Quinton Bumrah,21,Batsman,1,9,37,6,5,127,43,Yes,8,0,3,58,68,Medium,Medium
+PL0325,Jos Rahul,21,Wicket Keeper,1,0,43,1,8,101,75,Yes,3,1,4,48,44,Low,Medium
+PL0326,Temba Pant,37,All-Rounder,4,132,64,7,9,97,90,No,4,4,2,66,38,Medium,Low
+PL0327,Virat Rabada,40,Wicket Keeper,7,5,30,4,9,112,93,No,6,1,5,70,61,Low,Low
+PL0328,Jofra Cummins,33,All-Rounder,5,136,49,7,8,107,78,No,2,2,4,56,52,Medium,Low
+PL0329,Rishabh de Kock,17,Wicket Keeper,1,6,30,1,6,112,66,Yes,6,0,6,84,1,Low,Medium
+PL0330,Jofra Warner,34,Batsman,4,13,22,5,9,115,55,Yes,4,0,2,40,44,Medium,Medium
+PL0331,Aaron Bavuma,33,Bowler,7,211,99,2,10,100,100,No,0,5,2,51,21,Medium,Low
+PL0332,Shreyas Gill,29,All-Rounder,8,99,40,4,10,101,97,No,5,2,5,51,29,Medium,Low
+PL0333,Suryakumar Starc,17,Bowler,3,147,64,7,9,118,62,No,2,6,3,74,16,Medium,Low
+PL0334,Jofra Finch,27,Batsman,2,9,46,3,6,103,95,Yes,6,0,2,89,54,Low,Medium
+PL0335,Mitchell Head,35,All-Rounder,7,123,53,5,7,147,58,No,5,5,3,51,36,Medium,Medium
+PL0336,Rohit Williamson,21,Bowler,7,238,63,6,5,151,60,Yes,2,3,1,45,16,High,High
+PL0337,Jasprit Yadav,38,Bowler,7,147,92,1,6,133,63,No,2,6,1,51,30,High,Medium
+PL0338,Shubman Finch,25,Batsman,5,15,24,7,6,135,67,Yes,7,0,3,49,71,Medium,Medium
+PL0339,Jasprit Kohli,19,Batsman,3,3,58,3,9,85,95,No,7,1,2,89,20,Low,Low
+PL0340,Kane Archer,34,Wicket Keeper,1,3,31,1,5,110,80,No,6,1,6,44,4,Low,Low
+PL0341,Ben de Kock,30,Batsman,8,19,55,4,9,120,79,No,5,0,5,77,26,Medium,Low
+PL0342,Temba Bavuma,16,Batsman,3,5,32,6,8,115,58,Yes,8,0,5,56,4,Medium,Medium
+PL0343,Rohit Yadav,28,Batsman,1,20,56,6,7,114,69,Yes,7,0,2,75,13,Low,Medium
+PL0344,Shreyas Warner,22,Wicket Keeper,2,10,47,4,9,100,84,No,6,1,6,68,41,Low,Low
+PL0345,Rishabh Azam,22,All-Rounder,2,151,63,7,4,138,48,Yes,3,5,3,45,44,Medium,High
+PL0346,Suryakumar de Kock,23,All-Rounder,7,115,79,7,9,111,84,No,4,2,4,62,50,Medium,Low
+PL0347,Rashid Kohli,32,All-Rounder,1,127,45,3,8,103,62,No,3,5,2,100,9,Low,Low
+PL0348,Anrich Gill,36,Batsman,2,10,23,1,4,120,87,No,8,1,2,61,16,Low,Low
+PL0349,Kane Warner,18,Bowler,5,185,73,5,4,152,54,Yes,2,3,2,100,72,Medium,High
+PL0350,Kane Maxwell,22,Batsman,1,2,21,1,8,106,74,No,6,0,3,53,21,Low,Low
+PL0351,Jofra Smith,29,Wicket Keeper,5,0,59,2,9,102,75,No,3,1,8,41,29,Medium,Low
+PL0352,Shreyas Kohli,31,All-Rounder,8,155,58,7,8,124,100,Yes,3,2,4,63,41,Medium,Medium
+PL0353,Shubman Root,38,All-Rounder,7,173,58,5,6,120,94,Yes,2,3,3,70,64,Medium,Medium
+PL0354,Ravindra Pandya,18,Wicket Keeper,5,9,55,7,8,100,98,Yes,3,0,6,43,0,Medium,Medium
+PL0355,Shubman Cummins,20,Batsman,2,1,57,6,4,132,55,Yes,5,0,2,44,18,Medium,High
+PL0356,Jofra Maxwell,39,All-Rounder,1,63,67,1,6,89,97,Yes,2,2,2,77,24,Low,Medium
+PL0357,Kane Rizwan,20,Wicket Keeper,2,1,48,2,4,119,67,Yes,6,1,5,80,19,Medium,Medium
+PL0358,Mitchell Bumrah,16,Bowler,2,177,58,7,9,120,46,No,2,3,4,50,69,Medium,Low
+PL0359,Shubman Bavuma,25,Wicket Keeper,1,6,65,4,7,101,87,No,5,0,4,94,17,Low,Low
+PL0360,Shreyas Starc,27,Bowler,5,230,56,4,9,105,97,Yes,1,3,2,90,64,Low,Medium
+PL0361,Ben Warner,25,Bowler,5,185,94,4,10,105,62,No,1,7,4,70,28,Medium,Low
+PL0362,Mitchell Azam,39,Wicket Keeper,5,6,35,3,8,113,83,Yes,4,0,4,66,6,Low,Medium
+PL0363,Rohit Bumrah,24,Bowler,8,176,65,5,10,132,75,No,2,6,4,89,30,Medium,Low
+PL0364,Rishabh Warner,30,Wicket Keeper,5,5,50,7,8,123,67,Yes,3,0,8,44,20,Medium,Medium
+PL0365,Babur Iyer,32,Batsman,8,12,26,7,9,121,90,Yes,4,0,4,98,57,Low,Medium
+PL0366,Rohit Buttler,17,Batsman,7,10,50,2,9,148,41,Yes,6,0,4,97,51,Medium,Medium
+PL0367,Temba Rahul,23,Wicket Keeper,3,9,59,5,4,114,95,No,6,1,5,57,47,Medium,Low
+PL0368,Ben Stokes,19,All-Rounder,6,157,54,1,10,120,49,Yes,2,4,5,79,52,Medium,Medium
+PL0369,Ben Nortje,19,Batsman,3,4,51,5,6,109,90,Yes,7,1,3,47,0,Medium,Medium
+PL0370,Joe Yadav,22,Wicket Keeper,6,4,62,5,8,108,83,No,3,0,5,57,27,Medium,Low
+PL0371,Lokesh Jadeja,27,Wicket Keeper,4,8,42,1,7,111,93,No,6,0,5,90,11,Low,Low
+PL0372,Joe Azam,27,Bowler,1,236,58,6,7,115,44,Yes,1,3,4,75,35,Medium,Medium
+PL0373,Mohammad Afridi,23,Wicket Keeper,1,6,50,2,10,95,66,No,4,1,6,51,63,Low,Low
+PL0374,Temba Yadav,27,Batsman,2,5,38,4,8,116,55,No,7,1,5,81,63,Low,Low
+PL0375,Shubman Pandya,31,Wicket Keeper,6,2,69,7,7,118,81,No,6,0,7,56,19,Medium,Low
+PL0376,Jos Smith,26,Wicket Keeper,6,6,65,1,5,141,81,No,3,0,8,72,49,Medium,Low
+PL0377,Mohammad Head,30,All-Rounder,1,92,48,3,6,106,92,Yes,5,5,2,48,46,Medium,Medium
+PL0378,Virat Bavuma,27,Bowler,2,151,73,7,7,112,80,No,0,3,3,43,47,Medium,Low
+PL0379,Ravindra Maxwell,21,Batsman,8,5,39,5,8,144,64,Yes,5,1,5,96,2,Medium,Medium
+PL0380,Ravindra Stokes,35,Wicket Keeper,7,9,41,5,9,132,63,Yes,6,0,4,66,8,Medium,Medium
+PL0381,Babur Archer,40,All-Rounder,7,98,58,7,5,144,84,Yes,3,2,4,57,21,Medium,High
+PL0382,Jasprit Sharma,37,Wicket Keeper,1,1,56,2,4,119,64,Yes,6,1,8,73,48,Medium,Medium
+PL0383,Jasprit Rizwan,36,Wicket Keeper,7,8,47,5,10,135,41,Yes,3,0,7,45,51,Medium,Medium
+PL0384,Mitchell Bumrah,23,All-Rounder,1,150,80,7,10,75,80,No,3,3,4,44,4,Medium,Low
+PL0385,Shreyas Cummins,39,Batsman,1,3,22,4,8,109,71,No,4,1,2,99,22,Low,Low
+PL0386,Mohammad Gill,39,Batsman,7,2,48,6,4,143,98,No,5,0,5,74,28,Medium,Low
+PL0387,Kane Sharma,25,Bowler,1,119,74,5,4,137,55,No,1,6,4,69,29,Medium,Medium
+PL0388,Temba Williamson,31,Batsman,1,5,26,6,10,81,93,Yes,6,1,3,50,0,Low,Medium
+PL0389,Mohammad Nortje,21,Batsman,5,16,27,2,9,125,60,Yes,6,1,4,68,54,Low,Medium
+PL0390,Steve Rizwan,33,All-Rounder,4,81,54,5,8,109,96,Yes,4,3,5,53,54,Medium,Medium
+PL0391,Kagiso Cummins,37,Wicket Keeper,7,8,44,2,4,140,98,Yes,3,1,8,79,5,Medium,High
+PL0392,Glenn Starc,25,Bowler,6,152,54,7,7,134,60,No,1,3,4,93,2,Medium,Medium
+PL0393,Suryakumar Rahul,28,Bowler,4,221,72,4,4,127,81,No,1,7,1,58,62,Medium,Medium
+PL0394,Rohit Warner,25,All-Rounder,7,140,54,1,10,139,43,Yes,2,3,4,94,30,Medium,Medium
+PL0395,Kagiso Yadav,34,Bowler,1,150,96,3,7,116,43,No,1,6,4,66,48,Medium,Low
+PL0396,Joe Finch,39,Bowler,3,248,58,6,4,132,50,Yes,0,7,1,60,13,High,High
+PL0397,Travis Starc,38,Bowler,6,182,99,7,7,116,86,No,2,5,3,90,16,Medium,Medium
+PL0398,Mitchell Rabada,22,Wicket Keeper,2,1,42,5,4,139,55,No,4,0,6,73,54,Medium,Low
+PL0399,Suryakumar Head,18,Wicket Keeper,7,1,51,2,6,136,58,Yes,5,1,5,92,0,Medium,High
+PL0400,Jos Rabada,23,All-Rounder,8,60,46,3,4,154,59,Yes,2,3,4,65,2,Medium,High
+PL0401,Virat Rizwan,30,Bowler,3,227,74,5,10,113,57,Yes,2,7,2,62,63,Medium,Medium
+PL0402,Lokesh Nortje,17,Wicket Keeper,8,7,64,3,8,135,84,No,6,0,7,97,10,Medium,Low
+PL0403,Babur Khan,21,Batsman,3,16,55,2,8,92,93,No,8,0,2,86,31,Low,Low
+PL0404,Joe Azam,34,Wicket Keeper,6,10,34,5,10,135,44,Yes,3,0,6,53,9,Medium,Medium
+PL0405,Suryakumar Rabada,33,All-Rounder,8,95,45,4,6,124,91,No,4,4,4,55,40,Medium,Low
+PL0406,Suryakumar Jadeja,23,All-Rounder,1,171,54,1,6,107,84,Yes,2,5,3,61,67,Medium,Medium
+PL0407,David Iyer,17,All-Rounder,1,140,77,2,5,123,69,No,2,5,2,61,6,Medium,Medium
+PL0408,Shreyas Iyer,24,Batsman,1,12,27,4,7,92,99,Yes,7,1,5,86,42,Low,Medium
+PL0409,Jasprit Sharma,38,Wicket Keeper,4,2,64,1,10,115,57,Yes,5,1,8,67,57,Low,Medium
+PL0410,Aaron Warner,40,Batsman,2,5,30,3,6,112,57,No,4,0,5,66,34,Medium,Low
+PL0411,Virat Head,39,Bowler,2,133,76,6,8,127,41,No,2,7,3,86,2,Medium,Low
+PL0412,Shreyas de Kock,33,Wicket Keeper,4,8,35,4,5,119,71,No,5,1,6,54,61,Medium,Low
+PL0413,Quinton Pant,24,Wicket Keeper,8,10,53,2,6,125,96,No,5,0,5,66,5,Medium,Low
+PL0414,Shreyas Warner,37,Bowler,2,234,82,6,9,94,61,No,1,7,3,83,23,Medium,Low
+PL0415,Glenn de Kock,26,Wicket Keeper,7,3,63,2,6,139,68,Yes,3,0,5,67,46,Medium,Medium
+PL0416,Steve Rizwan,22,Bowler,4,159,53,6,8,118,68,No,0,6,2,94,21,Medium,Low
+PL0417,Quinton Finch,38,Wicket Keeper,7,6,64,2,8,108,94,Yes,4,0,5,99,13,Low,Medium
+PL0418,Pat Gill,26,Wicket Keeper,5,1,63,3,6,137,40,No,4,0,5,61,37,Medium,Medium
+PL0419,Anrich Root,24,Batsman,5,20,59,6,9,126,47,Yes,5,0,3,68,22,Medium,Medium
+PL0420,Mohammad Cummins,29,All-Rounder,1,94,69,3,10,101,43,Yes,3,5,3,51,21,Medium,Medium
+PL0421,Mohammad Bumrah,38,All-Rounder,3,98,61,4,10,100,77,Yes,2,4,2,81,4,Low,Medium
+PL0422,Jofra Pant,27,Wicket Keeper,6,7,45,7,10,107,70,No,4,1,6,85,69,Low,Low
+PL0423,Ravindra Afridi,37,All-Rounder,8,87,52,3,7,129,84,No,5,3,5,84,38,Medium,Low
+PL0424,Virat Khan,30,Batsman,3,5,28,7,8,115,52,No,8,1,5,93,27,Low,Low
+PL0425,Shaheen Gill,18,All-Rounder,5,76,58,7,4,160,44,No,3,2,2,99,66,Medium,Low
+PL0426,Quinton Pandya,24,All-Rounder,5,99,46,5,6,137,74,No,2,3,4,78,17,Medium,Low
+PL0427,Pat Pant,24,Batsman,8,11,44,5,10,119,71,No,4,0,3,69,15,Medium,Low
+PL0428,Rohit Smith,24,Wicket Keeper,2,6,53,7,10,120,40,Yes,6,1,5,90,6,Low,Medium
+PL0429,Pat Archer,20,Bowler,4,190,69,3,5,112,89,No,1,7,2,79,40,Medium,Low
+PL0430,Pat Gill,25,Batsman,2,16,51,4,6,103,74,Yes,4,1,3,76,10,Low,Medium
+PL0431,Jasprit Rizwan,34,Wicket Keeper,2,6,33,6,7,96,93,No,4,0,4,53,25,Low,Low
+PL0432,Shaheen Iyer,37,Wicket Keeper,6,6,31,3,4,146,69,No,3,1,4,62,45,Medium,Medium
+PL0433,David Head,36,All-Rounder,3,167,45,2,9,112,69,No,3,3,3,69,14,Medium,Low
+PL0434,Ravindra Root,35,All-Rounder,3,134,40,7,5,144,47,No,2,5,4,81,18,Medium,Medium
+PL0435,Travis Smith,23,All-Rounder,5,86,49,5,9,121,49,Yes,2,4,5,40,11,Medium,High
+PL0436,Glenn Nortje,23,Wicket Keeper,1,7,58,5,8,84,87,No,4,1,4,96,71,Low,Low
+PL0437,Rishabh Afridi,25,All-Rounder,8,147,51,1,4,141,79,No,3,2,3,94,70,Medium,Low
+PL0438,Kagiso Williamson,30,Bowler,5,130,65,3,4,141,86,Yes,2,4,4,81,28,Medium,High
+PL0439,Jos Finch,38,All-Rounder,7,103,42,3,8,137,59,No,4,2,5,91,50,Medium,Low
+PL0440,Babur Rizwan,20,All-Rounder,7,131,41,3,10,109,72,No,2,3,2,49,9,Medium,Low
+PL0441,Babur Archer,36,All-Rounder,8,162,77,2,6,138,74,Yes,5,2,3,96,43,Medium,Medium
+PL0442,Shreyas Head,39,All-Rounder,4,134,44,6,10,106,72,Yes,3,2,2,89,64,Low,Medium
+PL0443,Pat Archer,32,Wicket Keeper,3,0,35,1,7,109,78,Yes,4,1,4,65,59,Low,Medium
+PL0444,Lokesh Khan,40,Batsman,3,7,46,1,6,116,98,Yes,5,1,4,72,71,Low,Medium
+PL0445,Temba Head,30,Bowler,8,111,52,6,4,146,98,Yes,1,4,1,56,37,Medium,High
+PL0446,Shubman Smith,34,Batsman,7,18,57,4,6,157,54,Yes,4,0,5,60,44,Medium,High
+PL0447,Kagiso Root,16,Bowler,1,182,100,3,7,118,55,Yes,2,4,3,49,28,Medium,High
+PL0448,Babur Warner,24,All-Rounder,8,96,78,7,5,132,96,Yes,3,4,3,76,58,Medium,Medium
+PL0449,Steve Smith,35,Wicket Keeper,7,0,30,6,6,156,53,Yes,4,0,8,87,45,Medium,Medium
+PL0450,Virat Warner,17,All-Rounder,1,126,80,4,5,137,41,Yes,4,3,5,100,23,Medium,Medium
+PL0451,Rohit Maxwell,22,Wicket Keeper,2,5,36,4,7,97,95,No,3,0,4,65,21,Low,Low
+PL0452,Lokesh Root,26,Wicket Keeper,7,2,57,2,6,156,55,No,3,0,4,42,43,Medium,Medium
+PL0453,Travis Root,18,Batsman,2,18,28,1,4,144,41,Yes,7,1,5,72,29,Medium,High
+PL0454,Jofra de Kock,32,Wicket Keeper,6,3,45,5,6,134,72,Yes,3,0,8,63,0,Medium,High
+PL0455,Ben Khan,38,Batsman,7,11,51,7,7,144,57,No,8,1,3,91,65,Medium,Low
+PL0456,David Cummins,29,Bowler,1,214,78,7,9,104,57,Yes,1,4,2,72,13,Medium,Medium
+PL0457,Babur Afridi,28,Bowler,2,154,96,2,8,104,74,Yes,0,3,2,76,68,Medium,Medium
+PL0458,Temba Head,29,All-Rounder,7,82,62,5,6,121,94,Yes,4,4,5,68,6,Medium,High
+PL0459,Jos Nortje,26,Bowler,6,112,69,7,7,135,71,Yes,1,3,3,79,37,Medium,Medium
+PL0460,David Rabada,35,All-Rounder,2,126,77,6,10,106,51,No,3,4,4,79,71,Medium,Low
+PL0461,Shaheen Kohli,38,All-Rounder,8,148,74,1,10,142,47,No,2,3,2,68,48,Medium,Low
+PL0462,Mohammad Nortje,34,All-Rounder,6,106,60,6,10,122,52,Yes,2,2,3,44,25,Medium,Medium
+PL0463,Quinton Root,39,Batsman,8,14,52,2,10,113,86,Yes,4,1,2,50,29,Medium,Medium
+PL0464,Hardik Stokes,16,Wicket Keeper,1,2,41,7,9,93,82,No,5,0,4,40,41,Low,Low
+PL0465,Aaron Rahul,35,Bowler,6,133,94,7,9,100,97,No,1,6,3,59,22,Medium,Low
+PL0466,Shreyas Afridi,40,All-Rounder,2,123,80,3,9,99,74,Yes,2,3,4,85,37,Low,Medium
+PL0467,Jofra Khan,31,All-Rounder,6,142,55,6,4,148,57,Yes,5,3,3,48,24,High,High
+PL0468,Aaron Pandya,24,Wicket Keeper,4,10,30,2,7,115,71,No,4,1,7,69,4,Low,Low
+PL0469,Steve Starc,35,All-Rounder,7,79,43,3,7,121,85,Yes,5,2,5,55,60,Medium,Medium
+PL0470,Anrich Gill,33,All-Rounder,4,140,50,7,9,119,50,No,5,4,3,63,41,Medium,Low
+PL0471,Jasprit de Kock,18,Bowler,5,206,79,4,7,110,89,Yes,1,4,2,52,20,Medium,High
+PL0472,Hardik Finch,24,Batsman,4,13,35,7,10,120,55,Yes,7,0,3,59,16,Medium,Medium
+PL0473,Aaron Head,18,Batsman,6,2,34,5,8,115,93,Yes,8,0,4,97,16,Low,Medium
+PL0474,Shubman Root,40,Bowler,1,246,76,5,9,90,83,No,0,5,1,93,32,Low,Low
+PL0475,Lokesh Sharma,38,Batsman,1,7,53,6,8,118,44,Yes,6,0,4,89,9,Low,Medium
+PL0476,Pat Nortje,34,Wicket Keeper,2,5,67,3,9,106,59,No,5,1,4,41,68,Medium,Low
+PL0477,Virat Smith,25,Bowler,5,177,63,3,4,127,78,No,1,7,4,79,22,Medium,Medium
+PL0478,Aaron Nortje,24,All-Rounder,4,121,51,3,5,125,73,No,4,3,4,49,19,Medium,Medium
+PL0479,Rashid Kohli,21,Bowler,6,244,85,6,8,123,76,No,1,5,1,62,60,Medium,Low
+PL0480,Shubman Iyer,29,Bowler,7,193,66,4,5,127,91,No,0,7,4,67,49,Medium,Medium
+PL0481,Aaron Buttler,27,Wicket Keeper,1,9,59,7,5,123,68,No,3,1,5,73,4,Medium,Low
+PL0482,Suryakumar Kohli,28,Bowler,5,159,95,5,5,139,58,Yes,2,6,1,85,72,Medium,Medium
+PL0483,Rohit Pandya,34,Wicket Keeper,5,0,60,4,8,116,61,Yes,3,0,4,83,8,Medium,Medium
+PL0484,Rashid Kohli,18,All-Rounder,3,63,47,7,10,106,78,No,2,2,5,76,38,Low,Low
+PL0485,Mohammad Bumrah,39,All-Rounder,2,119,60,1,10,97,56,Yes,5,3,5,59,50,Medium,Medium
+PL0486,Babur Rizwan,26,Batsman,7,17,37,1,8,122,99,No,8,1,2,51,63,Medium,Low
+PL0487,Kagiso Rahul,28,Bowler,4,227,79,6,7,123,60,No,1,3,3,94,72,Medium,Low
+PL0488,Jasprit Jadeja,27,Bowler,2,135,99,6,7,103,74,No,1,7,1,86,61,Medium,Low
+PL0489,Mohammad Head,39,All-Rounder,8,160,53,2,7,135,99,Yes,5,4,3,77,57,Medium,Medium
+PL0490,Suryakumar Head,35,All-Rounder,6,117,52,4,6,142,46,No,3,5,5,84,66,Medium,Low
+PL0491,Aaron Afridi,31,Bowler,1,208,93,5,4,127,47,Yes,1,7,3,99,21,Medium,High
+PL0492,Travis Pant,23,Batsman,1,1,30,6,10,85,78,Yes,7,1,2,46,6,Low,Medium
+PL0493,Temba Williamson,20,Batsman,7,15,58,5,7,114,97,No,6,1,4,60,64,Medium,Low
+PL0494,Anrich de Kock,32,Wicket Keeper,8,6,60,1,8,131,82,No,3,1,4,74,71,Medium,Low
+PL0495,Rishabh Root,19,All-Rounder,4,180,42,5,5,120,72,Yes,3,2,3,90,21,Medium,Medium
+PL0496,Jos Williamson,33,Batsman,4,6,23,4,10,101,75,No,5,1,5,58,67,Low,Low
+PL0497,Steve Afridi,23,Batsman,4,14,27,5,6,132,71,Yes,5,1,2,64,32,Medium,Medium
+PL0498,Shreyas Smith,18,Wicket Keeper,6,6,31,2,6,145,61,No,5,0,6,86,37,Medium,Low
+PL0499,Pat Archer,37,Wicket Keeper,1,0,36,7,5,112,55,No,3,0,5,100,70,Low,Low
+PL0500,Jasprit Gill,19,All-Rounder,1,94,75,5,6,102,92,No,5,3,2,95,72,Low,Low
+PL0501,Rishabh Jadeja,37,All-Rounder,5,158,56,2,7,118,67,Yes,4,3,3,73,37,Medium,Medium
+PL0502,Kane Root,23,Batsman,5,4,40,7,8,125,68,Yes,4,1,4,82,49,Medium,Medium
+PL0503,Jos Smith,26,Bowler,2,230,82,1,8,109,45,No,2,6,4,48,62,Medium,Low
+PL0504,Hardik de Kock,32,All-Rounder,3,105,50,6,8,108,58,Yes,5,4,3,73,23,Medium,Medium
+PL0505,Travis Pant,25,Batsman,6,8,22,5,4,139,98,Yes,5,1,2,76,31,Medium,Medium
+PL0506,Shubman Starc,34,Wicket Keeper,5,0,63,6,10,105,94,Yes,6,0,5,70,60,Low,Medium
+PL0507,David Pandya,38,All-Rounder,7,75,65,5,6,143,46,No,4,3,4,92,2,Medium,Medium
+PL0508,Rashid Iyer,29,All-Rounder,3,124,70,2,7,99,88,Yes,4,5,5,71,13,Medium,Medium
+PL0509,Aaron Bumrah,38,All-Rounder,3,93,42,2,10,98,84,No,4,4,5,80,39,Low,Low
+PL0510,Hardik Rahul,40,Bowler,3,166,65,5,10,114,60,Yes,2,7,1,60,17,Medium,Medium
+PL0511,Anrich Sharma,19,Batsman,7,16,51,2,5,151,48,Yes,8,1,2,57,64,Medium,High
+PL0512,Jos Nortje,30,All-Rounder,8,109,73,6,8,126,80,Yes,2,2,4,81,16,Medium,Medium
+PL0513,Ben Warner,21,All-Rounder,2,64,45,7,8,116,46,No,2,5,5,49,58,Medium,Low
+PL0514,Virat Root,34,All-Rounder,8,133,44,3,8,119,91,No,3,4,2,70,56,Medium,Low
+PL0515,Aaron Bavuma,19,Wicket Keeper,3,10,48,2,5,121,90,No,6,0,5,60,51,Medium,Low
+PL0516,Mohammad Pant,34,Batsman,4,4,50,1,4,132,72,No,4,1,5,69,70,Medium,Low
+PL0517,Rohit Bavuma,36,Bowler,7,238,94,2,8,129,87,Yes,1,4,3,93,14,Medium,Medium
+PL0518,Quinton Khan,37,All-Rounder,8,76,74,6,10,121,73,No,3,3,2,90,28,Medium,Low
+PL0519,Rohit Smith,21,Bowler,1,185,89,2,7,87,93,No,2,4,4,61,26,Medium,Low
+PL0520,Rishabh Nortje,37,Bowler,8,159,71,6,6,126,96,Yes,0,7,3,41,50,Medium,High
+PL0521,Ben Smith,33,Wicket Keeper,3,5,53,4,6,103,88,Yes,5,1,8,50,52,Medium,Medium
+PL0522,David Smith,36,Bowler,8,230,64,7,4,164,60,No,2,7,4,67,1,High,Medium
+PL0523,David Smith,18,Wicket Keeper,5,7,46,5,8,136,53,No,6,0,5,56,18,Medium,Low
+PL0524,Ben Rahul,17,All-Rounder,6,70,60,6,9,118,71,Yes,3,3,2,55,8,Medium,Medium
+PL0525,Jos Cummins,34,Batsman,5,0,27,1,9,119,65,Yes,8,0,5,84,22,Low,Medium
+PL0526,Kagiso Rizwan,18,Batsman,3,11,48,5,9,96,69,Yes,4,1,4,51,4,Medium,Medium
+PL0527,Mohammad Finch,38,Bowler,5,202,62,4,5,147,54,No,2,6,4,90,58,Medium,Medium
+PL0528,Pat Stokes,22,Batsman,7,17,22,7,7,140,41,Yes,4,0,5,62,69,Medium,Medium
+PL0529,Hardik Pant,36,Wicket Keeper,5,2,45,2,9,117,55,Yes,4,1,7,57,3,Medium,Medium
+PL0530,Ben Iyer,29,All-Rounder,3,94,64,7,8,108,55,No,5,3,5,56,57,Medium,Low
+PL0531,Shubman Archer,33,Bowler,3,246,93,4,9,102,62,No,1,7,3,99,56,Medium,Low
+PL0532,Hardik Khan,36,Batsman,8,15,25,4,9,127,56,Yes,8,1,5,65,13,Medium,Medium
+PL0533,Mitchell Buttler,35,Batsman,7,1,34,2,9,142,53,No,8,0,5,63,47,Medium,Low
+PL0534,Ravindra Gill,28,Batsman,1,11,30,7,6,100,80,Yes,4,0,5,54,70,Low,Medium
+PL0535,Jofra Starc,27,Bowler,5,232,56,2,7,119,97,No,1,3,1,47,22,Medium,Low
+PL0536,Kane Rizwan,31,Wicket Keeper,8,5,55,7,10,128,60,No,5,0,6,81,4,Medium,Low
+PL0537,Kane Head,29,All-Rounder,8,82,70,5,6,129,81,No,5,2,5,70,57,Medium,Low
+PL0538,Glenn Smith,39,Wicket Keeper,2,8,30,4,9,116,51,Yes,6,0,4,63,51,Low,Medium
+PL0539,Hardik Smith,21,Wicket Keeper,7,3,44,7,9,135,67,No,5,1,4,41,49,Medium,Low
+PL0540,Quinton Bumrah,23,Bowler,3,163,88,2,10,108,58,Yes,0,5,4,54,60,Medium,Medium
+PL0541,Virat Buttler,29,Batsman,1,10,36,3,7,112,59,No,4,0,2,70,57,Low,Low
+PL0542,Temba Gill,26,Wicket Keeper,4,10,68,2,7,131,66,No,3,1,6,61,69,Medium,Low
+PL0543,Glenn Iyer,31,Bowler,2,106,73,4,10,101,42,Yes,2,5,2,53,72,Medium,Medium
+PL0544,Virat Iyer,19,Bowler,7,236,66,2,5,145,56,Yes,2,5,2,53,13,High,High
+PL0545,Shreyas Williamson,29,Batsman,2,19,25,6,10,107,41,No,7,0,4,61,49,Low,Low
+PL0546,Rashid Gill,17,Batsman,7,7,36,7,8,130,78,No,8,1,2,41,3,Medium,Low
+PL0547,Travis Rahul,36,Bowler,7,109,84,4,7,156,48,Yes,1,7,4,48,10,High,High
+PL0548,Kagiso Pandya,30,Bowler,3,247,85,2,8,93,98,No,2,4,3,59,30,Medium,Low
+PL0549,Ben Root,31,Wicket Keeper,4,6,63,6,10,82,98,Yes,6,1,8,91,54,Low,Medium
+PL0550,Mitchell Warner,25,Batsman,6,0,48,3,7,150,40,Yes,4,0,4,82,2,Medium,High
+PL0551,Kagiso Bavuma,33,Wicket Keeper,4,9,62,4,10,113,50,Yes,4,1,8,51,68,Medium,Medium
+PL0552,Temba Stokes,18,All-Rounder,2,109,68,1,7,101,67,Yes,5,3,2,77,20,Medium,Medium
+PL0553,Travis Iyer,31,All-Rounder,1,53,75,3,5,107,79,Yes,5,2,3,67,23,Medium,Medium
+PL0554,David Kohli,35,Bowler,3,214,69,5,8,125,59,Yes,2,7,4,96,14,Medium,Medium
+PL0555,David Sharma,18,Batsman,2,6,46,1,9,118,49,No,5,1,3,79,18,Low,Low
+PL0556,Suryakumar Maxwell,29,All-Rounder,2,100,69,2,8,106,71,Yes,2,2,4,43,11,Medium,Medium
+PL0557,Hardik Maxwell,17,Wicket Keeper,8,10,66,4,7,140,78,No,3,0,6,47,40,Medium,Low
+PL0558,Pat Pandya,29,Batsman,6,5,53,7,6,125,86,No,6,0,3,51,5,Medium,Medium
+PL0559,Glenn Sharma,19,All-Rounder,2,50,73,5,4,137,60,Yes,4,4,3,86,6,Medium,High
+PL0560,Jasprit Nortje,32,Wicket Keeper,4,9,35,3,4,146,40,Yes,3,1,8,66,17,Medium,High
+PL0561,Kagiso Buttler,21,All-Rounder,6,174,62,5,4,149,48,Yes,2,4,2,63,6,High,High
+PL0562,Temba Nortje,36,All-Rounder,3,130,63,6,10,82,94,Yes,3,3,2,57,1,Low,Medium
+PL0563,Jos Yadav,19,Bowler,6,104,94,5,6,131,92,Yes,1,5,3,62,12,Medium,High
+PL0564,Kane Maxwell,33,Wicket Keeper,6,4,39,3,10,131,40,No,6,1,5,43,56,Medium,Low
+PL0565,Steve Buttler,28,Batsman,7,2,52,2,4,136,80,Yes,5,1,5,84,18,Medium,High
+PL0566,Kagiso Jadeja,31,Batsman,1,5,47,2,8,102,81,No,4,0,3,48,47,Low,Low
+PL0567,Kagiso Warner,32,Batsman,4,16,32,1,8,119,57,Yes,7,1,2,42,34,Medium,Medium
+PL0568,Steve Warner,32,Wicket Keeper,1,1,68,5,7,94,79,Yes,4,0,8,63,24,Low,Medium
+PL0569,Kagiso Buttler,35,Batsman,4,18,26,3,5,131,49,Yes,4,0,4,94,40,Medium,Medium
+PL0570,Shreyas Buttler,30,Batsman,6,0,51,3,8,134,59,Yes,7,0,4,55,57,Medium,Medium
+PL0571,Suryakumar Williamson,25,All-Rounder,4,53,47,4,8,127,47,Yes,3,5,4,44,26,Medium,Medium
+PL0572,Kagiso Stokes,19,Bowler,1,239,90,1,10,92,58,Yes,2,6,1,87,66,Medium,Medium
+PL0573,Shreyas Rahul,22,Wicket Keeper,8,7,56,7,10,103,95,Yes,4,0,4,40,48,Medium,Medium
+PL0574,Rohit Warner,35,All-Rounder,5,113,43,6,8,122,78,No,5,2,2,88,52,Medium,Low
+PL0575,David Cummins,19,Wicket Keeper,6,9,35,3,7,129,52,Yes,4,1,7,51,49,Medium,Medium
+PL0576,Quinton Buttler,17,Bowler,6,144,56,4,4,137,92,Yes,2,6,3,88,66,Medium,Medium
+PL0577,Rashid Warner,30,Bowler,1,222,90,4,4,120,58,No,1,6,1,89,48,Medium,Medium
+PL0578,Mitchell Rabada,20,All-Rounder,6,83,45,6,4,146,86,No,4,5,2,93,0,Medium,Medium
+PL0579,Temba Williamson,20,Bowler,6,176,56,5,5,124,81,No,1,5,4,73,68,Medium,Low
+PL0580,Temba Buttler,24,Bowler,6,187,89,2,8,130,72,Yes,2,7,1,54,11,Medium,High
+PL0581,Hardik Pant,19,Bowler,7,207,72,2,5,130,85,No,0,6,4,94,41,Medium,Low
+PL0582,Shubman Sharma,29,All-Rounder,8,71,69,6,9,113,86,Yes,3,4,5,60,66,Medium,Medium
+PL0583,Mitchell Bumrah,26,All-Rounder,5,148,80,6,5,116,89,Yes,2,2,4,61,36,Medium,High
+PL0584,Ben Cummins,34,All-Rounder,8,65,50,7,10,138,53,Yes,3,4,4,62,37,Medium,Medium
+PL0585,Travis Head,19,Wicket Keeper,3,7,69,2,7,99,100,Yes,4,1,4,53,32,Low,Medium
+PL0586,Mohammad Pandya,31,Bowler,5,172,60,4,6,142,62,Yes,2,5,2,95,67,Medium,Medium
+PL0587,Kane de Kock,32,Batsman,8,6,46,5,5,147,60,Yes,8,1,5,40,52,Medium,High
+PL0588,Joe Bavuma,29,Batsman,8,14,45,5,7,138,60,Yes,5,1,4,49,64,Medium,Medium
+PL0589,Rohit Pandya,16,All-Rounder,6,156,49,1,6,140,60,Yes,4,3,4,48,31,Medium,High
+PL0590,Shreyas Iyer,25,All-Rounder,1,55,59,4,8,106,68,No,2,3,4,42,50,Medium,Low
+PL0591,David Afridi,28,Bowler,3,188,59,2,9,124,48,Yes,1,3,4,44,28,Medium,Medium
+PL0592,Shreyas Pant,32,Batsman,8,10,26,6,5,141,89,Yes,8,1,5,84,28,Medium,Medium
+PL0593,Rishabh Nortje,33,Bowler,7,118,78,6,8,115,96,Yes,0,3,2,89,22,Medium,Medium
+PL0594,Shaheen Bavuma,17,Wicket Keeper,3,7,67,7,9,121,42,No,6,1,4,72,25,Medium,Low
+PL0595,Travis Iyer,32,Bowler,1,120,89,1,5,121,60,No,1,6,2,62,27,Medium,Medium
+PL0596,Shreyas Nortje,16,All-Rounder,2,50,71,7,7,89,96,No,2,5,5,70,55,Low,Low
+PL0597,Jasprit de Kock,30,Batsman,6,0,34,4,4,153,51,No,5,0,2,63,55,Medium,Medium
+PL0598,Hardik Gill,40,Wicket Keeper,1,10,69,2,10,85,96,No,6,0,7,43,8,Low,Low
+PL0599,Virat Yadav,27,All-Rounder,5,147,56,6,9,116,48,No,2,5,5,43,32,Medium,Medium
+PL0600,Aaron de Kock,19,All-Rounder,7,87,44,1,10,108,82,No,5,5,5,95,64,Low,Low
+PL0601,Quinton Head,22,Wicket Keeper,2,4,63,5,7,116,69,Yes,3,1,8,54,64,Medium,Medium
+PL0602,Virat Warner,25,Wicket Keeper,8,2,53,5,8,131,69,Yes,4,0,7,44,54,Medium,Medium
+PL0603,Kane Buttler,33,Wicket Keeper,8,10,47,4,9,118,93,No,4,1,6,73,11,Medium,Low
+PL0604,Rishabh Maxwell,39,Bowler,8,121,90,3,7,142,51,No,1,6,3,93,44,Medium,Medium
+PL0605,Virat Azam,40,Bowler,6,226,93,2,9,106,84,No,1,7,2,46,23,Medium,Low
+PL0606,Babur Khan,40,Batsman,1,18,28,6,4,100,98,No,4,1,2,40,15,Medium,Low
+PL0607,Shreyas Finch,23,Bowler,1,226,82,2,5,125,54,Yes,0,5,2,52,13,Medium,High
+PL0608,Ben Pandya,25,Batsman,3,1,53,7,4,136,58,Yes,7,0,2,88,60,Medium,Medium
+PL0609,Rishabh Head,30,Batsman,5,19,34,6,6,114,97,No,7,0,3,71,35,Medium,Low
+PL0610,Jasprit Afridi,40,All-Rounder,7,165,56,4,9,139,51,No,2,4,3,85,53,Medium,Low
+PL0611,Kane Khan,33,Wicket Keeper,2,2,54,2,4,142,54,No,4,0,6,89,27,Medium,Low
+PL0612,Steve Rizwan,26,All-Rounder,7,117,58,5,9,106,95,Yes,2,5,3,53,35,Medium,Medium
+PL0613,Shaheen Williamson,18,Batsman,6,0,55,5,8,124,54,Yes,5,1,3,40,48,Medium,Medium
+PL0614,Rohit Cummins,17,Wicket Keeper,6,8,45,1,10,134,51,Yes,3,0,5,82,3,Low,Medium
+PL0615,Jofra Rahul,20,Batsman,4,11,59,4,9,111,81,No,8,1,3,98,40,Low,Low
+PL0616,Rishabh Warner,36,Batsman,1,8,21,6,9,97,47,Yes,4,0,5,86,65,Low,Medium
+PL0617,Anrich Head,24,Batsman,6,1,58,6,6,122,89,Yes,6,1,4,86,10,Medium,Medium
+PL0618,Pat Root,18,Batsman,7,18,60,7,5,131,87,Yes,4,1,5,69,35,Medium,High
+PL0619,Shreyas Gill,21,Bowler,7,190,64,7,6,134,95,Yes,1,4,1,44,18,Medium,High
+PL0620,Shubman Root,24,Bowler,2,104,71,6,9,88,88,Yes,0,7,4,40,38,Medium,Medium
+PL0621,Mitchell Pant,35,Batsman,1,9,60,4,6,114,47,No,7,0,2,60,34,Medium,Low
+PL0622,Shaheen Afridi,35,All-Rounder,3,67,63,3,4,129,87,No,2,4,3,53,14,Medium,Medium
+PL0623,Pat Pandya,16,Wicket Keeper,4,2,66,6,5,133,80,No,4,1,7,55,13,Medium,Medium
+PL0624,Shubman Archer,19,Batsman,5,0,50,7,5,119,91,Yes,6,0,5,91,29,Medium,Medium
+PL0625,Steve Williamson,36,All-Rounder,7,91,58,6,9,126,74,Yes,3,4,3,50,72,Medium,Medium
+PL0626,Mitchell Cummins,37,All-Rounder,2,134,80,3,4,135,50,No,5,4,5,60,58,Medium,Medium
+PL0627,Kane Starc,31,Wicket Keeper,1,7,58,7,6,98,82,Yes,5,1,8,43,72,Medium,Medium
+PL0628,Jos Stokes,27,Bowler,7,207,73,6,10,119,51,No,1,3,3,50,60,Medium,Low
+PL0629,Lokesh Jadeja,27,Batsman,5,6,35,4,8,117,66,Yes,7,0,2,52,23,Medium,Medium
+PL0630,Temba Azam,32,Batsman,6,5,20,3,5,129,97,No,4,1,3,64,5,Medium,Low
+PL0631,Virat Williamson,28,Wicket Keeper,1,8,65,7,9,77,94,Yes,3,1,5,94,14,Low,Medium
+PL0632,Mitchell Starc,22,All-Rounder,2,101,77,3,8,108,60,No,4,5,2,56,26,Medium,Low
+PL0633,Glenn Cummins,30,All-Rounder,2,96,68,2,10,98,78,Yes,3,2,4,54,43,Low,Medium
+PL0634,Pat Azam,35,Bowler,3,222,67,1,6,121,75,No,2,3,1,95,12,Medium,Low
+PL0635,Jos Azam,16,All-Rounder,6,86,76,4,7,135,50,No,3,3,2,86,4,Medium,Medium
+PL0636,Virat Finch,25,All-Rounder,3,63,40,7,9,87,99,No,5,4,5,60,51,Low,Low
+PL0637,Virat Gill,30,Bowler,3,238,72,3,5,124,53,Yes,1,5,2,90,59,Medium,Medium
+PL0638,Jos Starc,32,All-Rounder,3,98,69,1,9,98,79,No,4,4,4,100,70,Low,Low
+PL0639,Pat Rizwan,39,All-Rounder,1,172,47,7,7,100,60,Yes,4,3,5,100,47,Low,Medium
+PL0640,Kagiso Pant,36,Bowler,1,120,80,3,7,104,84,Yes,1,6,3,93,54,Low,Medium
+PL0641,Temba Nortje,16,All-Rounder,2,90,59,7,8,94,100,No,3,2,3,53,5,Low,Low
+PL0642,Virat Azam,40,Bowler,8,219,53,5,5,146,98,Yes,1,7,4,72,68,Medium,Medium
+PL0643,Quinton Khan,17,Batsman,1,16,24,5,8,114,55,Yes,4,0,5,46,26,Low,Medium
+PL0644,Shreyas Azam,35,Wicket Keeper,1,1,70,2,4,113,98,No,6,1,5,41,42,Medium,Low
+PL0645,Jasprit Head,35,Bowler,3,146,51,2,5,127,58,Yes,0,7,4,42,64,Medium,High
+PL0646,Virat Nortje,40,All-Rounder,3,70,57,6,9,105,61,Yes,2,4,2,49,10,Medium,Medium
+PL0647,Quinton Rabada,17,All-Rounder,1,68,76,1,5,115,72,Yes,5,4,5,53,2,Medium,High
+PL0648,Travis Rahul,29,Bowler,7,193,85,1,5,146,76,Yes,0,3,4,94,8,Medium,High
+PL0649,Lokesh Cummins,27,Wicket Keeper,1,4,61,2,4,123,55,No,3,1,5,82,67,Medium,Low
+PL0650,Virat de Kock,31,Bowler,2,236,99,2,5,118,93,Yes,0,7,3,80,54,Medium,Medium
+PL0651,Kane Williamson,27,All-Rounder,2,105,80,6,10,105,63,Yes,4,4,2,78,51,Low,Medium
+PL0652,Ravindra Rabada,22,Bowler,5,126,84,2,7,107,98,No,0,4,1,49,40,Medium,Low
+PL0653,David Pandya,36,Wicket Keeper,3,6,34,2,4,150,48,Yes,5,0,6,46,35,Medium,High
+PL0654,Shreyas de Kock,33,Batsman,3,18,25,3,8,105,93,Yes,8,0,2,52,0,Low,Medium
+PL0655,Virat Rabada,33,Batsman,4,10,39,3,8,121,68,Yes,6,0,2,80,31,Low,Medium
+PL0656,Lokesh de Kock,37,All-Rounder,7,179,55,3,6,138,92,Yes,4,4,2,82,44,Medium,Medium
+PL0657,Glenn Sharma,34,All-Rounder,4,61,57,4,6,119,84,Yes,5,5,5,57,47,Medium,Medium
+PL0658,David Warner,34,Wicket Keeper,1,6,49,7,9,101,68,No,5,1,7,58,14,Low,Low
+PL0659,Pat Afridi,33,Bowler,6,210,86,3,4,151,75,Yes,0,6,4,62,41,High,High
+PL0660,Glenn Head,27,Wicket Keeper,7,10,67,3,7,146,55,No,5,0,4,75,2,Medium,Medium
+PL0661,Mohammad Rabada,17,Bowler,3,138,71,6,8,112,49,Yes,1,5,4,65,22,Medium,Medium
+PL0662,Kagiso Cummins,19,Batsman,2,8,36,7,10,90,88,Yes,4,0,5,98,42,Low,Medium
+PL0663,Travis Gill,18,All-Rounder,6,67,71,2,9,114,80,No,3,5,4,71,59,Medium,Low
+PL0664,Pat Williamson,38,All-Rounder,5,120,54,3,7,115,94,No,3,2,3,66,8,Medium,Low
+PL0665,Kagiso Jadeja,25,All-Rounder,3,135,67,2,8,116,72,Yes,2,5,4,80,25,Medium,Medium
+PL0666,Suryakumar Rabada,38,All-Rounder,8,85,57,1,4,165,64,Yes,2,3,4,56,69,Medium,High
+PL0667,Steve Head,25,Batsman,7,10,23,1,9,127,57,Yes,4,0,3,65,64,Medium,Medium
+PL0668,Travis Smith,39,Wicket Keeper,7,1,70,7,5,138,80,Yes,3,1,6,61,64,Medium,Medium
+PL0669,Shreyas Stokes,18,All-Rounder,5,110,80,4,7,132,46,No,5,4,4,74,29,Medium,Medium
+PL0670,Anrich Root,38,All-Rounder,5,60,60,2,7,122,66,No,5,3,4,88,63,Medium,Low
+PL0671,Jos Gill,32,Bowler,6,147,77,1,6,123,73,Yes,2,4,2,81,54,Medium,Medium
+PL0672,Glenn Maxwell,36,Bowler,3,203,90,4,8,112,47,No,0,4,3,44,21,Medium,Medium
+PL0673,Shreyas Warner,27,Bowler,4,196,100,4,4,153,42,Yes,1,4,2,82,1,High,High
+PL0674,Mohammad de Kock,28,Wicket Keeper,2,4,46,1,5,119,78,No,6,0,7,97,60,Low,Low
+PL0675,David Head,26,Wicket Keeper,7,6,48,4,8,113,95,No,5,1,8,100,10,Low,Low
+PL0676,Shaheen de Kock,25,Bowler,7,118,52,7,4,146,82,No,1,3,2,98,9,Medium,Medium
+PL0677,Glenn Pandya,21,Wicket Keeper,2,5,30,7,9,85,86,Yes,5,1,5,71,25,Low,Medium
+PL0678,Quinton Bumrah,37,Wicket Keeper,4,9,65,2,8,116,52,No,4,0,8,51,41,Medium,Low
+PL0679,Mitchell Jadeja,30,Wicket Keeper,8,2,35,3,8,145,43,Yes,6,1,8,97,8,Medium,Medium
+PL0680,Lokesh Nortje,39,Bowler,7,137,90,6,5,158,40,Yes,0,4,4,86,15,High,High
+PL0681,Lokesh Root,28,Bowler,7,165,61,2,9,130,64,Yes,2,6,3,53,14,Medium,Medium
+PL0682,Mitchell Cummins,32,Wicket Keeper,2,7,62,1,4,118,69,No,4,0,8,41,12,Medium,Medium
+PL0683,Aaron Yadav,40,Wicket Keeper,6,1,45,5,10,110,78,No,4,1,4,95,34,Low,Low
+PL0684,Mohammad Buttler,19,All-Rounder,6,167,54,2,4,154,52,Yes,2,4,4,87,69,Medium,High
+PL0685,Ben Cummins,17,Wicket Keeper,1,4,60,1,5,129,44,Yes,5,1,8,53,60,Medium,Medium
+PL0686,Ben Rahul,40,Bowler,2,137,81,4,7,90,92,Yes,2,7,2,72,53,Medium,Medium
+PL0687,Jofra Buttler,27,Bowler,1,177,63,3,4,137,54,Yes,1,6,2,74,40,Medium,High
+PL0688,Suryakumar Kohli,17,Wicket Keeper,7,6,45,4,5,147,52,No,6,0,7,94,33,Medium,Low
+PL0689,Kane Archer,40,Wicket Keeper,8,3,45,6,4,175,46,Yes,3,0,6,67,64,Medium,High
+PL0690,Kagiso Khan,27,All-Rounder,2,175,64,5,10,99,64,Yes,4,3,4,44,4,Medium,Medium
+PL0691,Babur Iyer,25,Bowler,3,198,73,1,8,113,72,Yes,2,4,2,62,43,Medium,Medium
+PL0692,Shreyas Yadav,37,All-Rounder,4,158,47,6,4,142,50,Yes,5,2,4,45,36,High,High
+PL0693,Virat Bavuma,18,Batsman,6,0,28,3,9,127,64,Yes,6,0,5,69,7,Low,Medium
+PL0694,Jos Buttler,17,All-Rounder,5,144,55,6,7,120,69,Yes,5,3,4,81,41,Medium,Medium
+PL0695,Shaheen de Kock,22,Wicket Keeper,7,5,58,1,7,132,95,No,4,1,6,73,18,Medium,Low
+PL0696,Virat Rahul,29,All-Rounder,1,174,44,7,4,141,45,No,5,5,4,42,54,Medium,Medium
+PL0697,Aaron Pant,20,All-Rounder,7,75,55,7,8,118,86,Yes,2,2,5,99,42,Medium,Medium
+PL0698,Temba Buttler,34,Wicket Keeper,7,1,52,3,4,147,70,Yes,4,0,4,63,70,Medium,Medium
+PL0699,Rashid Bavuma,24,Wicket Keeper,3,0,43,2,8,114,52,No,5,0,7,100,61,Low,Low
+PL0700,Steve Williamson,32,All-Rounder,8,119,68,1,7,132,99,No,2,3,4,65,39,Medium,Low
+PL0701,Lokesh Afridi,26,Batsman,7,12,27,7,9,127,54,No,5,0,2,57,59,Medium,Low
+PL0702,Virat Yadav,27,Bowler,5,210,98,1,10,119,70,Yes,0,4,4,81,0,Medium,Medium
+PL0703,Pat Sharma,24,Wicket Keeper,3,5,52,1,10,85,97,Yes,6,1,4,70,72,Low,Medium
+PL0704,Ravindra Yadav,39,Wicket Keeper,3,8,40,5,8,124,42,No,4,1,6,58,31,Medium,Low
+PL0705,Anrich Azam,23,Batsman,8,4,26,4,4,160,53,No,4,1,3,53,63,Medium,Medium
+PL0706,Quinton Rizwan,26,Wicket Keeper,4,4,55,1,4,125,98,Yes,6,0,4,88,43,Low,Medium
+PL0707,Anrich Khan,32,Wicket Keeper,2,1,65,3,6,120,42,Yes,6,1,6,85,0,Medium,Medium
+PL0708,Mitchell Jadeja,16,All-Rounder,2,70,73,4,8,124,45,Yes,5,4,4,78,3,Medium,Medium
+PL0709,Travis Maxwell,24,Batsman,5,3,38,1,8,126,62,No,6,0,2,84,13,Low,Low
+PL0710,Jos Khan,40,Bowler,7,244,52,3,10,120,87,Yes,2,3,4,94,20,Medium,Medium
+PL0711,Jofra Bavuma,20,Wicket Keeper,5,6,56,1,5,147,65,Yes,6,1,5,100,44,Medium,Medium
+PL0712,David Nortje,40,All-Rounder,7,95,72,2,10,141,42,Yes,4,3,3,56,64,Medium,Medium
+PL0713,Joe de Kock,30,Bowler,6,128,95,1,6,150,43,No,1,5,2,47,62,High,Medium
+PL0714,Mitchell Nortje,26,Bowler,7,145,88,2,4,160,59,No,1,7,2,59,12,High,Medium
+PL0715,Glenn Stokes,31,All-Rounder,8,82,57,2,9,138,47,No,3,5,5,92,25,Medium,Low
+PL0716,Ben Cummins,22,Bowler,6,239,69,7,6,136,73,No,0,5,2,77,29,Medium,Medium
+PL0717,David Iyer,19,Batsman,7,3,28,2,5,134,73,Yes,6,1,5,44,36,Medium,High
+PL0718,Virat Smith,36,Wicket Keeper,4,2,56,3,9,111,73,No,5,0,6,50,4,Medium,Low
+PL0719,Steve Archer,17,Batsman,6,18,36,1,9,128,70,Yes,7,1,2,97,49,Low,Medium
+PL0720,David Yadav,31,Bowler,6,165,86,5,4,141,62,Yes,0,3,3,66,55,High,High
+PL0721,Virat Yadav,35,Batsman,6,17,59,4,7,129,89,Yes,8,1,5,42,36,Medium,Medium
+PL0722,David Rahul,32,Batsman,7,5,51,5,9,117,86,Yes,8,0,4,99,0,Low,Medium
+PL0723,Lokesh de Kock,29,Bowler,3,241,100,4,9,112,63,Yes,2,4,1,68,50,Medium,Medium
+PL0724,Mohammad de Kock,27,Batsman,5,15,21,3,9,104,78,No,7,1,3,87,71,Low,Low
+PL0725,Suryakumar Root,22,All-Rounder,5,84,45,7,9,134,50,No,2,2,5,55,44,Medium,Low
+PL0726,Hardik Jadeja,27,Wicket Keeper,8,2,57,7,6,139,79,Yes,3,1,5,89,63,Medium,Medium
+PL0727,Mohammad Sharma,25,All-Rounder,7,62,56,1,7,130,85,No,5,3,5,50,3,Medium,Medium
+PL0728,Travis Khan,17,Batsman,4,13,21,2,8,108,87,No,7,1,5,81,34,Low,Low
+PL0729,Babur Williamson,18,Wicket Keeper,8,10,50,1,9,145,51,Yes,6,1,6,57,43,Medium,Medium
+PL0730,Shubman Azam,38,Bowler,2,213,50,6,9,95,79,Yes,1,3,3,91,0,Low,Medium
+PL0731,Shreyas Warner,20,All-Rounder,1,105,55,5,4,129,70,No,4,5,2,59,42,Medium,Low
+PL0732,Kane Stokes,29,Wicket Keeper,4,1,54,5,4,136,68,No,5,0,6,66,23,Medium,Medium
+PL0733,Virat Kohli,32,Batsman,6,19,21,2,6,142,56,No,5,1,3,91,28,Medium,Low
+PL0734,David Bavuma,18,All-Rounder,3,155,72,1,10,120,42,Yes,2,4,4,50,4,Medium,Medium
+PL0735,Shreyas Rizwan,26,All-Rounder,3,167,56,7,9,102,90,No,2,5,5,100,53,Low,Low
+PL0736,Jasprit Khan,16,Batsman,5,9,43,7,7,130,75,Yes,6,1,5,77,70,Medium,Medium
+PL0737,Rashid Nortje,21,Bowler,5,100,80,5,9,123,57,No,0,3,4,47,0,Medium,Medium
+PL0738,Rishabh Archer,23,Batsman,7,11,30,7,10,130,49,No,7,0,2,69,58,Medium,Low
+PL0739,Steve Archer,25,Bowler,5,233,75,7,9,130,47,No,0,4,4,95,42,Medium,Low
+PL0740,Kane Jadeja,35,Batsman,5,14,54,1,6,128,63,Yes,7,1,3,46,54,Medium,Medium
+PL0741,Kane Bumrah,22,All-Rounder,1,90,44,4,9,99,54,No,2,2,3,88,43,Low,Low
+PL0742,Temba Maxwell,34,Bowler,3,159,80,3,8,127,49,Yes,0,4,2,40,5,Medium,High
+PL0743,Mohammad Maxwell,21,Batsman,2,7,48,1,8,90,88,No,4,1,2,100,6,Low,Low
+PL0744,Aaron Finch,22,Wicket Keeper,8,4,67,1,4,158,60,No,6,1,5,47,62,Medium,Medium
+PL0745,Lokesh Nortje,34,Bowler,1,242,61,7,4,119,79,No,1,4,1,67,28,Medium,Medium
+PL0746,Jos Root,34,Wicket Keeper,7,9,39,5,10,137,54,Yes,6,0,8,50,33,Medium,Medium
+PL0747,David Maxwell,35,Batsman,3,0,45,2,8,127,40,No,5,1,5,45,53,Medium,Low
+PL0748,Kagiso Sharma,36,Batsman,1,2,33,6,4,105,84,No,5,1,4,55,55,Medium,Low
+PL0749,Temba Afridi,20,Bowler,8,210,88,7,8,130,76,No,0,4,2,81,28,Medium,Medium
+PL0750,Hardik Khan,31,All-Rounder,5,98,64,2,9,117,68,Yes,2,2,5,78,17,Medium,Medium
+PL0751,Shreyas Williamson,32,All-Rounder,6,111,79,7,5,133,76,No,5,5,3,48,49,Medium,Medium
+PL0752,Kane de Kock,26,All-Rounder,3,128,45,7,9,101,87,Yes,2,3,5,93,70,Low,Medium
+PL0753,Suryakumar Stokes,26,All-Rounder,2,165,62,2,8,106,65,Yes,3,4,4,69,70,Medium,Medium
+PL0754,Ben Bavuma,40,Bowler,3,237,53,7,6,115,84,No,0,6,2,69,70,Medium,Low
+PL0755,Suryakumar Cummins,38,Batsman,8,3,29,4,8,148,57,No,6,0,3,70,55,Medium,Low
+PL0756,Travis Rabada,21,Bowler,1,180,64,2,6,105,90,No,0,3,1,94,45,Low,Low
+PL0757,Joe Root,18,All-Rounder,7,172,73,6,7,158,43,No,3,3,4,40,42,High,Medium
+PL0758,Suryakumar Bumrah,18,Bowler,3,204,84,7,4,126,96,No,0,6,4,65,10,Medium,Medium
+PL0759,Mitchell Bavuma,33,Wicket Keeper,4,6,49,1,6,125,78,Yes,6,0,6,95,51,Low,Medium
+PL0760,Ravindra Iyer,19,Wicket Keeper,8,5,33,3,7,144,44,Yes,6,0,5,84,26,Medium,Medium
+PL0761,Glenn Maxwell,24,Bowler,5,243,81,7,6,122,66,Yes,0,3,1,80,28,Medium,High
+PL0762,Jos Finch,21,Batsman,3,18,23,1,10,101,73,No,7,1,2,65,36,Low,Low
+PL0763,Anrich de Kock,23,Wicket Keeper,7,4,69,7,4,166,53,No,4,1,6,76,68,Medium,Medium
+PL0764,Virat Stokes,36,Bowler,4,208,97,3,5,127,77,No,0,7,3,77,2,Medium,Medium
+PL0765,Glenn Pandya,33,Wicket Keeper,2,9,41,7,10,107,45,Yes,5,1,5,93,51,Low,Medium
+PL0766,Hardik Head,20,Batsman,6,16,41,7,8,144,44,No,8,1,5,77,26,Medium,Low
+PL0767,Anrich Khan,27,Batsman,4,15,23,7,10,100,99,Yes,4,0,5,68,69,Low,Medium
+PL0768,Suryakumar Archer,23,Wicket Keeper,5,6,42,7,5,144,68,Yes,6,0,5,68,18,Medium,High
+PL0769,Steve Rizwan,30,All-Rounder,8,50,69,4,10,101,97,Yes,2,4,3,55,45,Medium,Medium
+PL0770,Glenn Afridi,32,Batsman,8,15,42,7,5,140,70,Yes,8,0,5,85,0,Medium,High
+PL0771,Anrich Jadeja,36,All-Rounder,5,148,45,4,10,102,97,No,2,2,4,78,49,Low,Low
+PL0772,Shubman Nortje,34,Batsman,1,14,29,4,5,117,63,Yes,6,0,5,47,12,Medium,Medium
+PL0773,Joe Williamson,21,Wicket Keeper,4,3,58,2,9,117,46,Yes,6,0,5,41,47,Medium,Medium
+PL0774,Lokesh Azam,25,All-Rounder,8,66,58,6,5,163,54,Yes,3,2,4,73,57,Medium,High
+PL0775,Shubman Williamson,21,Wicket Keeper,8,9,35,7,7,133,94,Yes,6,1,6,51,27,Medium,Medium
+PL0776,David Smith,21,Bowler,7,118,78,5,10,105,93,No,2,5,1,90,50,Medium,Low
+PL0777,Virat Root,31,Bowler,8,226,64,1,4,141,90,No,0,4,4,72,38,Medium,Medium
+PL0778,Ravindra Pant,29,Wicket Keeper,4,10,42,7,10,120,53,No,5,0,7,64,40,Medium,Low
+PL0779,Shubman Williamson,24,All-Rounder,6,142,53,4,8,134,41,No,2,2,4,85,66,Medium,Low
+PL0780,Temba Warner,34,Bowler,6,247,59,3,4,129,97,Yes,1,7,1,70,3,Medium,High
+PL0781,Lokesh Iyer,36,Bowler,5,102,75,4,9,124,54,No,0,6,4,89,26,Medium,Low
+PL0782,Ravindra Gill,31,Bowler,4,108,83,7,10,112,48,No,0,7,4,77,70,Medium,Low
+PL0783,Jofra Cummins,39,Wicket Keeper,8,4,63,7,9,131,88,Yes,4,0,8,92,35,Medium,Medium
+PL0784,Suryakumar Bumrah,28,All-Rounder,5,135,74,5,8,109,96,Yes,2,2,5,96,50,Low,Medium
+PL0785,Mitchell Buttler,25,Batsman,8,5,22,5,8,148,58,Yes,6,0,4,46,10,Medium,High
+PL0786,Virat Yadav,21,All-Rounder,8,103,52,6,7,156,42,No,2,2,4,81,26,Medium,Medium
+PL0787,Aaron Rizwan,40,Batsman,4,13,57,3,7,136,48,Yes,6,0,5,46,2,Medium,High
+PL0788,Steve Root,30,Bowler,7,212,61,3,4,155,53,Yes,0,7,3,63,53,High,High
+PL0789,Rishabh Williamson,38,All-Rounder,3,135,67,2,4,123,73,No,5,3,2,59,39,Medium,Medium
+PL0790,Babur Iyer,21,Bowler,1,193,59,5,5,111,90,No,1,3,4,61,11,Medium,Low
+PL0791,Jofra Rahul,16,Batsman,3,7,24,4,6,110,92,No,4,1,4,63,43,Low,Low
+PL0792,Rishabh Iyer,20,Wicket Keeper,5,3,51,2,9,108,69,Yes,5,0,8,81,16,Low,Medium
+PL0793,Mitchell Rizwan,35,Bowler,5,175,72,3,8,111,74,Yes,0,7,1,69,53,Medium,Medium
+PL0794,Mohammad Rahul,21,Batsman,7,0,26,2,7,124,83,No,5,1,4,72,53,Medium,Low
+PL0795,Ben Khan,35,Wicket Keeper,4,3,66,2,5,149,52,Yes,5,0,6,98,59,Medium,Medium
+PL0796,Rohit Iyer,24,Wicket Keeper,5,1,38,4,8,112,85,No,6,1,5,65,45,Low,Low
+PL0797,Mitchell Finch,17,Bowler,7,126,74,4,6,141,82,Yes,1,4,2,56,18,Medium,High
+PL0798,Pat Archer,29,All-Rounder,4,85,72,1,10,104,90,No,4,5,2,48,72,Low,Low
+PL0799,Temba Pandya,32,Bowler,3,224,58,3,9,103,61,Yes,0,4,4,68,22,Medium,Medium
+PL0800,Joe Pant,25,Bowler,1,201,81,4,9,78,90,No,1,6,2,88,69,Low,Low
+PL0801,Travis Stokes,18,Bowler,2,235,92,2,9,100,79,No,2,3,4,90,46,Low,Low
+PL0802,Ben Finch,38,Bowler,5,136,55,2,8,122,62,Yes,2,5,2,93,16,Medium,Medium
+PL0803,Glenn Rizwan,36,Batsman,4,20,51,6,6,105,92,No,4,1,4,94,3,Low,Low
+PL0804,Ravindra Cummins,23,Batsman,6,8,45,4,10,124,46,No,8,1,5,43,13,Medium,Low
+PL0805,Ben Maxwell,22,Bowler,2,182,81,4,9,100,61,No,0,4,4,44,9,Medium,Low
+PL0806,Rishabh Buttler,36,Bowler,6,224,80,4,8,124,62,No,0,3,1,77,10,Medium,Medium
+PL0807,Ben Bumrah,27,Wicket Keeper,5,7,62,6,6,134,73,Yes,3,0,6,94,23,Medium,Medium
+PL0808,Jos Buttler,25,All-Rounder,1,85,42,1,6,111,78,Yes,3,5,5,66,44,Low,Medium
+PL0809,Hardik Bumrah,39,Bowler,7,195,68,3,9,121,86,Yes,2,6,4,42,65,Medium,Medium
+PL0810,Virat Archer,38,All-Rounder,7,180,67,3,10,99,93,Yes,3,5,4,85,55,Medium,Medium
+PL0811,Ben de Kock,38,Wicket Keeper,4,9,53,7,5,144,45,Yes,4,0,7,65,49,Medium,High
+PL0812,Shaheen Cummins,31,Batsman,1,10,30,6,7,98,64,Yes,5,0,3,47,40,Medium,Medium
+PL0813,Virat Iyer,31,Wicket Keeper,8,0,62,7,9,124,91,Yes,5,0,8,87,65,Medium,Medium
+PL0814,Ben Cummins,30,All-Rounder,8,111,74,7,10,141,45,Yes,3,2,4,85,61,Medium,Medium
+PL0815,Shubman Afridi,21,Bowler,8,104,74,5,8,144,55,No,1,7,2,95,49,Medium,Low
+PL0816,Aaron Kohli,19,Wicket Keeper,5,7,66,2,6,128,68,Yes,4,0,4,89,68,Medium,Medium
+PL0817,David Nortje,38,Bowler,2,122,92,5,8,98,78,No,0,4,3,90,9,Low,Low
+PL0818,Lokesh Azam,24,Bowler,7,165,62,6,9,142,45,No,1,4,2,47,19,Medium,Medium
+PL0819,Pat Pandya,20,Bowler,5,103,96,5,7,108,94,Yes,1,5,1,90,53,Medium,Medium
+PL0820,Ben de Kock,38,Wicket Keeper,2,2,36,1,6,133,51,No,4,1,7,49,57,Medium,Low
+PL0821,Mitchell Sharma,20,All-Rounder,7,157,57,3,8,114,87,Yes,5,5,2,71,10,Medium,Medium
+PL0822,Rohit Warner,16,Batsman,5,7,30,3,6,113,86,Yes,8,0,3,67,41,Medium,Medium
+PL0823,Jasprit Rabada,29,Wicket Keeper,7,4,53,2,5,152,66,Yes,3,0,8,99,17,Medium,High
+PL0824,David Pant,33,All-Rounder,3,177,59,4,6,128,50,Yes,5,3,5,92,27,Medium,Medium
+PL0825,Mitchell Cummins,18,Wicket Keeper,1,1,35,3,6,112,53,Yes,3,1,7,64,20,Low,Medium
+PL0826,Temba Rizwan,18,Bowler,8,135,64,4,4,144,92,No,2,5,1,81,58,Medium,Medium
+PL0827,Mitchell Warner,19,All-Rounder,1,68,74,3,4,136,40,Yes,2,2,3,45,5,Medium,High
+PL0828,Anrich Azam,27,Wicket Keeper,8,3,65,2,8,124,98,No,4,0,8,53,55,Medium,Low
+PL0829,Shubman Jadeja,27,All-Rounder,4,142,50,5,7,125,59,No,5,3,3,61,8,Medium,Medium
+PL0830,Steve Williamson,32,All-Rounder,7,56,68,4,5,151,50,No,5,3,3,97,0,Medium,Medium
+PL0831,Glenn Sharma,29,Bowler,6,163,51,4,5,140,51,Yes,2,6,2,76,16,Medium,High
+PL0832,Jos Rizwan,27,Wicket Keeper,1,6,55,4,9,102,66,Yes,5,0,6,48,50,Low,Medium
+PL0833,Anrich Nortje,37,Bowler,1,133,55,6,5,130,55,No,1,3,3,73,27,Medium,Medium
+PL0834,Aaron Yadav,21,Batsman,5,11,25,7,10,118,48,No,5,1,4,77,72,Medium,Low
+PL0835,Mohammad Warner,36,Wicket Keeper,8,1,32,4,6,138,65,Yes,6,0,4,85,38,Medium,Medium
+PL0836,Rashid Cummins,34,Bowler,2,181,64,7,4,141,42,Yes,1,6,2,85,64,Medium,High
+PL0837,Steve Iyer,29,Batsman,3,15,36,7,8,117,66,No,6,0,2,68,48,Low,Low
+PL0838,Travis Finch,26,Batsman,2,17,55,3,4,128,43,Yes,5,1,4,46,17,Medium,High
+PL0839,Pat Finch,30,Batsman,1,0,36,1,7,85,91,No,8,0,3,92,18,Low,Low
+PL0840,Kagiso Rahul,18,Batsman,5,12,55,2,4,131,71,No,7,1,2,94,72,Medium,Low
+PL0841,Anrich Bavuma,29,Batsman,5,3,43,1,7,116,73,No,4,1,3,76,2,Low,Low
+PL0842,Mohammad Iyer,29,All-Rounder,1,70,67,1,4,111,68,No,2,5,3,42,10,Medium,Medium
+PL0843,Shaheen Root,40,Wicket Keeper,7,5,62,4,10,111,77,Yes,5,1,8,67,32,Medium,Medium
+PL0844,Kagiso Maxwell,35,All-Rounder,4,65,41,5,4,151,43,No,5,2,4,59,61,Medium,Medium
+PL0845,Virat Sharma,25,Wicket Keeper,6,7,67,5,9,117,86,No,3,1,7,70,0,Medium,Low
+PL0846,Virat Afridi,26,Bowler,2,121,68,7,7,115,41,Yes,0,7,4,50,28,Medium,High
+PL0847,Pat Finch,17,Wicket Keeper,7,8,68,6,9,144,41,Yes,5,1,8,42,4,Medium,High
+PL0848,Joe Afridi,40,All-Rounder,4,86,50,6,7,113,67,No,3,3,4,89,17,Medium,Low
+PL0849,Mitchell Rizwan,35,Batsman,6,18,25,3,4,147,77,No,8,0,3,90,62,Medium,Low
+PL0850,Mitchell Buttler,20,Bowler,4,147,75,7,8,122,68,Yes,1,5,2,68,14,Medium,Medium
+PL0851,Temba Root,18,Batsman,6,18,41,1,10,105,82,Yes,4,0,4,94,46,Low,Medium
+PL0852,Shubman Rahul,17,Bowler,7,133,95,7,9,120,96,Yes,0,3,2,44,3,Medium,High
+PL0853,Anrich Gill,28,All-Rounder,7,115,79,2,7,130,99,Yes,5,4,5,42,5,Medium,High
+PL0854,Rohit Buttler,29,All-Rounder,7,147,64,1,4,154,63,No,3,4,2,73,37,Medium,Medium
+PL0855,Quinton Starc,17,Wicket Keeper,5,3,65,2,8,110,85,Yes,4,1,8,85,22,Low,Medium
+PL0856,Shreyas Pandya,25,Bowler,2,247,76,1,5,134,54,Yes,2,5,4,90,37,Medium,Medium
+PL0857,Anrich Smith,23,Bowler,2,115,69,2,8,95,76,No,1,3,3,71,49,Low,Low
+PL0858,Babur Sharma,26,Wicket Keeper,6,10,63,1,7,139,69,Yes,5,0,6,46,69,Medium,Medium
+PL0859,Anrich de Kock,32,Bowler,8,112,94,7,9,119,77,No,0,4,2,55,38,Medium,Low
+PL0860,Rashid Bumrah,36,All-Rounder,6,96,80,3,6,136,68,Yes,2,5,2,72,71,Medium,Medium
+PL0861,Hardik Rabada,20,Batsman,1,16,47,5,9,103,48,Yes,4,1,2,48,66,Medium,Medium
+PL0862,Aaron Williamson,18,Wicket Keeper,3,4,56,1,8,106,68,Yes,5,0,6,89,32,Low,Medium
+PL0863,Rishabh Warner,19,Wicket Keeper,7,10,68,5,7,138,83,Yes,6,1,5,68,23,Medium,Medium
+PL0864,Aaron Jadeja,36,All-Rounder,7,175,76,2,10,114,91,Yes,4,5,2,42,67,Medium,Medium
+PL0865,Anrich Kohli,21,Batsman,6,14,26,7,6,121,81,Yes,4,1,2,73,15,Medium,Medium
+PL0866,Kane Jadeja,30,Bowler,2,171,76,2,10,90,94,Yes,2,4,2,60,43,Low,Medium
+PL0867,David Afridi,19,All-Rounder,4,89,63,3,7,121,77,Yes,5,5,2,88,2,Medium,Medium
+PL0868,Shubman Pandya,39,Wicket Keeper,4,5,59,1,7,120,72,Yes,5,0,6,44,4,Medium,Medium
+PL0869,Quinton Nortje,19,All-Rounder,8,118,62,1,5,170,44,No,4,4,3,42,59,High,Medium
+PL0870,Ben Smith,26,Wicket Keeper,6,10,47,7,5,148,47,No,4,0,7,84,43,Medium,Medium
+PL0871,Ben Gill,37,All-Rounder,1,163,75,7,7,116,67,No,3,5,5,47,31,Medium,Low
+PL0872,Jofra Pant,20,Bowler,1,208,50,6,5,123,72,Yes,2,4,1,56,0,Medium,High
+PL0873,Mitchell Azam,32,Bowler,1,165,56,7,7,92,81,Yes,1,7,2,53,9,Medium,Medium
+PL0874,Mohammad Gill,29,All-Rounder,4,172,46,4,7,126,52,No,4,5,5,42,7,Medium,Medium
+PL0875,Lokesh Khan,16,All-Rounder,2,81,55,7,9,103,78,No,4,3,5,99,52,Low,Low
+PL0876,Hardik Archer,37,Batsman,1,0,30,7,8,97,76,No,5,0,5,91,39,Low,Low
+PL0877,Babur Buttler,33,All-Rounder,1,58,42,1,9,120,40,No,2,3,2,82,50,Low,Low
+PL0878,Babur Starc,26,Bowler,5,128,95,7,4,138,57,No,2,7,2,44,34,High,Medium
+PL0879,Rohit Azam,29,Bowler,6,216,100,2,9,124,76,Yes,1,4,3,67,67,Medium,Medium
+PL0880,Rashid Pant,32,Wicket Keeper,4,2,34,5,5,120,71,Yes,5,0,4,97,14,Low,Medium
+PL0881,Virat Pandya,31,Wicket Keeper,3,1,52,2,9,107,75,No,4,1,8,53,12,Low,Low
+PL0882,Suryakumar Azam,18,Bowler,1,165,92,7,9,82,87,Yes,0,7,4,52,58,Medium,Medium
+PL0883,Jasprit Khan,34,Wicket Keeper,1,10,39,3,9,85,70,No,6,0,5,69,21,Low,Low
+PL0884,Ravindra Pandya,23,Batsman,4,15,39,4,7,129,66,No,8,1,5,91,38,Low,Low
+PL0885,Kane Afridi,30,All-Rounder,4,71,54,4,8,120,61,No,3,4,3,51,23,Medium,Low
+PL0886,Kagiso Rahul,37,Wicket Keeper,4,8,68,4,7,118,72,No,3,0,4,84,8,Medium,Low
+PL0887,Hardik Yadav,39,Wicket Keeper,5,9,44,2,9,101,80,Yes,3,1,4,54,24,Low,Medium
+PL0888,Hardik Williamson,40,Batsman,6,16,60,1,4,137,76,No,6,1,4,73,10,Medium,Medium
+PL0889,Rohit Rizwan,16,All-Rounder,2,76,60,4,8,107,75,No,4,5,5,100,67,Low,Low
+PL0890,Temba Azam,30,All-Rounder,8,95,55,2,10,127,60,No,4,2,4,55,71,Medium,Low
+PL0891,Ben Khan,19,Batsman,5,13,55,7,9,107,74,Yes,8,0,2,58,7,Medium,Medium
+PL0892,Travis Azam,18,Wicket Keeper,8,4,35,3,5,146,94,No,3,0,6,83,12,Medium,Low
+PL0893,Shaheen Nortje,18,Batsman,5,8,58,6,6,127,59,Yes,6,1,4,77,4,Medium,High
+PL0894,Jos Smith,28,All-Rounder,4,108,46,3,7,121,56,No,4,4,2,78,52,Medium,Low
+PL0895,Glenn Nortje,37,Bowler,4,195,56,3,10,100,79,Yes,0,5,2,56,72,Medium,Medium
+PL0896,Jasprit Bavuma,31,Wicket Keeper,3,8,49,2,8,112,77,Yes,4,0,8,41,26,Medium,Medium
+PL0897,Mohammad Starc,20,Wicket Keeper,4,5,69,3,4,141,43,Yes,3,0,7,77,66,Medium,Medium
+PL0898,Lokesh Afridi,18,All-Rounder,2,104,80,1,10,97,54,Yes,5,2,3,85,20,Low,Medium
+PL0899,Quinton Gill,23,Bowler,3,137,89,4,6,118,69,No,2,5,3,95,67,Medium,Low
+PL0900,Shaheen Nortje,25,Batsman,8,18,39,4,6,160,44,No,7,1,5,43,20,Medium,Medium
+PL0901,Steve Afridi,36,All-Rounder,2,70,63,5,7,94,94,Yes,2,5,4,49,14,Medium,Medium
+PL0902,Shaheen Pandya,32,Bowler,1,180,64,1,4,135,50,No,2,7,3,53,69,Medium,Medium
+PL0903,Jasprit Rabada,30,All-Rounder,6,123,49,4,9,117,73,No,5,4,4,75,10,Medium,Low
+PL0904,Travis Warner,36,Batsman,3,12,35,6,7,113,86,Yes,8,1,4,73,68,Low,Medium
+PL0905,Rohit Buttler,39,Batsman,6,15,38,4,10,131,51,No,7,0,4,40,63,Medium,Low
+PL0906,Kane Stokes,35,Bowler,3,179,89,7,10,112,57,Yes,0,4,1,58,72,Medium,Medium
+PL0907,Mitchell Rahul,20,Bowler,1,173,86,1,10,77,99,No,0,7,2,96,43,Low,Low
+PL0908,Glenn Cummins,25,Wicket Keeper,3,2,69,3,6,113,84,Yes,3,1,6,44,61,Medium,Medium
+PL0909,Shubman Starc,16,Wicket Keeper,7,7,65,5,4,158,47,Yes,3,1,8,80,0,Medium,High
+PL0910,Shubman Warner,36,Batsman,6,2,31,3,7,108,96,Yes,7,0,4,63,62,Low,Medium
+PL0911,Pat Yadav,40,Bowler,3,151,50,2,8,101,96,Yes,1,6,1,85,48,Low,Medium
+PL0912,Rohit Jadeja,35,Bowler,7,142,50,5,4,149,55,No,0,4,2,79,55,Medium,Medium
+PL0913,Jasprit Yadav,34,All-Rounder,7,94,60,4,5,139,63,No,5,2,4,52,46,Medium,Medium
+PL0914,David Iyer,28,All-Rounder,6,141,40,5,8,135,64,No,2,5,4,59,56,Medium,Low
+PL0915,Temba Stokes,29,Wicket Keeper,5,3,32,1,5,119,95,No,6,1,5,59,50,Medium,Low
+PL0916,Aaron Warner,23,Wicket Keeper,2,6,32,4,5,101,88,No,3,0,5,67,38,Low,Low
+PL0917,Shubman Pandya,35,Batsman,1,8,56,2,9,97,52,Yes,8,1,4,84,64,Low,Medium
+PL0918,Anrich Pandya,29,Batsman,6,16,30,5,9,101,87,No,4,1,5,86,7,Low,Low
+PL0919,Ben Smith,37,Bowler,5,222,63,5,5,142,67,Yes,0,4,3,96,34,Medium,High
+PL0920,Babur Bumrah,39,All-Rounder,4,99,76,6,4,142,41,No,4,3,3,62,36,High,Medium
+PL0921,Mohammad de Kock,22,All-Rounder,7,119,42,6,6,148,67,Yes,3,5,5,67,4,Medium,High
+PL0922,Suryakumar Yadav,29,All-Rounder,8,70,50,1,8,142,69,Yes,2,4,5,90,47,Medium,Medium
+PL0923,Pat Rabada,29,All-Rounder,1,143,43,7,9,108,40,Yes,4,4,3,84,60,Medium,Medium
+PL0924,Virat Khan,22,Batsman,6,13,26,3,9,113,95,Yes,4,0,3,45,17,Low,Medium
+PL0925,Steve Afridi,38,Wicket Keeper,6,6,42,7,6,124,85,No,4,0,6,88,53,Medium,Low
+PL0926,Glenn Pant,37,All-Rounder,4,111,51,2,5,136,60,Yes,4,3,2,83,18,Medium,High
+PL0927,Pat Archer,37,All-Rounder,5,69,59,7,5,120,95,No,4,3,3,68,33,Medium,Low
+PL0928,Joe Rizwan,28,All-Rounder,4,82,50,2,4,119,91,No,3,5,5,85,46,Medium,Low
+PL0929,Rashid Jadeja,16,Wicket Keeper,7,5,60,1,7,121,91,No,6,1,6,88,20,Low,Low
+PL0930,Jos Maxwell,16,Batsman,8,10,58,3,6,155,53,No,8,0,4,43,42,Medium,Medium
+PL0931,Jofra Gill,29,Wicket Keeper,5,8,43,3,7,123,74,No,6,1,8,65,62,Medium,Low
+PL0932,Aaron Maxwell,40,Wicket Keeper,4,6,48,1,9,111,69,No,4,1,7,72,42,Low,Low
+PL0933,Anrich Finch,25,Wicket Keeper,5,3,46,4,9,109,85,No,4,0,5,87,55,Low,Low
+PL0934,Aaron Finch,27,Bowler,7,161,92,5,8,124,76,No,2,7,2,85,6,Medium,Medium
+PL0935,Ravindra Kohli,32,Wicket Keeper,6,4,61,2,6,121,82,No,3,0,4,51,50,Medium,Low
+PL0936,Shaheen Jadeja,25,Wicket Keeper,3,2,62,7,9,93,75,Yes,6,1,5,88,72,Low,Medium
+PL0937,Mohammad Buttler,37,All-Rounder,1,118,50,4,9,92,87,Yes,4,3,5,96,35,Low,Medium
+PL0938,Hardik Archer,38,Batsman,3,7,35,3,6,125,69,Yes,7,1,5,78,63,Low,Medium
+PL0939,Virat Pant,30,Batsman,3,9,35,6,9,110,55,No,7,1,3,90,12,Low,Low
+PL0940,Quinton Bumrah,16,Wicket Keeper,6,4,53,6,10,132,52,Yes,4,0,6,90,11,Medium,Medium
+PL0941,Jos Archer,35,Bowler,8,136,65,4,7,121,96,No,2,4,2,60,53,Medium,Low
+PL0942,Aaron Rahul,17,Bowler,8,194,88,2,6,155,53,No,1,7,1,70,62,High,Medium
+PL0943,Rashid Khan,26,Wicket Keeper,6,0,64,3,5,137,92,No,6,1,8,99,23,Low,Low
+PL0944,Steve Kohli,23,All-Rounder,3,71,74,6,7,117,45,No,4,5,2,55,18,Medium,Medium
+PL0945,Anrich Iyer,38,Bowler,3,146,60,5,10,111,56,Yes,1,4,4,64,21,Medium,Medium
+PL0946,Pat Pant,39,Wicket Keeper,4,1,35,6,6,114,85,No,5,0,5,60,5,Medium,Low
+PL0947,Ben Bumrah,20,Bowler,2,157,73,4,9,114,59,Yes,2,3,2,98,4,Low,Medium
+PL0948,Ravindra Pandya,30,Batsman,2,15,25,2,5,99,100,No,4,0,5,59,46,Low,Low
+PL0949,Hardik de Kock,26,All-Rounder,7,119,60,3,8,137,66,Yes,4,5,2,63,65,Medium,Medium
+PL0950,Virat Yadav,17,Batsman,2,1,56,2,9,100,64,No,5,0,2,58,17,Low,Low
+PL0951,Aaron Nortje,32,Batsman,6,17,39,5,7,118,81,No,7,0,2,70,65,Medium,Low
+PL0952,Rishabh Archer,22,Batsman,8,8,42,7,5,149,72,No,4,0,3,79,58,Medium,Low
+PL0953,Rishabh Pandya,34,Bowler,3,110,79,6,6,119,57,Yes,1,5,3,88,36,Medium,Medium
+PL0954,Kane Smith,31,Wicket Keeper,7,4,30,3,10,117,77,Yes,5,0,8,62,59,Low,Medium
+PL0955,Temba Pandya,35,Bowler,2,124,94,2,10,92,67,Yes,1,7,3,73,11,Low,Medium
+PL0956,Steve Afridi,28,Batsman,3,16,33,5,9,81,98,No,5,0,2,73,50,Low,Low
+PL0957,Ravindra Warner,22,All-Rounder,4,133,74,3,6,127,57,No,3,5,4,68,1,Medium,Medium
+PL0958,Travis Finch,16,All-Rounder,1,149,79,7,7,111,54,Yes,4,2,4,52,7,Medium,High
+PL0959,David Pant,17,All-Rounder,6,102,58,2,9,136,48,Yes,5,2,3,74,50,Medium,Medium
+PL0960,Steve Afridi,24,All-Rounder,8,176,63,6,7,146,61,Yes,4,5,3,51,48,High,High
+PL0961,Rishabh Afridi,20,Wicket Keeper,7,9,44,6,5,160,41,Yes,6,1,8,75,64,Medium,High
+PL0962,Mohammad Kohli,22,Bowler,8,168,70,3,9,114,96,Yes,0,6,3,80,56,Medium,Medium
+PL0963,Ben Pant,30,Wicket Keeper,1,7,70,3,8,111,56,Yes,5,0,5,92,68,Low,Medium
+PL0964,Shaheen Iyer,25,Batsman,4,2,33,4,10,113,42,Yes,6,1,4,45,34,Medium,Medium
+PL0965,Glenn Rahul,39,Bowler,7,194,63,1,8,132,83,No,2,5,4,70,52,Medium,Low
+PL0966,Babur Khan,30,Batsman,6,6,29,4,4,134,81,Yes,7,0,5,41,34,Medium,High
+PL0967,Shaheen Azam,18,Batsman,6,11,31,7,10,117,73,No,4,1,5,44,40,Medium,Low
+PL0968,Pat Williamson,38,Bowler,1,209,74,2,9,99,52,Yes,1,7,1,81,40,Medium,Medium
+PL0969,Travis Bumrah,33,Bowler,3,202,84,4,9,110,74,Yes,1,5,2,45,68,Medium,Medium
+PL0970,Shreyas Afridi,25,Wicket Keeper,6,10,45,4,10,115,79,No,5,0,7,98,35,Low,Low
+PL0971,Jasprit Bavuma,27,Bowler,8,150,70,3,6,151,67,No,1,3,4,92,66,Medium,Low
+PL0972,Jos Pant,39,Batsman,5,9,57,5,8,116,72,No,4,0,2,55,69,Medium,Low
+PL0973,Shubman de Kock,30,Batsman,1,10,51,3,10,92,48,Yes,5,0,4,41,72,Low,Medium
+PL0974,Rishabh Khan,25,Bowler,2,152,70,4,9,96,70,Yes,1,7,3,74,8,Medium,Medium
+PL0975,Lokesh Bavuma,17,Batsman,5,15,60,2,10,113,81,No,6,0,2,66,23,Low,Low
+PL0976,Kagiso Stokes,31,Batsman,1,6,31,3,10,84,92,Yes,8,0,3,67,17,Low,Medium
+PL0977,Babur Root,35,Batsman,1,16,58,4,10,96,73,Yes,5,1,5,86,70,Low,Medium
+PL0978,Joe Rabada,36,Bowler,7,224,75,2,10,116,58,No,2,5,1,64,70,Medium,Low
+PL0979,Ravindra Jadeja,19,Bowler,1,248,73,2,7,99,79,Yes,1,7,1,98,19,Low,Medium
+PL0980,Mohammad Root,26,Bowler,6,177,80,3,6,137,45,No,1,5,2,74,23,Medium,Medium
+PL0981,Glenn Gill,20,Batsman,4,2,37,4,7,139,43,No,5,1,3,99,4,Low,Low
+PL0982,Suryakumar Azam,25,Batsman,6,3,38,5,6,112,97,No,5,0,2,98,5,Low,Low
+PL0983,Anrich Iyer,40,Wicket Keeper,7,0,55,5,10,127,70,No,4,0,5,93,57,Low,Low
+PL0984,Jos Azam,17,All-Rounder,4,66,54,2,6,147,43,No,5,4,5,48,67,Medium,Low
+PL0985,Pat Head,16,Batsman,7,1,48,4,6,145,73,No,6,1,4,64,15,Medium,Medium
+PL0986,Jasprit Head,37,Wicket Keeper,6,4,70,2,5,124,100,Yes,5,0,5,48,47,Medium,Medium
+PL0987,Ravindra Finch,19,Bowler,2,118,64,4,5,115,74,No,0,3,3,58,0,Medium,Medium
+PL0988,Ravindra Khan,40,All-Rounder,4,118,72,3,5,137,70,No,5,4,2,76,50,Medium,Low
+PL0989,Quinton de Kock,35,Batsman,5,15,39,1,9,124,61,Yes,5,0,5,81,29,Low,Medium
+PL0990,Ben Maxwell,16,Batsman,6,17,40,1,7,134,73,No,7,1,3,80,15,Medium,Low
+PL0991,Glenn Gill,37,Wicket Keeper,7,4,47,7,9,124,79,No,4,1,7,69,22,Medium,Low
+PL0992,Shreyas Afridi,38,Batsman,1,15,26,2,6,104,94,No,5,1,4,58,36,Low,Low
+PL0993,Ben Pant,17,Bowler,1,245,90,7,6,112,80,Yes,2,5,3,54,31,Medium,High
+PL0994,Lokesh Bavuma,39,Wicket Keeper,7,2,40,2,4,144,82,No,5,0,4,68,46,Medium,Low
+PL0995,Kagiso Azam,25,Wicket Keeper,6,4,64,1,8,119,77,Yes,6,0,6,41,29,Medium,Medium
+PL0996,Jofra Head,17,Wicket Keeper,8,5,41,3,5,152,59,No,4,0,6,91,64,Medium,Low
+PL0997,Aaron Head,19,Wicket Keeper,5,3,54,1,9,130,40,No,4,1,8,94,38,Low,Low
+PL0998,Aaron Sharma,38,All-Rounder,2,122,40,3,10,92,70,Yes,2,3,4,43,63,Medium,Medium
+PL0999,Joe Yadav,38,Wicket Keeper,3,4,37,1,9,101,89,Yes,6,0,5,88,34,Low,Medium
+PL1000,Jofra Starc,29,Bowler,5,199,82,4,8,113,87,Yes,1,7,2,53,26,Medium,Medium
+PL1001,Jos Bumrah,37,Wicket Keeper,6,2,30,2,10,99,93,No,3,1,5,76,57,Low,Low
+PL1002,Lokesh Kohli,37,Batsman,1,20,56,7,4,134,41,No,8,0,5,44,40,Medium,Medium
+PL1003,Mohammad de Kock,36,Wicket Keeper,3,5,70,4,4,151,47,No,6,1,7,55,18,Medium,Medium
+PL1004,Travis Buttler,36,All-Rounder,1,94,77,3,9,106,47,No,3,3,4,98,40,Low,Low
+PL1005,Glenn Rizwan,20,Batsman,1,8,27,1,7,107,79,Yes,4,0,2,90,69,Low,Medium
+PL1006,Pat Williamson,25,Wicket Keeper,6,0,36,5,4,151,78,Yes,3,0,6,57,31,Medium,High
+PL1007,Lokesh Root,26,Wicket Keeper,2,4,56,2,6,112,85,Yes,4,0,5,80,65,Low,Medium
+PL1008,Babur Sharma,16,Wicket Keeper,1,7,69,6,6,123,61,Yes,6,0,7,78,52,Medium,Medium
+PL1009,Virat Khan,34,All-Rounder,5,175,47,5,6,110,90,No,3,4,2,60,34,Medium,Low
+PL1010,Mitchell Rahul,26,All-Rounder,7,53,59,7,5,133,99,No,2,4,5,83,48,Medium,Low
+PL1011,Lokesh Finch,25,All-Rounder,2,166,59,1,7,107,62,No,4,4,5,51,24,Medium,Low
+PL1012,Quinton Rabada,33,Bowler,6,245,94,6,4,165,44,Yes,0,6,4,70,45,High,High
+PL1013,Rohit Williamson,38,Bowler,6,249,86,5,6,149,41,No,0,3,4,97,41,Medium,Medium
+PL1014,David Buttler,33,Bowler,2,158,85,7,9,86,98,No,0,5,1,81,51,Low,Low
+PL1015,Quinton Stokes,30,Bowler,4,182,60,7,7,128,43,No,2,7,4,95,1,Medium,Medium
+PL1016,Mohammad Bumrah,38,All-Rounder,5,161,70,2,5,140,54,No,2,4,4,71,15,Medium,Medium
+PL1017,Hardik Archer,24,Bowler,6,171,57,1,5,126,93,Yes,0,4,2,86,61,Medium,Medium
+PL1018,Shreyas Warner,23,Bowler,2,216,97,2,8,92,83,Yes,1,7,1,49,2,Medium,Medium
+PL1019,Shaheen Rahul,37,All-Rounder,6,118,70,5,9,122,79,No,4,5,3,82,53,Medium,Low
+PL1020,Mitchell Bumrah,30,All-Rounder,8,106,78,6,10,126,62,Yes,2,5,4,74,64,Medium,Medium
+PL1021,Travis Jadeja,18,Bowler,3,238,60,4,10,76,100,No,2,6,3,82,27,Low,Low
+PL1022,Rohit Azam,28,All-Rounder,7,119,69,5,5,139,85,No,4,5,3,42,22,Medium,Medium
+PL1023,Travis Sharma,28,Bowler,3,191,89,6,5,126,87,Yes,2,4,1,83,31,Medium,Medium
+PL1024,Jofra Rizwan,20,Bowler,6,168,80,1,9,131,68,No,0,3,2,88,67,Medium,Low
+PL1025,Kane Finch,17,Batsman,4,18,33,2,4,148,48,Yes,4,1,4,100,22,Medium,Medium
+PL1026,Ravindra Nortje,26,Wicket Keeper,6,0,42,7,6,135,56,No,6,1,6,86,47,Medium,Low
+PL1027,Kagiso Khan,33,All-Rounder,4,80,54,1,7,121,63,No,2,2,5,63,30,Medium,Low
+PL1028,Jasprit Head,19,Batsman,5,11,27,4,6,121,71,Yes,5,0,4,42,56,Medium,Medium
+PL1029,Joe Iyer,19,All-Rounder,7,171,50,2,7,144,45,Yes,2,5,3,92,49,Medium,Medium
+PL1030,Babur Pant,25,Wicket Keeper,5,0,65,7,6,128,63,No,3,0,8,100,37,Medium,Low
+PL1031,Kane Warner,18,All-Rounder,7,160,52,4,4,134,96,Yes,4,2,4,69,26,Medium,High
+PL1032,Shreyas Khan,25,All-Rounder,6,166,78,3,4,133,94,No,3,5,4,52,38,Medium,Medium
+PL1033,Joe Buttler,19,Batsman,4,8,20,5,6,129,60,Yes,6,1,5,87,8,Low,Medium
+PL1034,Anrich Rabada,34,All-Rounder,8,143,72,3,4,159,79,Yes,4,5,2,96,12,Medium,High
+PL1035,Joe Starc,38,Bowler,4,121,79,5,7,115,82,No,1,4,4,86,22,Medium,Low
+PL1036,Lokesh Rizwan,36,Bowler,1,173,85,7,6,90,91,No,0,7,3,60,23,Medium,Low
+PL1037,Aaron Root,17,Batsman,2,20,48,7,9,91,83,Yes,6,0,2,98,24,Low,Medium
+PL1038,Hardik Archer,27,Bowler,4,150,97,1,10,93,100,No,2,5,4,70,19,Low,Low
+PL1039,Shubman Khan,37,Batsman,7,7,33,6,6,143,82,Yes,6,0,3,60,51,Medium,Medium
+PL1040,Rohit Jadeja,33,Wicket Keeper,6,9,54,3,5,134,97,No,5,1,5,73,35,Medium,Low
+PL1041,Rashid Buttler,24,All-Rounder,7,173,43,4,5,141,71,No,2,5,4,96,65,Medium,Low
+PL1042,Jofra Archer,34,Batsman,5,18,50,2,4,142,59,Yes,5,0,2,54,45,Medium,High
+PL1043,Glenn Head,27,Bowler,8,173,55,6,10,112,83,Yes,0,3,3,80,66,Medium,Medium
+PL1044,Shubman Finch,34,All-Rounder,6,123,73,1,9,136,42,No,2,2,3,72,68,Medium,Low
+PL1045,Kagiso Finch,19,Batsman,2,17,43,1,8,102,80,Yes,7,0,2,93,29,Low,Medium
+PL1046,Aaron Bumrah,39,Bowler,5,240,90,2,9,112,82,Yes,1,4,2,94,22,Medium,Medium
+PL1047,Shubman Smith,25,All-Rounder,8,146,44,5,7,157,55,Yes,2,4,2,65,12,Medium,High
+PL1048,Glenn Bavuma,22,All-Rounder,5,62,55,5,9,117,53,No,5,4,5,87,8,Medium,Low
+PL1049,Travis Root,36,Wicket Keeper,4,2,58,2,9,101,86,No,3,0,4,62,63,Low,Low
+PL1050,Mitchell de Kock,36,All-Rounder,6,73,51,1,5,128,94,No,5,5,5,42,16,Medium,Medium
+PL1051,Shubman Root,18,Bowler,2,177,70,5,9,108,49,No,0,3,3,79,32,Medium,Low
+PL1052,Joe Williamson,31,Batsman,3,12,40,2,5,121,69,Yes,5,0,3,56,7,Medium,High
+PL1053,Temba Finch,34,Bowler,7,109,76,7,4,148,81,Yes,1,6,1,73,52,Medium,High
+PL1054,Joe Pant,34,All-Rounder,2,82,65,2,7,125,57,Yes,4,4,5,70,58,Medium,Medium
+PL1055,Quinton de Kock,18,Wicket Keeper,1,7,70,7,9,88,64,No,4,0,7,85,21,Low,Low
+PL1056,Babur Williamson,40,Bowler,6,180,54,1,5,148,58,Yes,2,6,2,79,30,Medium,High
+PL1057,Joe Stokes,27,Wicket Keeper,7,2,56,2,8,138,41,Yes,3,0,5,40,20,Medium,High
+PL1058,David Afridi,18,All-Rounder,5,107,72,7,4,159,46,Yes,4,4,2,80,9,Medium,High
+PL1059,Joe Head,26,All-Rounder,1,68,61,1,10,100,68,Yes,2,4,5,48,58,Low,Medium
+PL1060,Kane Khan,35,Wicket Keeper,8,4,37,1,5,141,74,Yes,5,0,6,67,4,Medium,High
+PL1061,Jos Root,30,Wicket Keeper,6,4,54,1,5,135,70,No,6,1,8,46,59,Medium,Low
+PL1062,Temba Cummins,40,All-Rounder,5,116,77,5,5,141,44,No,2,4,5,99,52,Medium,Medium
+PL1063,Pat Smith,20,Bowler,6,188,59,5,9,110,80,Yes,0,7,3,81,58,Medium,Medium
+PL1064,Shubman Smith,32,Bowler,2,147,84,4,7,129,48,Yes,0,3,1,63,50,Medium,Medium
+PL1065,Kane Afridi,35,Batsman,6,7,26,5,6,123,81,Yes,7,0,2,90,43,Low,Medium
+PL1066,Travis Jadeja,18,Bowler,8,145,65,1,10,124,78,No,0,4,4,86,47,Medium,Low
+PL1067,Ben Sharma,35,Wicket Keeper,7,8,34,2,6,125,99,No,5,0,7,78,9,Low,Low
+PL1068,Shubman Cummins,30,Batsman,7,1,59,3,10,107,77,Yes,8,0,3,57,18,Medium,Medium
+PL1069,Virat Sharma,37,All-Rounder,5,110,78,3,10,95,93,Yes,4,5,5,75,64,Low,Medium
+PL1070,Shaheen Smith,29,Bowler,8,245,60,6,5,142,89,No,2,6,4,91,24,Medium,Medium
+PL1071,Kagiso Buttler,39,Batsman,6,0,33,3,9,117,88,Yes,6,0,4,65,31,Low,Medium
+PL1072,Babur Jadeja,38,Batsman,6,8,59,6,6,126,74,Yes,8,1,4,80,12,Medium,Medium
+PL1073,Rishabh Head,30,Wicket Keeper,5,3,59,7,4,144,78,No,6,0,8,69,48,Medium,Low
+PL1074,Kane Stokes,18,Batsman,3,1,55,3,9,91,82,Yes,8,0,2,78,63,Low,Medium
+PL1075,Rohit Afridi,22,Bowler,6,237,89,5,7,149,46,No,1,4,2,55,51,High,Medium
+PL1076,Ravindra Yadav,32,All-Rounder,5,63,71,7,8,126,75,No,4,4,2,93,49,Medium,Low
+PL1077,Hardik Rizwan,38,Bowler,7,201,78,1,4,138,77,Yes,1,4,1,43,53,High,High
+PL1078,Suryakumar Pandya,25,Bowler,4,179,67,5,6,115,73,Yes,1,4,1,100,66,Medium,Medium
+PL1079,Kane Nortje,31,Wicket Keeper,2,4,54,3,5,120,52,No,4,1,8,74,33,Medium,Low
+PL1080,Lokesh Gill,27,All-Rounder,5,168,40,2,7,114,98,No,2,3,4,65,62,Medium,Low
+PL1081,Temba Rabada,26,Bowler,8,107,98,1,10,133,44,Yes,2,3,2,62,49,Medium,Medium
+PL1082,Aaron Yadav,29,All-Rounder,6,173,65,6,7,137,42,No,3,4,4,76,43,Medium,Medium
+PL1083,Shubman Iyer,16,Wicket Keeper,5,9,59,4,9,119,68,Yes,4,0,4,54,70,Medium,Medium
+PL1084,Pat Bumrah,35,All-Rounder,1,89,70,4,7,109,61,No,3,4,2,65,44,Medium,Low
+PL1085,Anrich Gill,18,Wicket Keeper,5,5,62,5,4,142,67,Yes,6,0,6,61,19,Medium,High
+PL1086,Ben Williamson,26,Wicket Keeper,7,0,60,4,9,131,68,No,6,0,7,99,30,Low,Low
+PL1087,Steve Stokes,24,Wicket Keeper,1,5,52,1,5,100,93,Yes,5,1,7,40,2,Low,Medium
+PL1088,Temba Archer,17,Bowler,7,134,51,6,6,122,97,No,0,3,2,64,38,Medium,Low
+PL1089,Hardik Kohli,33,All-Rounder,7,174,75,4,7,154,45,Yes,4,2,2,45,60,High,High
+PL1090,David Rizwan,17,Wicket Keeper,7,10,52,1,10,127,56,No,5,1,5,82,2,Medium,Low
+PL1091,Rishabh Nortje,25,Wicket Keeper,5,2,53,5,4,153,61,Yes,4,1,8,90,7,Medium,High
+PL1092,Jofra Iyer,37,All-Rounder,6,119,80,6,5,135,82,Yes,2,3,2,65,10,Medium,High
+PL1093,Rishabh Stokes,36,All-Rounder,2,95,53,7,6,112,93,Yes,2,4,3,100,55,Low,Medium
+PL1094,Temba Bumrah,39,All-Rounder,2,96,58,3,10,88,93,Yes,4,4,5,42,3,Low,Medium
+PL1095,Quinton Cummins,23,Wicket Keeper,5,0,40,7,9,106,71,Yes,3,0,6,94,36,Low,Medium
+PL1096,Ben Gill,19,Wicket Keeper,2,8,58,5,10,78,100,No,4,0,5,62,38,Low,Low
+PL1097,David Rizwan,19,All-Rounder,5,127,56,3,8,110,85,Yes,3,3,5,99,40,Low,Medium
+PL1098,Rohit Cummins,17,Wicket Keeper,7,2,47,2,9,120,71,No,4,1,5,69,20,Medium,Low
+PL1099,Glenn Root,33,All-Rounder,1,85,50,3,10,87,75,No,3,4,2,87,23,Low,Low
+PL1100,Kagiso Maxwell,32,Batsman,8,12,55,6,7,145,42,No,7,0,5,62,27,Medium,Medium
+PL1101,Suryakumar Yadav,23,Batsman,7,20,46,4,9,129,63,No,7,0,3,92,51,Medium,Low
+PL1102,Lokesh Afridi,25,Bowler,4,149,89,3,7,118,72,Yes,1,7,4,68,44,Medium,Medium
+PL1103,Suryakumar Pandya,32,Bowler,6,155,94,5,5,129,83,Yes,0,6,2,60,9,Medium,High
+PL1104,Ben Nortje,37,All-Rounder,6,117,40,6,9,119,69,Yes,5,5,3,92,44,Medium,Medium
+PL1105,Kagiso Sharma,37,Bowler,7,204,91,1,4,166,46,No,0,6,2,85,28,High,Medium
+PL1106,Aaron Kohli,21,Batsman,2,4,55,6,6,91,99,No,7,1,2,55,50,Low,Low
+PL1107,Mohammad Cummins,19,Wicket Keeper,8,3,54,7,4,175,44,No,6,0,4,91,70,Medium,Medium
+PL1108,Ben Pandya,26,Bowler,4,147,67,7,5,149,50,Yes,2,5,3,93,9,Medium,High
+PL1109,Jofra Head,26,Batsman,7,20,46,6,8,117,76,No,8,1,2,48,55,Medium,Low
+PL1110,Kagiso Jadeja,24,Batsman,8,6,22,1,4,141,84,No,5,0,3,95,26,Medium,Low
+PL1111,David Iyer,29,Wicket Keeper,1,5,36,6,10,101,61,No,3,1,5,54,24,Low,Low
+PL1112,Ravindra Sharma,29,All-Rounder,4,99,60,5,4,112,97,No,3,3,2,69,8,Medium,Medium
+PL1113,Babur Rizwan,26,All-Rounder,7,103,68,3,4,156,76,No,5,3,4,53,50,Medium,Medium
+PL1114,Rohit Maxwell,40,Wicket Keeper,7,9,59,6,8,125,94,Yes,3,1,7,76,41,Medium,Medium
+PL1115,Ben Yadav,40,Wicket Keeper,3,6,50,5,4,133,57,Yes,3,0,4,93,5,Medium,High
+PL1116,Glenn Archer,33,Batsman,1,16,20,2,6,101,73,No,6,0,5,99,40,Low,Low
+PL1117,Mitchell Jadeja,35,Bowler,6,229,91,4,10,106,91,Yes,2,3,4,99,0,Medium,Medium
+PL1118,Lokesh Head,39,Bowler,3,162,99,3,9,90,94,Yes,0,6,2,80,62,Low,Medium
+PL1119,Rishabh Rizwan,27,Wicket Keeper,1,10,49,2,9,105,68,Yes,5,1,4,40,36,Low,Medium
+PL1120,Jofra Pant,39,Wicket Keeper,4,5,67,3,7,116,82,No,3,0,7,65,51,Medium,Low
+PL1121,Shreyas Afridi,23,Batsman,4,15,27,5,6,131,60,No,5,1,3,88,9,Medium,Low
+PL1122,Mohammad Root,31,Bowler,8,195,97,6,10,119,71,Yes,1,7,2,83,4,Medium,Medium
+PL1123,Ben Pant,25,Batsman,3,18,34,6,5,122,85,Yes,5,0,3,55,24,Medium,Medium
+PL1124,Temba Iyer,34,All-Rounder,2,100,70,4,10,79,92,Yes,5,5,2,69,13,Low,Medium
+PL1125,Jofra Bavuma,37,Wicket Keeper,2,4,39,1,7,107,76,Yes,3,0,6,98,68,Low,Medium
+PL1126,Mohammad Head,30,Bowler,6,180,54,5,9,119,65,Yes,2,3,1,73,48,Medium,Medium
+PL1127,Rohit Smith,21,Batsman,1,18,21,4,7,94,89,Yes,8,1,3,60,14,Low,Medium
+PL1128,Jofra Starc,26,All-Rounder,8,166,79,3,4,132,96,No,2,5,4,98,61,Medium,Low
+PL1129,Glenn Rizwan,29,Batsman,5,5,46,1,6,132,54,No,6,0,3,64,2,Medium,Medium
+PL1130,Aaron Kohli,40,All-Rounder,2,106,45,2,10,98,54,Yes,3,3,3,92,43,Low,Medium
+PL1131,Virat Iyer,34,Wicket Keeper,6,6,51,4,5,144,62,Yes,3,0,5,46,25,Medium,High
+PL1132,Travis Khan,40,Wicket Keeper,2,6,45,6,6,95,90,Yes,6,0,7,100,14,Low,Medium
+PL1133,David Maxwell,37,Batsman,7,7,28,6,4,136,85,Yes,7,0,2,100,37,Medium,Medium
+PL1134,Suryakumar Yadav,32,Batsman,1,15,47,5,9,88,86,No,7,1,4,65,43,Low,Low
+PL1135,Lokesh Pandya,37,Wicket Keeper,4,3,63,2,7,114,77,No,4,1,7,80,58,Low,Low
+PL1136,Lokesh Bumrah,36,All-Rounder,7,115,43,3,4,155,55,Yes,2,3,2,55,34,High,High
+PL1137,Joe Cummins,17,Wicket Keeper,1,8,35,2,6,115,77,No,4,1,7,80,14,Low,Low
+PL1138,Kagiso Smith,19,All-Rounder,8,108,45,3,6,134,75,Yes,5,5,3,60,4,Medium,High
+PL1139,Shreyas Sharma,32,Batsman,8,14,39,3,9,142,42,Yes,5,1,4,63,13,Medium,Medium
+PL1140,Lokesh Archer,26,Bowler,8,192,79,2,5,164,44,Yes,0,3,2,56,48,High,High
+PL1141,Temba Warner,40,All-Rounder,7,163,40,7,7,134,86,No,5,5,2,42,70,Medium,Low
+PL1142,Shaheen Bavuma,36,All-Rounder,1,123,73,7,4,131,64,No,5,4,2,78,2,Medium,Medium
+PL1143,Ben Gill,27,Bowler,4,247,91,5,6,131,42,Yes,0,3,4,43,0,High,High
+PL1144,Rashid Azam,24,Bowler,6,133,63,5,6,141,70,Yes,1,5,2,63,26,Medium,High
+PL1145,Jos Pant,30,Batsman,7,2,36,2,8,129,70,No,6,0,3,40,34,Medium,Low
+PL1146,Pat Head,26,Wicket Keeper,6,7,45,2,9,135,44,Yes,6,1,6,100,16,Low,Medium
+PL1147,Shubman Warner,17,Batsman,1,18,22,5,10,98,48,Yes,4,1,3,75,60,Low,Medium
+PL1148,Kane Finch,29,Bowler,8,195,73,6,4,148,69,Yes,1,4,1,45,28,High,High
+PL1149,Ravindra de Kock,26,All-Rounder,4,179,75,2,9,120,63,No,5,3,2,56,43,Medium,Low
+PL1150,Shaheen Buttler,38,All-Rounder,1,133,47,4,8,102,61,No,5,5,5,100,39,Low,Low
+PL1151,Pat Starc,26,Wicket Keeper,1,8,50,4,7,89,89,Yes,3,0,8,82,7,Low,Medium
+PL1152,Pat Kohli,34,All-Rounder,3,177,63,6,10,111,40,Yes,5,5,2,99,0,Medium,Medium
+PL1153,Anrich Cummins,25,Wicket Keeper,2,6,33,6,10,92,89,Yes,4,0,8,44,56,Low,Medium
+PL1154,Rashid Buttler,34,Batsman,1,12,20,7,6,103,91,Yes,6,1,3,79,51,Low,Medium
+PL1155,Travis Smith,33,All-Rounder,7,71,79,6,4,172,45,Yes,4,5,4,90,37,Medium,High
+PL1156,Anrich Yadav,20,Wicket Keeper,7,7,68,7,5,126,91,No,3,0,4,50,70,Medium,Low
+PL1157,Virat Smith,20,Batsman,2,12,49,3,4,132,67,No,5,0,4,43,1,Medium,Medium
+PL1158,Temba Khan,20,All-Rounder,7,54,71,4,5,147,76,No,4,5,4,94,16,Medium,Medium
+PL1159,Ravindra Archer,28,Batsman,3,1,48,2,7,115,64,Yes,7,1,2,94,30,Low,Medium
+PL1160,Ravindra Smith,21,Bowler,6,217,65,6,8,129,49,No,0,6,1,78,70,Medium,Low
+PL1161,Quinton Archer,38,Batsman,2,7,37,3,5,98,100,No,7,0,2,86,7,Low,Low
+PL1162,Joe Bumrah,30,Bowler,3,136,87,4,6,110,100,No,2,5,1,59,4,Medium,Low
+PL1163,Rishabh Nortje,19,Bowler,8,123,80,3,6,157,55,Yes,2,3,1,46,20,High,High
+PL1164,Quinton Iyer,16,Batsman,8,13,40,7,8,111,98,No,4,1,4,57,0,Medium,Low
+PL1165,Ben de Kock,36,All-Rounder,2,68,48,4,5,138,42,No,2,3,2,43,64,Medium,Low
+PL1166,Mitchell Bavuma,17,Bowler,8,218,96,3,4,162,65,Yes,1,5,3,89,41,High,High
+PL1167,Rohit Bumrah,31,All-Rounder,1,121,62,2,7,98,63,Yes,2,2,4,71,68,Medium,Medium
+PL1168,Steve Jadeja,22,Wicket Keeper,7,1,31,7,7,122,75,Yes,6,0,7,86,64,Medium,Medium
+PL1169,Travis Pant,26,Batsman,4,4,25,4,6,123,82,Yes,7,0,4,93,11,Low,Medium
+PL1170,Rishabh Jadeja,27,Wicket Keeper,1,3,30,7,6,114,45,Yes,3,1,4,51,61,Medium,Medium
+PL1171,Hardik Rabada,24,Wicket Keeper,1,9,54,2,7,98,99,No,3,0,6,62,24,Low,Low
+PL1172,Travis Rizwan,27,Batsman,5,6,40,3,4,139,69,Yes,7,1,5,40,54,Medium,High
+PL1173,Quinton Bumrah,22,Batsman,2,0,53,3,7,110,57,No,4,1,2,87,57,Low,Low
+PL1174,Rashid Warner,32,Wicket Keeper,2,7,40,2,9,83,88,Yes,4,1,6,58,60,Low,Medium
+PL1175,Glenn Yadav,20,Wicket Keeper,4,4,50,1,8,106,89,Yes,4,1,4,93,53,Low,Medium
+PL1176,Pat Head,39,Wicket Keeper,2,10,46,2,5,114,69,Yes,6,0,4,84,61,Low,Medium
+PL1177,Joe Smith,18,Batsman,5,11,50,2,6,139,40,Yes,4,0,2,93,53,Medium,Medium
+PL1178,Shubman Maxwell,18,Batsman,2,7,35,2,10,94,73,No,6,0,5,85,29,Low,Low
+PL1179,Mitchell Head,29,Wicket Keeper,4,6,35,3,10,96,84,No,5,1,4,76,41,Low,Low
+PL1180,Virat de Kock,19,Batsman,8,6,60,6,7,148,69,Yes,7,0,3,77,53,Medium,Medium
+PL1181,Jasprit Rabada,40,Bowler,8,191,95,3,6,147,86,No,2,5,3,99,7,Medium,Medium
+PL1182,Ben Gill,22,Bowler,2,226,95,4,9,110,43,Yes,2,6,2,79,35,Medium,Medium
+PL1183,David Williamson,23,All-Rounder,7,160,56,3,7,141,75,No,3,4,4,51,4,Medium,Medium
+PL1184,Hardik Pandya,30,Wicket Keeper,4,9,57,2,6,126,54,Yes,6,1,5,99,4,Medium,Medium
+PL1185,Mitchell Bumrah,28,Wicket Keeper,7,3,39,6,6,136,72,Yes,3,0,6,75,66,Medium,Medium
+PL1186,Temba Jadeja,28,All-Rounder,4,160,73,4,9,113,71,Yes,2,3,4,88,3,Medium,Medium
+PL1187,Jofra Kohli,19,Wicket Keeper,5,9,67,4,5,148,53,No,5,1,7,51,39,Medium,Medium
+PL1188,Shaheen Rabada,39,All-Rounder,4,139,54,5,10,111,45,Yes,3,5,3,66,49,Medium,Medium
+PL1189,Joe Smith,26,Bowler,2,225,81,3,7,115,63,Yes,2,5,1,96,53,Medium,Medium
+PL1190,Temba Smith,26,Wicket Keeper,7,2,68,1,9,132,46,Yes,4,0,8,86,28,Medium,Medium
+PL1191,Shreyas Smith,40,Wicket Keeper,1,0,63,7,9,79,94,Yes,5,0,7,100,25,Low,Medium
+PL1192,Kagiso Williamson,35,Wicket Keeper,5,5,58,6,4,120,95,No,6,0,6,75,51,Medium,Low
+PL1193,Anrich Kohli,39,Wicket Keeper,1,5,58,4,5,106,79,Yes,6,1,7,68,52,Low,Medium
+PL1194,Mitchell Yadav,40,Batsman,2,17,57,6,5,100,98,Yes,5,0,4,58,26,Medium,Medium
+PL1195,Joe Nortje,16,Batsman,6,9,48,4,6,128,80,Yes,7,0,5,41,14,Medium,High
+PL1196,Suryakumar Starc,40,All-Rounder,7,68,78,6,4,151,82,No,3,5,2,96,13,Medium,Medium
+PL1197,Hardik Rabada,23,Bowler,2,103,58,1,7,103,65,No,0,7,1,92,49,Low,Low
+PL1198,Kane Stokes,38,Bowler,4,184,90,1,4,139,80,No,1,5,2,83,70,Medium,Low
+PL1199,Hardik de Kock,26,Wicket Keeper,6,6,41,3,9,134,62,No,6,1,7,51,27,Medium,Low
+PL1200,Jofra de Kock,21,Bowler,1,212,55,2,10,74,91,No,2,3,3,62,57,Low,Low
+PL1201,Temba Rahul,19,Bowler,1,123,62,7,5,132,47,Yes,2,3,1,93,1,Medium,High
+PL1202,Shaheen Jadeja,36,Wicket Keeper,6,7,60,4,9,120,72,No,5,0,6,88,25,Low,Low
+PL1203,Jasprit Rahul,35,Bowler,6,151,74,3,10,96,88,No,1,6,1,83,16,Medium,Low
+PL1204,Rohit Smith,32,All-Rounder,3,81,68,1,6,114,69,No,5,2,3,92,2,Medium,Low
+PL1205,Shubman Stokes,16,All-Rounder,3,64,68,4,9,86,92,Yes,2,5,4,55,67,Low,Medium
+PL1206,Shaheen Azam,36,Wicket Keeper,7,1,36,5,5,157,43,No,6,1,8,43,19,Medium,Medium
+PL1207,Glenn Stokes,39,Batsman,7,17,26,1,4,155,64,No,8,1,4,99,58,Medium,Low
+PL1208,Steve Gill,40,Wicket Keeper,1,10,64,7,9,97,84,Yes,3,1,5,64,12,Low,Medium
+PL1209,Aaron Head,26,Wicket Keeper,7,3,67,4,9,124,56,No,6,0,4,52,31,Medium,Low
+PL1210,Steve Iyer,33,All-Rounder,8,99,48,2,7,137,82,No,2,4,3,97,18,Medium,Low
+PL1211,Suryakumar Sharma,27,Batsman,7,10,20,5,5,149,70,Yes,6,1,3,47,52,Medium,High
+PL1212,Ravindra Smith,31,Bowler,8,136,75,5,9,128,84,Yes,0,4,3,46,57,Medium,Medium
+PL1213,Babur Rahul,26,Bowler,3,187,88,3,6,129,61,Yes,2,5,1,64,30,Medium,High
+PL1214,Kane Williamson,30,Wicket Keeper,7,1,64,1,4,151,50,No,4,1,5,81,65,Medium,Medium
+PL1215,Steve Cummins,25,Batsman,2,1,26,2,8,110,60,Yes,7,0,5,45,48,Low,Medium
+PL1216,Mohammad Pandya,19,All-Rounder,3,170,59,4,5,131,61,No,4,2,4,70,36,Medium,Medium
+PL1217,David Jadeja,32,Wicket Keeper,6,3,36,7,6,134,81,No,4,0,5,100,36,Low,Low
+PL1218,Pat Maxwell,27,Batsman,2,15,26,2,5,124,72,No,8,0,4,41,58,Medium,Low
+PL1219,Joe Kohli,23,Batsman,8,4,24,1,9,150,48,No,7,1,3,55,58,Medium,Low
+PL1220,Shreyas Kohli,20,All-Rounder,2,112,67,7,8,80,100,No,4,4,2,97,8,Low,Low
+PL1221,Kane Iyer,20,Wicket Keeper,3,1,50,2,8,127,47,Yes,6,0,8,99,71,Low,Medium
+PL1222,Virat Rizwan,27,Batsman,4,10,40,7,10,104,76,Yes,8,1,5,75,19,Low,Medium
+PL1223,Jofra Cummins,28,Bowler,4,229,98,4,4,129,83,No,2,5,2,53,4,High,Medium
+PL1224,Rishabh Kohli,31,All-Rounder,1,105,40,3,10,98,71,Yes,2,4,2,46,19,Low,Medium
+PL1225,David Azam,34,All-Rounder,1,163,46,7,5,123,57,No,3,4,3,91,38,Medium,Low
+PL1226,Travis Pandya,17,Batsman,7,4,24,7,6,146,48,Yes,5,0,4,68,37,Medium,High
+PL1227,Kane Yadav,32,Bowler,8,194,76,1,10,137,57,Yes,0,6,4,61,62,Medium,Medium
+PL1228,Suryakumar Afridi,31,Bowler,4,249,93,3,9,92,88,No,0,4,3,73,70,Medium,Low
+PL1229,Mohammad Afridi,35,Wicket Keeper,2,4,36,4,7,112,45,Yes,6,0,7,53,66,Medium,Medium
+PL1230,Lokesh Williamson,23,All-Rounder,8,87,69,3,10,121,91,No,3,2,2,61,9,Medium,Low
+PL1231,Pat Archer,25,Batsman,3,11,39,5,5,119,87,No,6,1,2,65,54,Medium,Low
+PL1232,Babur Root,33,Wicket Keeper,4,10,63,3,5,147,48,Yes,5,1,8,40,11,Medium,High
+PL1233,Kane Rahul,35,Batsman,6,7,26,3,9,124,81,No,5,0,4,72,32,Low,Low
+PL1234,Ben Gill,24,Bowler,7,181,90,6,6,125,92,Yes,0,5,3,68,20,Medium,High
+PL1235,Kagiso Rahul,29,Bowler,7,172,77,2,8,127,71,Yes,2,4,4,45,47,Medium,High
+PL1236,Kane Nortje,40,All-Rounder,2,68,48,6,7,112,78,Yes,2,4,2,57,55,Medium,Medium
+PL1237,Suryakumar Pant,27,Batsman,4,1,31,1,10,95,93,No,6,0,3,46,0,Low,Low
+PL1238,Rashid Kohli,39,Batsman,1,15,37,3,5,122,53,No,7,0,5,99,64,Low,Low
+PL1239,Hardik Maxwell,26,Batsman,4,16,56,5,9,108,57,No,5,0,4,95,26,Low,Low
+PL1240,Rishabh Buttler,20,Bowler,7,210,88,4,8,120,95,No,0,5,3,94,65,Medium,Low
+PL1241,Babur Kohli,29,All-Rounder,5,93,76,6,5,140,56,No,2,3,2,88,61,Medium,Medium
+PL1242,Kagiso Afridi,18,Wicket Keeper,7,3,42,3,8,122,92,Yes,3,1,4,70,33,Low,Medium
+PL1243,Pat Bavuma,19,Batsman,8,16,55,6,5,166,50,No,7,1,2,90,70,Medium,Medium
+PL1244,Travis Buttler,31,Batsman,6,16,48,7,7,123,72,Yes,5,1,5,64,26,Medium,Medium
+PL1245,David Finch,24,Bowler,6,152,55,1,10,107,84,No,0,3,4,50,63,Medium,Low
+PL1246,Lokesh Buttler,25,Wicket Keeper,4,10,43,1,9,105,88,Yes,6,1,7,50,63,Low,Medium
+PL1247,Steve Finch,24,Batsman,7,12,56,4,9,114,82,Yes,6,1,3,77,0,Medium,Medium
+PL1248,Mohammad Root,18,Bowler,2,248,59,6,5,115,96,No,0,6,3,60,9,Medium,Medium
+PL1249,Lokesh Sharma,32,All-Rounder,8,164,57,4,5,146,66,No,5,5,5,87,21,Medium,Medium
+PL1250,Quinton Maxwell,21,All-Rounder,7,91,66,1,6,128,91,No,2,4,4,73,38,Medium,Low
+PL1251,Mohammad Yadav,26,Bowler,7,131,60,7,7,147,62,No,2,7,1,94,58,Medium,Low
+PL1252,Jasprit Rabada,26,All-Rounder,1,148,73,1,5,110,91,No,5,5,4,97,27,Low,Low
+PL1253,Pat Rabada,32,Batsman,1,6,60,5,4,118,78,Yes,8,0,5,97,67,Low,Medium
+PL1254,Jos Sharma,25,Wicket Keeper,1,3,65,2,7,109,47,No,5,0,6,87,22,Low,Low
+PL1255,Suryakumar Bumrah,27,Batsman,7,15,33,2,8,133,74,No,5,0,4,78,25,Medium,Low
+PL1256,Babur Rabada,24,Wicket Keeper,4,3,60,3,4,139,48,No,4,1,7,49,63,Medium,Medium
+PL1257,Temba Smith,18,Batsman,6,12,57,3,5,141,62,Yes,8,1,3,92,9,Medium,High
+PL1258,Rashid Khan,29,Bowler,4,170,82,1,6,136,62,Yes,0,6,4,44,14,Medium,High
+PL1259,Rohit de Kock,33,Wicket Keeper,8,6,31,4,10,113,87,No,4,1,4,65,60,Low,Low
+PL1260,Lokesh Rabada,25,Bowler,6,107,63,1,5,131,76,Yes,1,3,4,41,31,Medium,High
+PL1261,Glenn Root,31,Bowler,3,216,80,7,7,102,95,Yes,1,3,1,92,1,Medium,Medium
+PL1262,Hardik Starc,32,Wicket Keeper,2,0,69,5,6,121,72,Yes,5,0,5,46,18,Medium,Medium
+PL1263,Quinton Afridi,30,All-Rounder,2,83,47,1,10,78,85,No,5,2,2,94,37,Low,Low
+PL1264,Aaron Cummins,27,Wicket Keeper,6,4,50,6,10,100,80,Yes,6,0,5,89,26,Low,Medium
+PL1265,Virat Maxwell,18,All-Rounder,2,68,47,2,4,119,86,No,4,4,4,42,16,Medium,Medium
+PL1266,Rishabh Yadav,27,Wicket Keeper,6,10,67,5,8,123,68,Yes,6,1,6,99,23,Medium,Medium
+PL1267,Jasprit de Kock,29,Batsman,1,5,22,7,7,105,51,No,6,0,2,45,48,Medium,Low
+PL1268,Pat Pandya,28,Bowler,8,133,99,2,7,138,87,Yes,2,4,2,68,33,Medium,Medium
+PL1269,Jofra Azam,16,Bowler,6,206,53,5,4,137,70,No,1,5,3,66,32,Medium,Medium
+PL1270,Shreyas Pandya,30,Bowler,8,150,85,3,9,127,60,Yes,2,5,3,43,31,Medium,High
+PL1271,Anrich Warner,21,Batsman,3,5,38,2,8,94,95,No,4,0,3,91,51,Low,Low
+PL1272,Rashid Stokes,19,All-Rounder,2,117,74,3,8,104,79,Yes,4,4,5,58,5,Medium,Medium
+PL1273,Hardik Smith,19,Wicket Keeper,2,5,49,3,7,104,81,No,3,0,7,55,23,Low,Low
+PL1274,Mohammad de Kock,37,Wicket Keeper,3,0,30,6,9,109,60,Yes,3,0,6,44,20,Medium,Medium
+PL1275,Rohit Rizwan,29,Wicket Keeper,6,5,69,1,5,152,48,Yes,4,0,4,77,28,Medium,High
+PL1276,Steve Cummins,32,Bowler,6,128,53,3,4,132,75,No,2,7,1,63,24,Medium,Medium
+PL1277,Babur Jadeja,34,Bowler,6,236,81,5,10,130,60,Yes,2,3,4,78,23,Medium,Medium
+PL1278,Rashid Yadav,31,Bowler,7,114,91,7,10,116,64,No,2,5,1,68,53,Medium,Low
+PL1279,Steve Khan,17,Bowler,1,241,55,2,9,94,64,Yes,2,5,4,52,60,Medium,Medium
+PL1280,David Rahul,32,Batsman,2,7,59,2,7,112,68,No,8,1,3,99,72,Low,Low
+PL1281,Quinton Sharma,21,Bowler,7,215,68,3,8,139,72,No,0,4,3,51,70,Medium,Low
+PL1282,Virat Bumrah,35,Wicket Keeper,5,3,65,7,4,153,60,Yes,5,1,4,95,11,Medium,High
+PL1283,Lokesh Afridi,26,Batsman,3,8,44,1,6,110,100,No,5,1,5,55,26,Low,Low
+PL1284,David Buttler,34,Batsman,3,15,52,1,5,139,46,Yes,6,1,5,57,49,Medium,Medium
+PL1285,Glenn Warner,38,Bowler,7,113,70,4,8,130,56,Yes,0,5,1,67,55,Medium,Medium
+PL1286,Shubman Jadeja,33,All-Rounder,8,77,77,3,6,141,95,No,5,3,5,85,20,Medium,Low
+PL1287,Kane Sharma,23,All-Rounder,7,85,62,5,9,116,75,Yes,3,2,2,58,2,Medium,Medium
+PL1288,Hardik Bavuma,16,Bowler,3,184,85,4,10,85,98,No,0,3,2,97,8,Low,Low
+PL1289,Jos Williamson,31,Batsman,8,15,40,5,4,166,52,Yes,4,0,2,91,11,Medium,High
+PL1290,Rohit Azam,30,Wicket Keeper,7,6,64,3,4,166,43,No,3,1,7,83,3,Medium,Medium
+PL1291,Rohit Yadav,18,Wicket Keeper,4,9,60,4,5,120,78,Yes,4,0,6,53,4,Medium,High
+PL1292,Hardik Rahul,29,All-Rounder,3,86,48,5,6,115,68,Yes,4,4,4,74,20,Medium,Medium
+PL1293,Babur Pant,30,All-Rounder,3,69,60,2,9,88,99,Yes,3,4,4,58,29,Low,Medium
+PL1294,Pat Root,19,Wicket Keeper,6,6,70,5,8,126,71,No,5,1,8,76,64,Medium,Low
+PL1295,Glenn Root,31,Batsman,7,7,49,7,9,119,77,Yes,7,0,2,70,41,Medium,Medium
+PL1296,Shreyas Khan,37,Batsman,2,4,25,1,10,97,54,No,7,0,5,69,19,Low,Low
+PL1297,Mitchell Finch,26,Bowler,3,163,86,5,5,131,40,No,2,3,4,50,66,High,Medium
+PL1298,Joe Pant,29,Bowler,8,194,93,6,9,141,47,No,1,4,3,72,69,High,Low
+PL1299,Kagiso Yadav,23,Batsman,3,3,50,4,7,103,94,Yes,6,1,5,56,62,Low,Medium
+PL1300,Rishabh Rahul,23,Batsman,4,11,54,3,7,113,81,Yes,4,0,4,76,42,Low,Medium
+PL1301,Mohammad Kohli,17,Batsman,4,8,43,2,10,124,52,No,4,1,3,69,47,Low,Low
+PL1302,Shaheen Azam,28,Wicket Keeper,6,7,66,5,10,123,64,Yes,5,0,6,88,67,Low,Medium
+PL1303,Mitchell Root,19,All-Rounder,8,141,56,2,5,140,100,Yes,2,4,2,66,52,Medium,Medium
+PL1304,Rohit Khan,27,Batsman,6,11,34,5,7,128,84,No,8,1,3,88,46,Low,Low
+PL1305,Steve Pant,27,All-Rounder,7,105,59,1,5,144,76,No,4,4,4,95,60,Medium,Low
+PL1306,Babur Rizwan,24,All-Rounder,6,80,63,5,4,132,94,Yes,4,5,3,49,54,Medium,High
+PL1307,Glenn Buttler,16,Wicket Keeper,2,8,65,3,9,97,59,Yes,6,1,8,74,33,Low,Medium
+PL1308,Jofra Rizwan,26,All-Rounder,8,129,78,7,9,136,75,Yes,5,3,2,58,29,Medium,Medium
+PL1309,Hardik Stokes,18,Bowler,2,197,67,4,10,113,50,Yes,0,6,2,41,10,Medium,Medium
+PL1310,Temba Gill,16,Wicket Keeper,3,8,31,1,7,112,55,Yes,6,1,6,52,5,Medium,Medium
+PL1311,Shreyas Pandya,35,Bowler,4,214,57,2,5,138,50,No,0,4,1,78,5,Medium,Medium
+PL1312,Rohit Gill,37,All-Rounder,6,88,64,1,9,111,98,No,4,4,4,68,69,Low,Low
+PL1313,Shubman de Kock,34,Bowler,5,107,80,6,5,124,76,No,1,7,1,51,40,Medium,Medium
+PL1314,Mohammad Rizwan,19,Bowler,8,194,50,2,7,159,43,Yes,0,6,2,85,49,Medium,High
+PL1315,Mohammad Starc,39,All-Rounder,8,55,50,3,7,135,86,No,5,4,2,97,16,Medium,Low
+PL1316,Rishabh Rizwan,33,Batsman,1,3,56,7,10,72,88,No,6,0,2,61,56,Low,Low
+PL1317,Joe Buttler,32,Wicket Keeper,6,1,55,5,8,114,76,Yes,3,1,6,96,27,Low,Medium
+PL1318,Mitchell Buttler,17,All-Rounder,5,83,69,5,7,108,84,No,2,4,2,81,22,Medium,Low
+PL1319,Quinton Rizwan,29,Wicket Keeper,6,0,44,7,7,134,62,Yes,5,1,4,76,53,Medium,Medium
+PL1320,Pat Cummins,26,Bowler,6,108,76,2,6,145,41,No,0,5,4,95,32,Medium,Medium
+PL1321,Anrich Maxwell,17,Batsman,5,6,38,6,4,129,86,No,6,1,2,94,17,Medium,Low
+PL1322,Rashid Sharma,26,Wicket Keeper,8,6,55,7,4,157,81,Yes,3,1,6,75,3,Medium,High
+PL1323,Kane Cummins,26,Batsman,8,17,22,4,6,141,73,Yes,7,0,2,96,32,Medium,Medium
+PL1324,Hardik Smith,25,Batsman,4,4,21,5,10,98,77,No,8,1,5,84,27,Low,Low
+PL1325,Ben Jadeja,18,Batsman,8,15,48,3,9,118,85,No,8,1,3,64,31,Medium,Low
+PL1326,Jos Archer,25,Bowler,4,165,75,1,10,103,75,Yes,1,3,3,83,30,Low,Medium
+PL1327,Babur Gill,39,Batsman,2,1,36,6,9,93,67,Yes,6,0,5,82,25,Low,Medium
+PL1328,Jos Archer,21,Batsman,5,0,39,3,6,143,63,Yes,8,0,2,52,31,Medium,Medium
+PL1329,Jos Nortje,32,Batsman,7,18,60,4,7,154,48,No,6,1,5,90,17,Medium,Medium
+PL1330,Joe Root,25,All-Rounder,7,115,58,7,8,133,84,Yes,2,3,2,64,53,Medium,Medium
+PL1331,Rishabh Stokes,32,Wicket Keeper,1,1,45,3,10,87,96,No,6,0,4,79,7,Low,Low
+PL1332,Ravindra Gill,33,Batsman,8,14,57,3,7,127,96,Yes,4,1,4,53,35,Medium,Medium
+PL1333,Travis Afridi,28,Wicket Keeper,2,1,58,7,7,106,65,No,5,1,8,75,70,Low,Low
+PL1334,Kane Kohli,40,Bowler,2,228,66,1,4,125,60,No,0,6,2,77,41,Medium,Medium
+PL1335,Mohammad Yadav,20,All-Rounder,5,83,66,2,7,115,83,Yes,2,3,2,72,47,Medium,Medium
+PL1336,Shreyas Azam,36,Bowler,1,104,77,4,5,114,70,Yes,0,5,2,63,22,Medium,Medium
+PL1337,Joe Pant,35,Batsman,2,14,28,5,8,107,64,Yes,4,1,2,69,43,Low,Medium
+PL1338,Steve Gill,18,Bowler,7,136,71,2,5,146,51,Yes,0,6,2,99,65,Medium,Medium
+PL1339,David Cummins,18,Wicket Keeper,2,1,58,4,10,77,91,No,3,0,7,44,61,Low,Low
+PL1340,Temba Bavuma,29,All-Rounder,2,91,74,3,10,91,73,No,5,2,4,88,40,Low,Low
+PL1341,Shaheen Buttler,17,Batsman,8,2,26,2,7,160,42,No,8,1,2,78,66,Medium,Low
+PL1342,Mohammad Warner,36,Batsman,4,6,39,5,6,124,82,Yes,8,1,4,90,60,Low,Medium
+PL1343,Ben Nortje,28,Batsman,8,12,33,7,4,152,75,No,8,1,4,54,45,Medium,Medium
+PL1344,Shaheen de Kock,23,All-Rounder,5,105,77,6,8,120,55,Yes,4,4,4,51,29,Medium,High
+PL1345,Jos Bumrah,25,Batsman,6,11,59,5,8,140,56,Yes,5,0,3,48,5,Medium,High
+PL1346,Lokesh Rabada,38,Batsman,2,9,44,2,10,89,97,Yes,5,0,5,87,60,Low,Low
+PL1347,Mohammad Finch,24,Bowler,8,194,64,3,10,141,58,No,0,7,1,49,22,Medium,Medium
+PL1348,Shreyas Root,33,Batsman,2,6,27,2,5,121,67,No,5,1,5,45,18,Medium,Low
+PL1349,Rashid Pant,38,Wicket Keeper,1,9,44,3,7,108,68,Yes,5,0,6,48,56,Low,Medium
+PL1350,Glenn Maxwell,35,Wicket Keeper,7,7,53,4,9,138,41,Yes,6,1,8,41,36,Medium,Medium
+PL1351,Lokesh Gill,28,Bowler,4,212,65,5,9,104,87,Yes,1,5,3,71,27,Medium,Medium
+PL1352,Shaheen Archer,32,Wicket Keeper,4,2,41,6,9,115,48,Yes,3,0,6,100,30,Low,Medium
+PL1353,Glenn Smith,18,Bowler,2,236,57,3,4,120,72,Yes,2,6,2,45,42,Medium,High
+PL1354,Jasprit de Kock,30,All-Rounder,4,173,78,1,5,144,55,Yes,4,5,3,41,27,Medium,High
+PL1355,Jasprit Pant,16,Batsman,4,3,29,5,6,129,51,Yes,6,0,5,46,71,Medium,Medium
+PL1356,Rohit Jadeja,34,Bowler,1,245,93,3,9,79,88,Yes,2,7,2,55,46,Medium,Medium
+PL1357,Kagiso Smith,34,All-Rounder,8,157,64,3,5,163,61,Yes,3,5,4,58,61,High,High
+PL1358,Kane Rizwan,22,Bowler,4,184,95,2,5,126,84,No,1,6,1,84,41,Medium,Low
+PL1359,Ravindra Bumrah,29,All-Rounder,5,130,73,7,7,112,97,Yes,2,3,4,77,17,Medium,Medium
+PL1360,David Starc,22,Wicket Keeper,8,7,51,3,7,122,85,No,6,0,5,43,38,Medium,Low
+PL1361,Babur Starc,27,All-Rounder,7,105,74,3,4,143,89,No,2,2,2,90,11,Medium,Medium
+PL1362,Steve de Kock,37,Batsman,3,14,49,7,8,126,45,Yes,7,1,4,54,39,Medium,Medium
+PL1363,Rishabh Williamson,21,Bowler,2,202,68,4,9,93,100,No,1,3,2,46,51,Medium,Low
+PL1364,Kagiso Archer,27,Batsman,4,12,45,2,4,154,51,Yes,4,1,5,71,25,Medium,High
+PL1365,Mitchell Bavuma,17,Wicket Keeper,6,5,69,6,4,161,41,No,5,1,7,89,13,Medium,Medium
+PL1366,David Stokes,36,All-Rounder,5,62,60,3,8,102,88,No,2,5,2,55,70,Medium,Low
+PL1367,Shaheen Williamson,34,All-Rounder,5,128,69,1,8,114,72,No,4,3,5,51,23,Medium,Low
+PL1368,Rohit de Kock,23,Bowler,8,237,63,7,7,136,88,Yes,2,6,4,93,40,Medium,Medium
+PL1369,Kagiso Pant,23,Bowler,3,107,67,4,6,130,62,No,1,6,1,100,22,Medium,Low
+PL1370,Mohammad Warner,33,All-Rounder,7,108,56,1,10,121,54,Yes,2,3,3,84,31,Medium,Medium
+PL1371,Ravindra Starc,25,Wicket Keeper,8,8,39,4,8,129,95,Yes,5,1,5,85,37,Low,Medium
+PL1372,Rohit Rizwan,19,Wicket Keeper,2,0,36,7,7,104,66,No,3,0,8,100,16,Low,Low
+PL1373,Shaheen Nortje,30,Batsman,1,2,40,2,6,92,89,Yes,4,0,3,73,56,Low,Medium
+PL1374,Shreyas Iyer,35,Batsman,5,15,23,6,9,113,92,Yes,6,0,5,70,56,Low,Medium
+PL1375,Glenn Iyer,39,Wicket Keeper,8,4,31,4,8,126,70,Yes,4,0,7,100,32,Low,Medium
+PL1376,Jos Starc,34,Wicket Keeper,7,4,39,4,4,159,44,Yes,5,1,7,56,29,Medium,High
+PL1377,Kane Pant,31,All-Rounder,3,55,43,5,7,105,88,Yes,4,4,3,63,1,Low,Medium
+PL1378,Pat Gill,22,Batsman,5,20,36,4,7,128,51,No,5,0,4,79,40,Medium,Low
+PL1379,Glenn Azam,25,Batsman,5,17,23,6,7,125,90,Yes,4,0,5,97,46,Low,Medium
+PL1380,Suryakumar Rizwan,33,Batsman,6,10,57,6,10,92,99,No,6,0,3,51,54,Low,Low
+PL1381,Virat Cummins,36,All-Rounder,1,88,62,7,7,113,61,Yes,5,4,3,84,62,Medium,Medium
+PL1382,Virat Smith,26,Wicket Keeper,4,6,34,6,7,97,98,No,4,1,8,61,55,Low,Low
+PL1383,Glenn Head,18,All-Rounder,1,133,59,1,8,117,44,No,2,3,3,98,6,Low,Low
+PL1384,David Warner,28,Wicket Keeper,4,2,32,2,5,147,49,No,6,1,8,41,5,Medium,Medium
+PL1385,Rohit Pandya,24,Batsman,2,3,42,4,7,113,55,Yes,7,1,4,66,27,Medium,Medium
+PL1386,Anrich Iyer,18,All-Rounder,3,82,51,7,8,126,50,Yes,4,3,5,70,3,Medium,Medium
+PL1387,Jos Stokes,17,All-Rounder,4,84,51,5,5,136,60,Yes,3,4,2,84,65,Medium,Medium
+PL1388,Shubman Starc,32,Bowler,6,146,75,5,5,146,64,No,2,3,1,100,57,Medium,Low
+PL1389,Kane Head,17,Wicket Keeper,7,7,51,3,7,129,84,Yes,4,0,8,69,64,Medium,Medium
+PL1390,Kagiso Pant,24,Batsman,5,9,37,5,8,109,84,Yes,7,1,3,89,61,Low,Medium
+PL1391,Mitchell Gill,31,Batsman,6,16,58,6,5,143,70,Yes,6,1,5,99,62,Medium,Medium
+PL1392,Rashid Afridi,37,All-Rounder,4,162,77,1,10,98,76,Yes,5,3,2,60,35,Medium,Medium
+PL1393,Travis Stokes,20,Bowler,2,233,79,3,7,105,97,No,0,7,2,61,29,Medium,Low
+PL1394,Babur de Kock,21,Wicket Keeper,5,2,57,7,5,124,95,Yes,5,1,8,47,7,Medium,High
+PL1395,Joe Finch,32,Wicket Keeper,6,5,63,7,8,138,43,No,6,1,5,60,53,Medium,Low
+PL1396,Travis Gill,19,Bowler,2,121,81,6,10,101,40,Yes,2,4,2,63,62,Medium,Medium
+PL1397,Virat Nortje,19,Bowler,7,103,53,7,6,127,98,Yes,1,7,4,59,36,Medium,Medium
+PL1398,Hardik Root,38,Wicket Keeper,8,6,43,3,7,122,96,Yes,3,1,6,48,34,Medium,Medium
+PL1399,Rishabh Azam,17,Batsman,2,4,37,6,6,111,78,No,6,1,3,76,40,Low,Low
+PL1400,Anrich de Kock,36,Bowler,1,143,61,1,7,91,97,Yes,0,7,1,45,5,Low,Medium
+PL1401,Aaron Rahul,23,Batsman,8,10,43,2,6,136,98,Yes,4,0,2,40,19,Medium,Medium
+PL1402,Ben Sharma,24,Bowler,1,147,88,2,6,119,67,Yes,2,6,4,90,20,Medium,Medium
+PL1403,Kagiso Smith,26,Batsman,4,12,33,4,8,118,50,No,4,0,5,57,47,Medium,Low
+PL1404,Shreyas Sharma,16,Bowler,8,203,83,5,10,137,54,Yes,2,7,4,97,51,Medium,Medium
+PL1405,Jofra Archer,34,Bowler,8,128,86,4,5,146,83,Yes,0,5,3,86,41,Medium,High
+PL1406,Shaheen Gill,33,Bowler,3,144,54,4,8,117,47,Yes,2,7,3,96,30,Medium,Medium
+PL1407,Jofra Gill,20,Wicket Keeper,4,5,63,1,10,99,92,No,3,0,6,70,57,Low,Low
+PL1408,Suryakumar Nortje,21,All-Rounder,6,90,75,6,6,149,57,No,2,5,3,82,9,Medium,Medium
+PL1409,Mohammad Smith,32,Batsman,6,12,21,6,5,142,85,No,6,0,3,77,19,Medium,Low
+PL1410,Pat Buttler,39,Batsman,4,12,50,5,6,140,45,Yes,8,0,2,45,1,Medium,High
+PL1411,Glenn Pant,26,Wicket Keeper,7,0,33,1,4,147,84,Yes,6,0,7,68,57,Medium,Medium
+PL1412,Quinton Maxwell,34,Wicket Keeper,3,10,30,6,4,114,82,Yes,5,0,8,74,33,Medium,Medium
+PL1413,Aaron Root,36,Batsman,8,17,47,4,10,147,45,Yes,8,1,5,45,65,Medium,Medium
+PL1414,Jasprit Nortje,22,All-Rounder,7,83,68,4,10,100,93,No,2,2,3,92,47,Low,Low
+PL1415,Jofra Bavuma,19,Wicket Keeper,2,8,57,7,6,122,70,No,5,1,8,51,52,Medium,Low
+PL1416,Mitchell Smith,20,Wicket Keeper,8,8,30,6,6,145,90,No,5,0,8,54,14,Medium,Medium
+PL1417,Mitchell Jadeja,24,Batsman,2,5,26,3,7,120,64,No,8,1,5,40,37,Medium,Low
+PL1418,Quinton Rahul,30,All-Rounder,2,154,49,1,5,137,50,Yes,5,3,5,81,32,Medium,Medium
+PL1419,Jos Yadav,36,Batsman,1,17,27,6,6,114,57,No,6,0,2,44,38,Medium,Low
+PL1420,Jofra Buttler,30,Wicket Keeper,4,4,34,3,6,121,83,Yes,3,1,5,55,41,Medium,Medium
+PL1421,Rashid Pant,17,Wicket Keeper,4,8,48,4,7,126,70,Yes,5,1,4,81,21,Low,Medium
+PL1422,Travis Afridi,35,Batsman,4,12,37,3,5,129,64,No,8,0,2,49,63,Medium,Low
+PL1423,Kane Jadeja,23,All-Rounder,2,165,57,6,9,106,50,Yes,5,3,3,84,11,Medium,Medium
+PL1424,David Sharma,28,Batsman,4,1,48,1,5,144,46,Yes,6,0,5,77,67,Medium,Medium
+PL1425,Jos Yadav,27,Wicket Keeper,1,3,59,6,4,123,48,Yes,3,0,7,74,34,Medium,High
+PL1426,Mitchell Bumrah,30,All-Rounder,3,133,47,6,4,128,65,No,3,2,4,48,40,Medium,Medium
+PL1427,Jofra Rabada,40,Bowler,5,104,94,6,8,123,74,Yes,2,7,2,62,52,Medium,Medium
+PL1428,Shubman Pandya,26,Bowler,8,246,84,5,5,165,41,Yes,0,4,1,69,3,High,High
+PL1429,Aaron Buttler,20,Batsman,7,18,27,1,4,156,41,Yes,4,1,2,59,49,Medium,High
+PL1430,Joe Azam,27,Batsman,8,7,48,7,10,124,54,No,4,1,4,58,38,Medium,Low
+PL1431,Pat Rabada,38,Wicket Keeper,7,2,51,5,8,146,43,Yes,5,0,7,78,16,Medium,Medium
+PL1432,Quinton Cummins,38,Batsman,3,0,39,5,7,103,82,No,5,0,4,75,45,Low,Low
+PL1433,Pat Williamson,38,All-Rounder,2,132,80,2,4,112,92,Yes,4,2,2,73,35,Medium,Medium
+PL1434,Hardik Smith,34,Batsman,6,8,35,5,8,115,98,Yes,6,1,2,79,1,Low,Medium
+PL1435,Quinton Cummins,34,All-Rounder,6,137,79,7,9,116,71,No,2,2,2,92,70,Medium,Low
+PL1436,Joe Rabada,31,All-Rounder,2,105,40,4,5,104,81,No,2,2,4,51,37,Medium,Low
+PL1437,Shubman Rabada,23,Batsman,7,19,51,7,6,133,64,No,7,1,5,67,5,Medium,Medium
+PL1438,Mitchell Sharma,26,All-Rounder,7,145,59,7,4,152,77,Yes,5,5,3,97,27,Medium,High
+PL1439,Rohit Buttler,38,Batsman,2,3,37,7,4,140,60,No,7,1,5,62,44,Medium,Low
+PL1440,Virat Starc,40,All-Rounder,8,108,78,2,7,141,60,Yes,3,2,2,57,50,Medium,High
+PL1441,Kagiso Buttler,19,Bowler,3,215,74,4,8,98,79,No,1,3,4,92,9,Medium,Low
+PL1442,Lokesh Yadav,30,Batsman,6,9,53,6,7,128,88,Yes,4,1,4,59,60,Medium,Medium
+PL1443,David Rizwan,20,Bowler,7,115,80,5,4,139,90,Yes,1,6,2,81,67,Medium,Medium
+PL1444,Shubman Rizwan,29,All-Rounder,6,137,47,3,9,107,76,Yes,3,5,5,84,65,Medium,Medium
+PL1445,Jasprit Bavuma,20,All-Rounder,3,176,50,7,10,123,43,No,2,3,2,75,20,Medium,Low
+PL1446,Jofra Root,33,All-Rounder,6,90,71,4,9,115,84,No,5,4,4,47,40,Medium,Low
+PL1447,Shubman Yadav,33,All-Rounder,8,50,62,7,5,148,64,Yes,4,5,4,74,11,Medium,High
+PL1448,Pat Iyer,33,Wicket Keeper,7,9,39,7,5,126,98,Yes,5,0,6,91,1,Medium,Medium
+PL1449,Rashid Finch,18,Batsman,6,15,50,5,5,126,92,Yes,7,0,5,49,24,Medium,Medium
+PL1450,Travis Bavuma,36,Wicket Keeper,2,5,68,6,4,142,51,Yes,3,0,4,46,0,Medium,High
+PL1451,Mohammad Azam,31,All-Rounder,3,68,78,6,5,114,99,Yes,3,2,3,89,14,Medium,Medium
+PL1452,David Root,28,All-Rounder,1,174,48,1,4,119,74,Yes,3,5,3,80,37,Medium,Medium
+PL1453,David Stokes,38,Batsman,1,13,55,7,8,97,72,Yes,8,0,5,80,68,Low,Medium
+PL1454,Kane Jadeja,17,All-Rounder,4,119,72,3,7,107,82,No,5,3,4,94,44,Medium,Low
+PL1455,Shaheen Azam,29,All-Rounder,5,168,63,2,10,97,90,No,4,2,2,72,32,Low,Low
+PL1456,Steve Azam,19,Wicket Keeper,7,10,48,7,9,107,95,No,6,0,6,91,51,Low,Low
+PL1457,Aaron Nortje,25,Bowler,3,157,54,7,4,115,99,Yes,2,3,1,61,5,Medium,High
+PL1458,Jofra Iyer,34,Wicket Keeper,1,0,58,2,7,105,67,Yes,3,0,8,45,7,Medium,Medium
+PL1459,Babur Pandya,24,Batsman,3,20,20,4,8,111,66,Yes,4,1,3,63,29,Low,Medium
+PL1460,Kane Head,19,Wicket Keeper,8,5,51,1,5,164,60,Yes,3,0,8,98,33,Medium,Medium
+PL1461,Virat Smith,31,All-Rounder,6,100,40,3,9,117,74,No,4,3,2,42,56,Medium,Low
+PL1462,Temba de Kock,23,Wicket Keeper,6,8,62,5,10,116,77,Yes,6,1,6,74,44,Low,Medium
+PL1463,Lokesh Head,29,Batsman,7,14,44,4,8,138,47,No,6,0,2,93,2,Medium,Low
+PL1464,Jofra Starc,19,All-Rounder,1,108,63,5,7,95,88,Yes,2,3,4,100,22,Low,Medium
+PL1465,Joe Azam,27,All-Rounder,4,87,64,2,7,116,59,No,2,5,4,79,7,Medium,Low
+PL1466,Rohit Yadav,17,Bowler,5,183,55,2,7,128,77,Yes,1,3,4,85,18,Medium,Medium
+PL1467,Rohit Kohli,25,Wicket Keeper,4,10,66,7,7,125,50,Yes,6,1,4,69,59,Medium,Medium
+PL1468,Virat Azam,40,All-Rounder,4,147,75,2,6,146,41,Yes,4,5,4,86,68,Medium,Medium
+PL1469,David Cummins,20,All-Rounder,1,150,56,2,9,89,73,Yes,2,5,3,97,22,Low,Medium
+PL1470,Hardik Bavuma,29,Batsman,1,4,57,6,10,104,57,Yes,8,1,5,47,47,Low,Medium
+PL1471,David Kohli,29,All-Rounder,5,93,48,1,9,131,55,No,5,4,3,93,46,Low,Low
+PL1472,Rishabh Rizwan,26,Bowler,3,168,81,4,8,106,91,Yes,1,3,2,56,28,Medium,Medium
+PL1473,Joe Buttler,26,Batsman,8,14,22,4,10,142,45,Yes,4,0,5,61,58,Medium,Medium
+PL1474,Hardik Pant,38,All-Rounder,8,163,52,2,7,137,93,No,5,3,5,67,36,Medium,Low
+PL1475,Shaheen Jadeja,22,Batsman,3,15,49,1,7,111,79,No,8,0,5,60,57,Low,Low
+PL1476,Ben Archer,31,All-Rounder,8,67,40,5,9,122,89,No,5,5,5,56,51,Medium,Low
+PL1477,Rishabh Cummins,36,Bowler,1,243,53,5,5,97,96,No,0,6,1,81,17,Medium,Low
+PL1478,Pat Williamson,29,Wicket Keeper,4,0,65,4,6,113,93,No,5,0,6,63,59,Medium,Low
+PL1479,Glenn Archer,26,Bowler,8,122,66,1,7,161,45,No,0,4,1,96,18,Medium,Medium
+PL1480,Suryakumar Sharma,37,Bowler,3,166,60,4,7,116,47,No,0,6,4,100,22,Medium,Low
+PL1481,Suryakumar Stokes,21,Bowler,5,154,59,6,5,129,76,No,2,7,2,59,26,Medium,Medium
+PL1482,Glenn Jadeja,35,All-Rounder,7,162,44,3,7,149,51,Yes,5,3,3,74,45,Medium,Medium
+PL1483,Jos Rahul,29,Bowler,6,194,94,1,8,119,96,Yes,0,6,1,81,8,Medium,Medium
+PL1484,Rashid Khan,38,Wicket Keeper,6,8,70,2,4,130,95,Yes,5,1,5,87,45,Medium,Medium
+PL1485,Mitchell Yadav,17,Batsman,7,8,59,3,6,148,60,No,7,0,2,66,30,Medium,Medium
+PL1486,Pat Rizwan,29,Wicket Keeper,2,8,66,2,5,120,89,No,3,1,8,40,8,Medium,Low
+PL1487,Hardik Jadeja,21,Batsman,8,13,49,1,9,151,44,No,7,1,2,63,26,Medium,Low
+PL1488,Rishabh Sharma,19,Wicket Keeper,6,10,69,1,8,118,80,No,5,0,7,70,39,Medium,Low
+PL1489,Joe Azam,33,Bowler,8,125,68,7,7,132,65,Yes,2,4,2,80,5,Medium,High
+PL1490,Rohit Khan,38,Batsman,5,1,56,2,8,123,60,Yes,7,1,2,69,38,Medium,Medium
+PL1491,Quinton Smith,22,Batsman,3,6,26,7,10,103,83,No,6,1,3,75,60,Low,Low
+PL1492,Mitchell Bumrah,28,All-Rounder,8,66,40,3,6,135,81,No,5,3,3,74,40,Medium,Low
+PL1493,Mohammad de Kock,17,All-Rounder,4,52,65,4,9,124,60,No,4,2,4,47,64,Medium,Low
+PL1494,Mitchell de Kock,38,All-Rounder,7,76,51,2,4,148,74,No,5,2,4,56,4,Medium,Medium
+PL1495,Virat Warner,37,All-Rounder,7,136,76,7,4,152,86,No,5,3,5,79,23,Medium,Medium
+PL1496,Shreyas Rabada,38,Wicket Keeper,5,6,41,3,5,135,68,No,6,0,4,73,24,Medium,Low
+PL1497,Mohammad de Kock,37,Bowler,3,215,58,3,8,96,86,No,2,5,1,99,44,Low,Low
+PL1498,Babur Nortje,32,All-Rounder,6,74,49,1,8,118,76,Yes,2,3,5,51,1,Medium,Medium
+PL1499,Temba Maxwell,39,Wicket Keeper,2,1,39,3,5,98,96,No,6,0,4,67,59,Low,Low
+PL1500,Jofra Starc,27,Bowler,3,165,85,6,4,136,57,No,2,6,1,52,47,High,Medium
+PL1501,Shubman Root,30,Wicket Keeper,3,7,38,4,7,115,68,Yes,5,0,4,59,42,Medium,Medium
+PL1502,Steve Stokes,37,Wicket Keeper,3,5,41,1,6,127,74,Yes,4,1,4,69,50,Low,Medium
+PL1503,Pat Head,19,Batsman,6,8,22,1,10,118,44,No,7,1,2,55,9,Medium,Low
+PL1504,Jasprit Bumrah,28,All-Rounder,7,115,46,1,6,118,94,Yes,5,3,5,45,0,Medium,High
+PL1505,Shubman Azam,37,Bowler,6,228,99,1,10,115,70,No,0,5,1,65,35,Medium,Low
+PL1506,Pat Gill,40,Batsman,7,15,42,2,9,107,87,Yes,7,1,2,54,27,Medium,Medium
+PL1507,Pat Root,37,Wicket Keeper,2,2,62,1,7,109,62,No,6,0,7,96,13,Low,Low
+PL1508,Pat Pandya,28,All-Rounder,4,163,41,2,4,122,100,Yes,4,5,5,72,6,Medium,High
+PL1509,Glenn Gill,23,Batsman,1,18,39,6,9,88,89,Yes,4,0,3,43,9,Low,Medium
+PL1510,Mitchell Bavuma,22,Bowler,7,250,88,5,4,151,73,Yes,2,4,1,95,10,High,High
+PL1511,Kane Pandya,35,All-Rounder,5,80,53,6,7,137,50,No,2,3,5,77,15,Medium,Low
+PL1512,Babur Root,29,Batsman,7,12,58,7,7,121,88,Yes,8,1,5,91,48,Medium,Medium
+PL1513,Mohammad Pant,27,All-Rounder,1,158,44,6,7,101,57,Yes,4,5,4,64,13,Medium,Medium
+PL1514,Steve Root,20,Wicket Keeper,8,5,41,1,4,171,43,No,4,0,8,93,6,Medium,Medium
+PL1515,Pat Stokes,38,Batsman,3,2,48,7,5,137,40,Yes,8,1,4,40,33,Medium,High
+PL1516,Temba Kohli,33,All-Rounder,8,169,68,3,8,153,45,Yes,2,4,3,41,43,High,High
+PL1517,Mitchell Pant,21,Bowler,3,225,66,7,9,91,82,No,2,5,2,70,14,Medium,Low
+PL1518,Quinton Jadeja,20,Wicket Keeper,8,8,63,7,6,154,56,Yes,5,0,5,84,46,Medium,High
+PL1519,Quinton Iyer,21,Bowler,3,184,96,1,6,118,57,Yes,1,7,1,57,60,Medium,Medium
+PL1520,Pat Pant,23,Batsman,4,0,34,4,5,137,63,Yes,7,1,5,88,41,Medium,Medium
+PL1521,Rishabh Iyer,16,All-Rounder,8,51,42,5,7,150,68,No,5,5,2,57,35,Medium,Medium
+PL1522,Suryakumar Cummins,37,Bowler,1,198,50,3,4,129,62,No,2,6,3,81,46,Medium,Low
+PL1523,Lokesh Bumrah,28,Bowler,8,197,79,7,10,135,47,No,2,5,3,53,19,High,Medium
+PL1524,Jasprit Kohli,16,All-Rounder,1,179,60,3,8,97,60,Yes,5,4,3,41,21,Medium,Medium
+PL1525,Aaron Iyer,27,All-Rounder,3,139,60,2,5,124,59,Yes,3,2,4,93,65,Medium,Medium
+PL1526,Kagiso Rahul,32,Bowler,8,236,61,1,10,139,47,Yes,0,7,2,96,23,Medium,Medium
+PL1527,Shaheen Williamson,19,Wicket Keeper,2,1,48,4,5,121,65,Yes,5,1,6,88,51,Low,Medium
+PL1528,Anrich Finch,27,All-Rounder,4,115,49,3,8,103,81,Yes,3,4,5,90,20,Low,Medium
+PL1529,Aaron Archer,32,Batsman,2,6,60,2,5,116,98,No,5,1,2,94,55,Low,Low
+PL1530,Aaron Kohli,28,Bowler,8,124,82,5,4,147,66,Yes,0,6,4,55,55,High,High
+PL1531,Mitchell Rizwan,28,All-Rounder,3,164,76,1,10,101,57,No,3,4,3,74,40,Medium,Low
+PL1532,Shubman Starc,30,Wicket Keeper,5,8,36,2,7,140,51,Yes,4,1,5,71,66,Medium,Medium
+PL1533,Jofra Jadeja,20,Bowler,1,128,71,2,9,95,73,Yes,1,4,4,41,18,Medium,Medium
+PL1534,Glenn Bumrah,32,Wicket Keeper,5,7,70,2,8,131,60,Yes,5,0,6,89,1,Medium,Medium
+PL1535,Rishabh Pandya,40,All-Rounder,8,130,42,4,7,129,88,No,5,5,5,40,49,Medium,Low
+PL1536,Mitchell Azam,40,Batsman,4,10,49,3,10,127,45,No,7,1,5,53,41,Medium,Low
+PL1537,Aaron Stokes,27,Bowler,1,173,50,3,4,115,87,Yes,1,4,3,44,58,Medium,Medium
+PL1538,Jasprit Khan,21,Bowler,4,101,94,7,9,107,93,Yes,0,4,2,99,30,Low,Medium
+PL1539,Shaheen Yadav,16,Wicket Keeper,4,6,46,3,7,137,44,Yes,5,1,4,77,18,Medium,Medium
+PL1540,Kagiso Iyer,38,Batsman,2,3,37,3,10,89,63,Yes,7,0,2,66,62,Low,Medium
+PL1541,Mohammad Rahul,34,Batsman,4,5,30,7,8,126,59,Yes,8,0,3,90,32,Low,Medium
+PL1542,Suryakumar Yadav,18,Bowler,6,128,70,5,5,126,86,Yes,0,3,2,46,28,Medium,High
+PL1543,Quinton Pandya,36,Batsman,7,15,20,4,9,129,57,Yes,8,1,3,93,60,Low,Medium
+PL1544,Quinton Sharma,36,All-Rounder,6,59,77,6,10,94,95,Yes,5,4,3,84,42,Low,Medium
+PL1545,Jofra Azam,35,All-Rounder,4,67,51,6,5,143,42,No,2,5,4,50,55,Medium,Medium
+PL1546,Shubman Kohli,16,Bowler,7,121,59,6,10,127,74,No,0,4,4,92,16,Medium,Low
+PL1547,Anrich Jadeja,37,Bowler,6,230,68,3,7,144,53,No,2,3,2,75,43,Medium,Medium
+PL1548,Suryakumar Head,17,Bowler,4,107,64,5,5,123,89,No,2,4,1,44,7,Medium,Medium
+PL1549,Rohit Jadeja,37,Batsman,5,12,44,7,10,116,61,No,6,1,3,50,18,Medium,Low
+PL1550,Anrich de Kock,23,Batsman,8,16,32,2,4,148,96,Yes,6,0,2,56,33,Medium,High
+PL1551,Ravindra Khan,37,Wicket Keeper,4,10,55,3,8,123,56,No,4,0,6,52,71,Medium,Low
+PL1552,Shreyas Archer,19,Batsman,5,19,33,3,6,126,60,No,5,0,3,51,2,Medium,Medium
+PL1553,Mitchell Smith,33,Bowler,3,173,98,5,8,114,53,Yes,0,4,3,60,6,Medium,High
+PL1554,Hardik Rahul,26,Batsman,5,17,51,1,8,123,70,No,7,1,4,68,65,Medium,Low
+PL1555,Glenn Rizwan,21,Wicket Keeper,2,1,37,2,6,117,65,No,6,1,8,79,58,Low,Low
+PL1556,Shubman Starc,28,All-Rounder,8,166,70,1,7,145,59,No,3,4,5,74,47,Medium,Medium
+PL1557,Anrich Kohli,37,Batsman,3,18,48,1,7,131,44,No,8,0,4,87,13,Low,Low
+PL1558,Anrich Smith,21,Wicket Keeper,7,5,34,5,10,105,87,No,5,0,8,53,68,Medium,Low
+PL1559,Temba Sharma,20,Bowler,7,162,94,2,5,148,67,Yes,1,6,1,93,45,Medium,High
+PL1560,Rashid Finch,22,All-Rounder,6,150,58,4,9,119,92,Yes,4,2,4,64,0,Medium,Medium
+PL1561,Jofra Khan,29,Bowler,6,147,93,2,5,159,40,No,0,6,1,96,54,Medium,Medium
+PL1562,Shaheen Archer,36,Batsman,5,17,33,1,8,116,86,No,7,0,5,96,40,Low,Low
+PL1563,Ben Iyer,39,Batsman,7,10,35,3,9,122,64,Yes,6,0,4,42,57,Medium,Medium
+PL1564,Shaheen Warner,35,All-Rounder,8,83,52,5,5,164,40,No,2,5,4,86,15,Medium,Medium
+PL1565,Hardik Pandya,19,All-Rounder,4,78,79,6,7,113,82,No,4,5,3,86,41,Medium,Low
+PL1566,Mohammad Jadeja,39,All-Rounder,4,168,65,7,8,130,56,Yes,5,2,4,91,46,Medium,Medium
+PL1567,Travis Warner,34,Wicket Keeper,3,8,45,5,7,130,59,Yes,4,0,5,93,17,Low,Medium
+PL1568,Suryakumar Head,39,Batsman,3,9,53,2,5,116,96,Yes,8,1,5,40,62,Medium,Medium
+PL1569,Kane Williamson,16,Bowler,4,112,89,3,8,119,45,No,0,5,2,59,34,Medium,Low
+PL1570,Rashid Archer,18,Bowler,7,172,97,7,7,113,98,Yes,0,4,4,89,9,Medium,High
+PL1571,Babur Maxwell,16,Batsman,1,1,60,7,8,120,40,Yes,6,1,5,89,58,Low,Medium
+PL1572,Kagiso Khan,18,Batsman,6,6,24,4,7,146,47,No,4,0,4,43,61,Medium,Low
+PL1573,Kane Rahul,18,All-Rounder,1,171,40,4,8,102,54,Yes,4,3,4,57,59,Medium,Medium
+PL1574,Jasprit Bumrah,40,Bowler,8,244,66,7,4,158,69,Yes,2,7,3,81,54,High,High
+PL1575,David Azam,40,Bowler,7,129,83,6,6,128,93,Yes,2,3,1,95,38,Medium,Medium
+PL1576,Aaron Head,17,Batsman,7,11,25,4,8,144,47,No,4,0,5,75,21,Medium,Low
+PL1577,Joe Rabada,31,Wicket Keeper,7,0,39,6,10,111,89,Yes,4,0,6,40,25,Medium,Medium
+PL1578,Pat Root,18,Bowler,6,169,65,7,8,142,47,No,0,6,4,46,50,High,Medium
+PL1579,Virat Iyer,39,Bowler,2,219,62,7,6,91,98,No,2,4,1,47,30,Medium,Low
+PL1580,Lokesh Finch,36,All-Rounder,2,122,55,4,4,134,45,No,3,5,2,48,59,Medium,Medium
+PL1581,Shaheen Cummins,32,Bowler,5,196,72,2,5,121,82,Yes,2,5,4,59,34,Medium,High
+PL1582,Rishabh Pandya,25,All-Rounder,8,81,51,3,7,147,75,No,2,4,3,58,17,Medium,Medium
+PL1583,Rashid Kohli,20,Batsman,3,10,43,2,5,141,48,No,5,1,5,54,34,Medium,Low
+PL1584,Rishabh Bumrah,23,Bowler,4,105,65,6,9,117,50,Yes,1,3,2,66,55,Medium,Medium
+PL1585,Anrich Pandya,39,Wicket Keeper,4,6,59,4,9,125,44,Yes,6,1,5,58,49,Medium,Medium
+PL1586,David de Kock,26,Batsman,4,14,58,4,7,119,56,Yes,8,1,2,56,41,Medium,Medium
+PL1587,David Jadeja,19,Wicket Keeper,6,9,38,3,4,135,76,No,3,0,7,42,22,Medium,Medium
+PL1588,Kane Jadeja,36,Bowler,1,132,57,1,6,119,66,No,0,3,2,54,55,Medium,Low
+PL1589,Kane Cummins,27,Batsman,3,9,29,7,7,115,87,No,6,1,5,57,21,Low,Low
+PL1590,Anrich Afridi,28,Batsman,7,9,43,2,8,149,49,No,6,1,3,40,18,Medium,Medium
+PL1591,Temba Bavuma,34,Batsman,7,4,42,7,6,126,80,Yes,4,0,4,94,67,Medium,Medium
+PL1592,Jofra Warner,17,All-Rounder,4,115,64,7,4,137,80,Yes,2,5,2,79,11,Medium,High
+PL1593,Kagiso Gill,38,Batsman,1,12,54,3,4,126,69,Yes,7,1,5,95,54,Low,Medium
+PL1594,Jofra Pandya,27,Batsman,1,9,44,6,5,100,88,Yes,4,0,5,95,72,Low,Medium
+PL1595,Kane Maxwell,31,All-Rounder,2,174,80,7,6,113,86,Yes,5,5,2,51,13,Medium,High
+PL1596,Jasprit Stokes,32,All-Rounder,5,116,68,5,10,109,71,No,2,3,4,56,37,Medium,Low
+PL1597,Quinton Smith,35,Wicket Keeper,5,6,41,1,6,128,80,No,5,1,6,55,0,Medium,Low
+PL1598,Jasprit Stokes,24,Bowler,5,197,95,5,4,132,97,Yes,1,3,1,48,32,Medium,High
+PL1599,Temba Bavuma,40,Batsman,2,13,38,7,8,100,91,Yes,4,0,4,48,46,Low,Medium
+PL1600,Temba Pant,24,All-Rounder,7,163,44,2,9,108,84,No,5,5,2,58,27,Medium,Low
+PL1601,Steve Gill,24,All-Rounder,7,111,44,1,9,146,48,Yes,5,2,4,100,51,Medium,Medium
+PL1602,Pat Rahul,30,Bowler,8,121,84,7,4,166,65,Yes,0,3,2,79,45,High,High
+PL1603,Quinton Archer,37,All-Rounder,8,174,53,3,10,114,96,No,5,5,2,66,41,Medium,Low
+PL1604,Shaheen Starc,25,Batsman,3,16,54,2,5,118,69,Yes,6,1,4,91,52,Low,Medium
+PL1605,Jofra Rabada,27,Bowler,1,117,90,3,10,79,83,Yes,2,4,2,63,27,Low,Medium
+PL1606,Mitchell Rahul,26,Batsman,7,0,32,2,9,110,97,Yes,7,0,4,80,20,Low,Medium
+PL1607,Rohit Head,21,Batsman,8,2,51,7,4,173,44,Yes,5,0,4,89,41,Medium,High
+PL1608,Travis Finch,32,Wicket Keeper,2,2,54,4,7,130,46,No,5,0,6,59,20,Medium,Low
+PL1609,Shubman Finch,26,Wicket Keeper,6,7,33,3,10,117,56,Yes,3,0,6,94,55,Low,Medium
+PL1610,Lokesh Pant,25,Wicket Keeper,8,7,43,4,10,105,92,Yes,4,1,7,63,48,Low,Medium
+PL1611,Babur Rahul,39,Wicket Keeper,6,5,64,4,8,107,91,No,4,1,5,51,0,Medium,Low
+PL1612,Steve Cummins,28,Wicket Keeper,1,4,47,5,7,109,55,Yes,6,1,5,62,41,Medium,Medium
+PL1613,Ben Stokes,19,All-Rounder,6,72,72,1,6,132,87,No,5,2,5,77,30,Medium,Low
+PL1614,Glenn Cummins,24,Bowler,3,234,78,6,7,99,92,Yes,0,4,2,78,4,Medium,Medium
+PL1615,Temba Maxwell,18,Wicket Keeper,5,8,56,1,5,152,44,Yes,3,1,4,41,43,Medium,High
+PL1616,Glenn Gill,34,All-Rounder,7,62,78,2,6,146,68,Yes,3,4,4,55,13,Medium,High
+PL1617,Shreyas Afridi,37,Wicket Keeper,3,1,54,7,8,115,56,Yes,4,1,8,71,21,Medium,Medium
+PL1618,Ben Gill,30,Batsman,3,9,41,3,7,117,70,No,6,0,3,45,3,Medium,Low
+PL1619,Babur Head,26,Wicket Keeper,7,10,48,7,8,122,85,No,4,1,4,61,5,Medium,Low
+PL1620,Shubman Cummins,33,Batsman,7,7,53,5,5,147,72,No,4,1,3,45,6,Medium,Medium
+PL1621,Kane Head,17,Batsman,4,1,55,5,6,118,88,No,6,1,4,89,65,Low,Low
+PL1622,Temba Bumrah,26,Bowler,2,132,64,2,5,111,97,Yes,2,4,4,59,14,Medium,Medium
+PL1623,Shubman de Kock,26,All-Rounder,5,65,67,2,4,128,85,No,2,3,3,77,38,Medium,Low
+PL1624,Mitchell Azam,21,All-Rounder,4,84,68,5,4,130,71,No,2,4,4,58,2,Medium,Medium
+PL1625,Ravindra Bavuma,18,All-Rounder,5,98,61,4,10,115,76,Yes,2,2,2,84,53,Low,Medium
+PL1626,David Bumrah,35,Wicket Keeper,8,0,38,5,9,113,89,No,3,0,7,96,49,Low,Low
+PL1627,Aaron Finch,22,Bowler,6,120,93,6,5,124,88,No,1,7,3,69,57,Medium,Low
+PL1628,David Root,16,Batsman,7,5,40,5,9,127,61,No,7,1,5,95,47,Low,Low
+PL1629,Shubman Starc,19,All-Rounder,8,162,56,1,9,126,86,Yes,4,5,4,71,4,Medium,Medium
+PL1630,Anrich Stokes,32,Batsman,1,15,22,6,8,108,68,No,8,1,3,64,55,Low,Low
+PL1631,Shreyas Khan,25,Wicket Keeper,7,1,37,6,7,135,78,No,3,0,5,59,60,Medium,Low
+PL1632,Babur Smith,19,Wicket Keeper,7,5,62,2,7,146,57,No,6,0,4,43,52,Medium,Low
+PL1633,Glenn Stokes,39,Bowler,6,128,69,2,8,134,72,Yes,1,3,3,48,30,Medium,Medium
+PL1634,Aaron Williamson,32,All-Rounder,8,51,51,4,8,124,93,No,4,5,2,95,71,Low,Low
+PL1635,Ravindra Rahul,23,All-Rounder,1,103,79,3,7,109,60,No,2,3,2,52,56,Medium,Low
+PL1636,Travis Rabada,22,Batsman,6,15,31,3,10,137,44,No,5,1,5,99,30,Low,Low
+PL1637,Jos de Kock,19,Wicket Keeper,8,9,57,4,5,144,68,Yes,5,0,4,61,10,Medium,High
+PL1638,Aaron Afridi,26,Batsman,6,7,53,6,8,122,86,No,4,1,5,89,67,Low,Low
+PL1639,Joe Afridi,17,All-Rounder,7,159,66,5,9,116,87,Yes,5,3,5,94,67,Medium,Medium
+PL1640,Aaron Bavuma,40,Wicket Keeper,2,2,57,2,9,95,76,Yes,4,1,7,41,32,Low,Medium
+PL1641,Mohammad Stokes,37,Batsman,7,10,42,2,8,119,72,No,4,0,4,70,25,Medium,Low
+PL1642,Pat Williamson,33,Bowler,3,236,84,4,10,105,73,Yes,0,3,3,83,45,Medium,Medium
+PL1643,David Williamson,21,Wicket Keeper,8,2,68,3,10,134,55,No,4,0,5,71,24,Medium,Low
+PL1644,Travis Khan,28,Batsman,1,7,34,7,6,108,89,Yes,7,0,4,55,50,Low,Medium
+PL1645,Anrich Iyer,34,Batsman,7,19,44,1,5,153,49,No,8,0,5,48,30,Medium,Medium
+PL1646,Ben Buttler,28,Bowler,1,128,87,6,7,103,92,No,1,7,3,97,34,Low,Low
+PL1647,Jofra Sharma,28,All-Rounder,5,107,70,7,10,102,77,No,4,2,2,73,9,Medium,Low
+PL1648,Shubman Rabada,28,Wicket Keeper,3,7,34,6,8,91,97,Yes,5,1,6,92,35,Low,Medium
+PL1649,Shubman Bumrah,25,Bowler,1,122,64,5,8,115,47,No,0,7,1,52,56,Medium,Low
+PL1650,Jasprit Head,35,All-Rounder,7,91,47,3,10,122,59,Yes,4,2,5,91,12,Medium,Medium
+PL1651,Lokesh Azam,37,All-Rounder,2,91,67,6,9,87,100,Yes,4,3,2,94,14,Low,Medium
+PL1652,Mitchell Archer,32,Batsman,5,5,47,1,8,123,79,Yes,8,1,2,98,4,Low,Medium
+PL1653,Mitchell Bavuma,36,Bowler,1,152,92,1,8,96,84,Yes,2,7,1,59,10,Medium,Medium
+PL1654,Virat Finch,31,Batsman,5,3,47,2,9,127,58,Yes,7,0,3,90,7,Low,Medium
+PL1655,Shaheen Rizwan,20,Bowler,1,224,92,4,4,120,56,No,1,6,1,53,63,Medium,Medium
+PL1656,Babur Archer,38,Batsman,4,2,41,1,9,111,83,No,5,1,3,92,48,Low,Low
+PL1657,Virat Rabada,27,All-Rounder,1,143,67,6,7,115,68,No,5,5,2,79,69,Medium,Low
+PL1658,Jofra Starc,40,Batsman,6,11,59,5,7,130,56,No,8,1,5,52,30,Medium,Medium
+PL1659,Lokesh Rabada,16,Bowler,4,241,68,6,8,120,49,Yes,1,4,4,91,11,Medium,High
+PL1660,Pat Kohli,23,Bowler,3,213,75,1,9,113,72,No,1,5,1,91,0,Low,Low
+PL1661,Kane Pant,33,Wicket Keeper,4,1,52,5,9,109,82,Yes,6,0,6,46,50,Medium,Medium
+PL1662,Steve Sharma,28,Bowler,7,236,62,2,5,155,57,No,2,3,3,82,46,Medium,Medium
+PL1663,Quinton Head,38,Bowler,8,153,99,6,5,151,72,Yes,1,6,2,72,70,High,High
+PL1664,Ben Cummins,25,Bowler,2,218,77,4,7,99,71,No,2,3,3,74,66,Medium,Low
+PL1665,Mitchell Bavuma,37,All-Rounder,4,87,50,7,8,121,77,No,3,5,4,71,71,Medium,Low
+PL1666,Ben Cummins,36,Batsman,2,7,45,1,10,84,100,Yes,4,1,4,49,70,Low,Medium
+PL1667,Babur Gill,27,Bowler,3,162,56,6,9,109,52,Yes,1,5,2,92,25,Medium,Medium
+PL1668,Jofra Smith,31,Bowler,3,105,89,7,10,104,81,No,1,5,1,40,12,Medium,Low
+PL1669,Babur Pandya,33,All-Rounder,4,138,79,5,7,124,64,Yes,5,2,2,57,25,Medium,High
+PL1670,Ben Gill,40,Bowler,1,118,90,3,10,94,50,No,0,6,3,83,52,Low,Low
+PL1671,David Starc,20,All-Rounder,7,83,41,3,6,157,45,No,5,2,2,100,26,Medium,Medium
+PL1672,Temba Warner,38,Bowler,1,150,74,5,8,102,58,Yes,2,6,1,71,46,Medium,Medium
+PL1673,Shaheen Yadav,21,All-Rounder,8,160,76,5,5,155,61,No,5,5,3,42,53,High,Medium
+PL1674,Virat Smith,17,Bowler,7,231,59,4,9,114,96,No,1,5,2,80,5,Medium,Low
+PL1675,David Kohli,28,All-Rounder,8,124,60,2,5,129,98,No,4,4,3,78,45,Medium,Low
+PL1676,Suryakumar Afridi,36,Wicket Keeper,3,8,51,4,9,117,65,No,5,1,8,66,67,Low,Low
+PL1677,Rohit Williamson,36,Batsman,7,10,51,5,7,147,57,No,7,0,3,53,26,Medium,Medium
+PL1678,Kane Rabada,21,All-Rounder,2,95,41,1,9,113,52,Yes,2,2,4,44,62,Medium,Medium
+PL1679,Steve Head,34,Wicket Keeper,5,0,49,7,10,94,90,No,4,0,8,61,2,Low,Low
+PL1680,Aaron Nortje,40,All-Rounder,5,68,47,2,4,131,71,Yes,2,5,5,88,24,Medium,High
+PL1681,Temba Maxwell,38,Wicket Keeper,6,9,64,1,6,127,90,No,6,0,7,40,37,Medium,Low
+PL1682,Mitchell Pant,35,All-Rounder,1,160,47,3,5,112,88,Yes,2,4,3,43,58,Medium,Medium
+PL1683,Rishabh Bavuma,36,Wicket Keeper,6,3,69,6,7,117,95,Yes,4,1,8,80,23,Medium,Medium
+PL1684,Kane Azam,34,Bowler,3,121,90,7,4,134,46,Yes,2,5,1,45,20,High,High
+PL1685,Mitchell Rizwan,23,Bowler,1,138,92,5,5,106,81,No,1,6,4,81,10,Medium,Low
+PL1686,Shreyas Williamson,18,Batsman,4,16,51,7,4,149,57,Yes,8,1,2,63,71,Medium,Medium
+PL1687,Glenn Kohli,31,Bowler,6,180,50,6,10,113,70,No,0,7,3,42,58,Medium,Low
+PL1688,Hardik Yadav,28,Batsman,1,0,49,1,9,114,42,Yes,5,1,2,81,1,Low,Medium
+PL1689,Babur Afridi,26,All-Rounder,2,117,73,4,7,123,54,No,3,5,2,48,57,Medium,Low
+PL1690,Shaheen Head,31,Wicket Keeper,7,9,43,5,4,134,83,Yes,6,1,8,77,22,Medium,High
+PL1691,Shreyas Cummins,21,Bowler,3,231,63,4,7,106,88,Yes,0,4,1,82,49,Medium,Medium
+PL1692,Travis Kohli,24,Batsman,5,20,53,3,5,138,66,No,6,0,3,50,27,Medium,Medium
+PL1693,Shreyas Iyer,36,Bowler,5,190,65,1,10,95,99,No,0,5,2,45,15,Medium,Low
+PL1694,Mohammad Williamson,28,Bowler,4,216,87,4,7,118,62,Yes,0,3,3,47,24,Medium,High
+PL1695,Aaron Azam,24,All-Rounder,2,180,71,5,8,92,80,Yes,2,5,5,40,42,Medium,Medium
+PL1696,Shubman Stokes,35,Bowler,5,241,60,2,10,119,72,Yes,2,7,1,53,67,Medium,Medium
+PL1697,Pat Maxwell,17,Wicket Keeper,4,1,69,3,10,91,77,Yes,6,1,7,86,65,Low,Medium
+PL1698,Kagiso Khan,18,All-Rounder,6,104,56,2,4,141,65,Yes,2,3,3,83,12,Medium,High
+PL1699,Aaron Azam,39,All-Rounder,8,72,78,3,6,130,95,Yes,5,2,2,64,49,Medium,Medium
+PL1700,Rashid Khan,35,Bowler,4,107,79,5,7,126,55,Yes,2,3,3,82,2,Medium,High
+PL1701,Rishabh Kohli,32,Wicket Keeper,6,9,59,5,6,119,87,No,4,1,4,94,15,Medium,Low
+PL1702,Suryakumar Stokes,19,Batsman,5,14,45,1,5,136,50,Yes,6,0,5,64,46,Medium,Medium
+PL1703,Rishabh Rizwan,29,All-Rounder,1,142,74,2,9,110,49,Yes,3,5,4,67,34,Medium,Medium
+PL1704,Rishabh Warner,31,Wicket Keeper,8,2,35,5,7,135,91,Yes,3,0,8,85,62,Medium,Medium
+PL1705,Shaheen Cummins,27,Batsman,8,13,29,4,7,128,81,Yes,5,0,5,82,64,Medium,Medium
+PL1706,Anrich Afridi,19,Wicket Keeper,7,8,62,5,10,126,45,Yes,5,0,8,67,13,Medium,Medium
+PL1707,Glenn Rahul,35,Bowler,5,182,93,5,5,139,43,No,2,6,2,50,25,High,Medium
+PL1708,Kane Rahul,28,All-Rounder,4,149,55,3,9,113,67,Yes,3,5,3,42,68,Medium,Medium
+PL1709,Anrich Williamson,33,Batsman,2,13,20,4,8,103,58,No,4,0,4,60,59,Low,Low
+PL1710,Rishabh Nortje,25,Wicket Keeper,6,2,53,3,4,150,53,No,6,1,7,70,11,Medium,Medium
+PL1711,Steve Bumrah,31,Batsman,1,2,40,3,9,94,66,No,4,1,5,85,56,Low,Low
+PL1712,Shreyas Maxwell,40,All-Rounder,5,108,55,1,8,108,82,No,2,3,4,84,23,Low,Low
+PL1713,Lokesh Williamson,31,Wicket Keeper,2,1,67,4,9,109,46,No,6,0,7,67,31,Medium,Low
+PL1714,Aaron Kohli,40,All-Rounder,8,162,69,4,10,130,69,No,3,3,4,51,38,Medium,Low
+PL1715,Rishabh Stokes,30,All-Rounder,4,73,47,7,10,103,68,No,2,2,5,69,31,Medium,Low
+PL1716,Kane Nortje,21,Wicket Keeper,8,0,59,2,4,139,91,Yes,4,1,4,73,44,Medium,Medium
+PL1717,Temba Yadav,36,All-Rounder,7,116,80,6,4,148,83,Yes,3,2,5,97,39,Medium,High
+PL1718,Hardik de Kock,27,Bowler,4,112,54,1,9,119,69,No,2,4,4,67,12,Medium,Low
+PL1719,Travis Khan,39,Batsman,5,15,51,3,7,123,75,Yes,7,1,2,52,68,Medium,Medium
+PL1720,Shreyas Bumrah,18,All-Rounder,3,69,40,6,5,130,58,Yes,4,2,3,98,67,Medium,Medium
+PL1721,Ravindra Jadeja,25,All-Rounder,7,146,67,7,10,103,92,Yes,5,5,4,85,52,Medium,Medium
+PL1722,Quinton Sharma,17,Bowler,4,140,58,2,10,95,91,No,1,6,4,40,32,Medium,Low
+PL1723,Babur Afridi,39,Bowler,8,144,66,5,7,153,58,No,1,6,3,43,16,High,Medium
+PL1724,Rishabh Warner,19,All-Rounder,2,137,60,2,5,132,53,Yes,5,5,4,87,15,Medium,High
+PL1725,Mohammad Gill,17,Batsman,6,14,53,2,10,133,45,Yes,7,1,5,96,4,Low,Medium
+PL1726,Shaheen Buttler,37,Batsman,4,0,28,7,4,130,71,No,5,1,3,51,64,Medium,Low
+PL1727,Hardik Starc,19,Wicket Keeper,4,9,56,4,8,95,90,No,6,0,4,58,41,Low,Low
+PL1728,Temba Iyer,38,Batsman,6,17,47,7,5,139,70,Yes,7,1,3,50,15,Medium,High
+PL1729,Aaron Archer,19,Bowler,3,206,94,5,10,89,78,No,0,7,2,95,62,Low,Low
+PL1730,Shreyas Root,16,Batsman,2,19,23,3,4,122,89,Yes,8,1,3,66,20,Low,Medium
+PL1731,Mitchell Stokes,28,Batsman,8,17,42,2,9,113,85,No,6,0,2,47,40,Medium,Low
+PL1732,Steve Afridi,37,Batsman,1,5,54,2,9,85,94,No,7,0,2,88,68,Low,Low
+PL1733,Steve Bavuma,30,All-Rounder,1,60,75,6,8,101,77,No,2,5,3,88,3,Low,Low
+PL1734,Rishabh Pandya,35,Bowler,6,121,88,2,10,116,58,No,0,4,2,53,60,Medium,Low
+PL1735,Kane Yadav,30,Batsman,2,18,32,3,8,96,67,No,6,1,2,54,66,Low,Low
+PL1736,Rashid Khan,29,All-Rounder,1,86,44,2,6,115,40,No,3,2,5,97,16,Low,Low
+PL1737,Joe Cummins,30,Batsman,8,7,41,7,10,118,100,Yes,8,1,4,100,53,Low,Medium
+PL1738,Steve Azam,20,All-Rounder,7,117,67,1,4,144,70,No,2,3,3,40,61,High,Medium
+PL1739,Virat Iyer,30,Batsman,1,12,20,3,8,109,71,Yes,6,1,3,54,3,Low,Medium
+PL1740,David Sharma,20,Wicket Keeper,2,5,34,1,4,124,67,No,5,0,8,57,49,Medium,Low
+PL1741,Joe Gill,30,Batsman,3,6,51,4,5,122,71,No,5,1,5,92,6,Low,Low
+PL1742,Ravindra Stokes,32,All-Rounder,6,128,54,3,6,125,90,No,2,5,3,58,1,Medium,Medium
+PL1743,Jasprit Smith,23,Bowler,6,146,76,2,5,132,92,Yes,2,7,3,89,58,Medium,Medium
+PL1744,Mitchell Khan,29,Bowler,2,126,83,5,5,132,63,No,0,7,4,50,63,Medium,Low
+PL1745,Shaheen Stokes,39,Batsman,5,8,23,6,7,137,41,No,6,0,5,81,4,Medium,Low
+PL1746,David Bavuma,31,Batsman,3,13,34,1,6,125,72,No,6,1,4,63,0,Low,Low
+PL1747,Shubman Smith,20,Batsman,4,10,26,5,4,145,46,No,5,0,2,40,28,Medium,Medium
+PL1748,Mitchell Sharma,31,Bowler,4,178,63,4,10,121,41,No,1,3,2,60,72,Medium,Low
+PL1749,Travis Finch,28,Bowler,3,235,99,6,7,138,43,Yes,0,4,1,80,10,Medium,High
+PL1750,Babur Rizwan,22,Wicket Keeper,8,3,49,6,5,168,49,Yes,3,0,7,52,35,High,High
+PL1751,Anrich Cummins,33,Bowler,8,141,59,1,5,134,85,No,0,6,1,45,9,Medium,Medium
+PL1752,Hardik Kohli,34,Batsman,5,19,45,5,6,141,55,Yes,5,1,5,46,20,Medium,High
+PL1753,Aaron Warner,28,Batsman,2,10,38,5,4,114,81,No,8,1,5,83,52,Low,Low
+PL1754,Temba Pant,39,Wicket Keeper,4,5,70,3,9,105,83,No,5,1,4,45,46,Medium,Low
+PL1755,Rishabh Pant,24,All-Rounder,6,136,53,6,8,115,98,Yes,5,3,4,84,15,Medium,Medium
+PL1756,Kane Finch,20,Wicket Keeper,1,6,64,2,4,110,94,Yes,3,1,7,92,71,Low,Medium
+PL1757,Quinton Smith,23,Bowler,5,213,54,2,9,118,53,Yes,0,6,4,44,61,Medium,Medium
+PL1758,Rishabh Starc,17,Wicket Keeper,4,7,64,2,7,112,89,No,6,1,7,100,66,Low,Low
+PL1759,Glenn Head,18,All-Rounder,4,150,60,2,10,116,68,Yes,3,5,4,82,18,Low,Medium
+PL1760,Hardik Iyer,17,Wicket Keeper,7,5,42,2,7,129,93,Yes,5,1,4,79,60,Low,Medium
+PL1761,Pat Bumrah,17,Wicket Keeper,4,8,40,7,6,140,57,Yes,3,1,6,48,24,Medium,High
+PL1762,Quinton Starc,26,Wicket Keeper,8,5,57,1,10,119,95,Yes,3,1,7,51,38,Medium,Medium
+PL1763,Rishabh Kohli,30,Bowler,3,247,86,7,4,114,91,No,2,7,1,99,45,Medium,Low
+PL1764,Jofra Head,21,Bowler,5,204,83,5,4,142,46,Yes,2,6,2,60,12,High,High
+PL1765,Rishabh Smith,26,Wicket Keeper,8,10,43,2,6,133,90,Yes,4,1,5,96,42,Medium,Medium
+PL1766,Aaron Starc,22,All-Rounder,6,61,72,5,5,151,49,No,2,4,2,95,48,Medium,Medium
+PL1767,Babur Jadeja,25,Bowler,4,155,52,3,6,123,63,Yes,1,5,4,59,51,Medium,Medium
+PL1768,Pat Pandya,17,Batsman,4,20,48,6,9,95,94,Yes,5,1,3,41,68,Medium,Medium
+PL1769,Travis Head,36,All-Rounder,5,124,44,2,4,149,52,Yes,4,4,4,78,43,Medium,High
+PL1770,Rashid Kohli,35,Wicket Keeper,7,4,65,2,7,124,94,Yes,3,0,7,65,35,Medium,Medium
+PL1771,Kane Rahul,27,All-Rounder,1,163,72,1,10,107,48,Yes,2,5,3,49,37,Medium,Medium
+PL1772,Rohit Buttler,28,Bowler,4,234,53,7,7,129,68,Yes,2,4,3,44,23,Medium,High
+PL1773,Kagiso Khan,18,Bowler,8,230,63,1,10,144,44,No,1,6,1,40,46,High,Medium
+PL1774,Jasprit Head,19,Batsman,8,2,51,4,4,163,68,Yes,7,0,4,66,50,Medium,High
+PL1775,Aaron Buttler,22,Bowler,6,218,75,5,5,122,87,No,1,4,3,46,29,High,Medium
+PL1776,Pat Buttler,16,Wicket Keeper,8,0,63,4,5,146,96,No,5,0,7,48,29,Medium,Medium
+PL1777,Rashid Azam,24,Batsman,3,14,20,3,6,101,100,Yes,6,1,2,64,59,Low,Medium
+PL1778,Ben Smith,32,Batsman,2,7,51,3,9,89,92,Yes,7,0,5,89,14,Low,Medium
+PL1779,Babur Root,27,All-Rounder,5,82,74,7,5,141,52,No,3,3,2,56,60,Medium,Medium
+PL1780,Ravindra Archer,35,Wicket Keeper,7,0,33,6,10,126,71,Yes,5,1,8,99,43,Low,Medium
+PL1781,Shubman Starc,25,All-Rounder,2,93,56,1,6,118,49,Yes,2,2,2,42,48,Medium,Medium
+PL1782,Ravindra Pant,16,Bowler,1,207,59,1,8,90,77,Yes,0,5,2,79,3,Low,Medium
+PL1783,Hardik Starc,32,Batsman,1,16,44,5,5,96,95,Yes,8,0,3,94,51,Low,Medium
+PL1784,Joe Head,37,All-Rounder,6,170,73,5,5,149,40,No,3,4,3,98,26,Medium,Medium
+PL1785,Quinton de Kock,23,Batsman,7,4,45,4,7,145,41,Yes,7,1,3,65,35,Medium,High
+PL1786,Shaheen Sharma,29,Wicket Keeper,6,4,60,2,6,147,51,No,4,1,5,81,34,Medium,Low
+PL1787,Anrich Iyer,28,Wicket Keeper,5,7,59,2,7,135,67,Yes,5,0,4,100,1,Low,Medium
+PL1788,Aaron Archer,20,Batsman,7,14,44,5,4,156,53,Yes,8,1,2,47,17,Medium,High
+PL1789,Babur Nortje,19,All-Rounder,3,149,60,7,8,109,76,Yes,3,2,2,74,2,Medium,Medium
+PL1790,Rashid Williamson,40,Batsman,8,1,45,3,7,143,83,No,7,1,4,58,61,Medium,Low
+PL1791,Kagiso de Kock,30,Bowler,3,222,91,2,8,112,69,Yes,2,4,1,58,63,Medium,Medium
+PL1792,Shreyas Rizwan,36,Wicket Keeper,5,9,55,3,6,145,59,Yes,4,0,5,94,58,Medium,Medium
+PL1793,Temba Bumrah,31,Wicket Keeper,5,10,57,5,10,91,90,No,6,0,6,48,27,Low,Low
+PL1794,Ben Starc,34,Batsman,4,15,25,5,7,124,53,No,8,1,2,89,48,Low,Low
+PL1795,Shreyas Rahul,28,Batsman,6,0,26,7,9,119,66,No,6,0,2,51,36,Medium,Low
+PL1796,Virat Bumrah,32,Bowler,5,114,55,2,7,127,64,Yes,0,4,1,93,37,Medium,Medium
+PL1797,Jasprit Pant,24,Bowler,2,227,98,6,10,103,49,No,0,6,3,73,1,Medium,Low
+PL1798,Shaheen Sharma,34,Batsman,2,10,32,6,5,133,43,Yes,5,1,2,87,63,Medium,Medium
+PL1799,Jos Nortje,23,All-Rounder,8,171,72,3,8,117,97,No,2,2,4,57,38,Medium,Low
+PL1800,David Yadav,36,Batsman,4,18,35,2,6,120,68,Yes,4,1,3,71,9,Medium,Medium
+PL1801,Babur Cummins,27,All-Rounder,2,155,72,1,4,142,48,Yes,5,4,5,75,69,Medium,Medium
+PL1802,Pat Rahul,23,Wicket Keeper,8,1,38,2,10,108,91,No,6,1,8,46,8,Medium,Low
+PL1803,Lokesh Nortje,23,Wicket Keeper,3,1,66,6,9,96,82,No,4,0,8,81,28,Low,Low
+PL1804,Rohit Bavuma,21,Bowler,2,150,63,3,6,104,84,Yes,2,6,4,63,51,Medium,Medium
+PL1805,Jasprit Pant,34,All-Rounder,1,170,54,4,9,111,40,No,4,5,5,83,38,Medium,Low
+PL1806,Travis Yadav,34,All-Rounder,3,175,75,5,10,94,68,Yes,2,4,2,46,34,Medium,Medium
+PL1807,Virat Starc,30,Bowler,7,108,98,6,9,116,75,No,2,6,1,87,14,Medium,Low
+PL1808,Virat Buttler,22,Batsman,2,8,59,3,6,120,52,No,8,1,2,83,43,Medium,Low
+PL1809,Ravindra Root,17,Batsman,8,18,34,4,6,144,91,No,5,1,5,52,49,Medium,Low
+PL1810,Lokesh Root,23,Bowler,6,188,81,3,5,158,41,Yes,1,7,3,63,46,High,High
+PL1811,Kagiso Pant,23,Bowler,1,116,72,1,5,118,68,No,1,3,3,71,70,Medium,Low
+PL1812,Mitchell Finch,33,All-Rounder,5,123,50,3,4,144,48,Yes,5,5,2,50,62,Medium,High
+PL1813,Virat Stokes,36,All-Rounder,7,135,54,6,8,125,67,No,4,5,5,47,0,Medium,Medium
+PL1814,Kane Pandya,40,All-Rounder,5,111,79,2,4,152,58,Yes,3,5,2,75,17,Medium,High
+PL1815,David Sharma,23,Bowler,8,161,67,5,7,152,58,No,2,6,1,51,53,High,Medium
+PL1816,Jofra Sharma,38,Batsman,7,8,58,7,8,141,44,Yes,4,1,5,53,0,Medium,High
+PL1817,Anrich Pant,34,Batsman,7,5,32,2,7,134,69,Yes,8,0,4,60,63,Medium,Medium
+PL1818,Pat Rizwan,33,Bowler,6,223,57,1,8,116,85,No,0,3,2,59,1,Medium,Medium
+PL1819,Jasprit Stokes,21,Batsman,1,2,20,5,6,112,66,Yes,5,0,2,99,52,Low,Medium
+PL1820,Glenn Pant,40,Wicket Keeper,8,3,39,5,6,163,47,Yes,6,1,5,73,70,Medium,Medium
+PL1821,Jos Bumrah,27,Bowler,6,180,51,2,8,125,60,Yes,2,4,1,77,45,Medium,Medium
+PL1822,Shaheen Smith,20,All-Rounder,8,68,74,7,10,132,59,No,4,4,4,91,3,Medium,Low
+PL1823,Shaheen Afridi,33,Bowler,2,120,89,4,10,104,65,Yes,0,4,4,69,33,Medium,Medium
+PL1824,Glenn Head,30,All-Rounder,3,50,43,1,4,113,84,No,2,2,3,50,6,Medium,Medium
+PL1825,Shreyas Azam,34,Batsman,7,14,34,2,8,133,48,Yes,6,0,3,100,4,Medium,Medium
+PL1826,Mohammad Bavuma,40,Batsman,8,13,43,2,9,140,60,No,4,0,5,99,26,Medium,Low
+PL1827,Steve Starc,18,All-Rounder,3,104,45,1,5,129,59,No,5,5,3,42,7,Medium,Medium
+PL1828,Ravindra Sharma,31,Bowler,6,221,92,3,5,142,84,Yes,2,4,3,45,49,High,High
+PL1829,Aaron Head,38,Batsman,7,17,37,3,5,148,62,No,6,0,2,99,37,Medium,Low
+PL1830,Rohit Rizwan,40,Batsman,6,13,43,4,5,125,88,No,6,0,2,47,63,Medium,Low
+PL1831,Quinton Azam,28,All-Rounder,7,167,52,5,6,139,89,Yes,4,3,4,90,39,Medium,Medium
+PL1832,Lokesh Pant,16,All-Rounder,3,150,42,2,9,112,49,No,5,3,4,52,48,Medium,Low
+PL1833,Lokesh Buttler,18,Wicket Keeper,3,5,50,4,8,106,65,No,6,1,8,49,62,Medium,Low
+PL1834,Quinton Pant,17,All-Rounder,6,168,65,6,6,128,82,No,3,2,4,75,38,Medium,Low
+PL1835,Quinton Afridi,28,All-Rounder,2,165,45,4,9,96,83,Yes,3,5,4,48,19,Medium,Medium
+PL1836,Mitchell Bavuma,38,Bowler,5,143,74,3,4,136,89,Yes,0,5,1,67,23,Medium,High
+PL1837,Glenn Cummins,40,All-Rounder,8,167,42,2,8,142,66,No,4,5,3,59,60,Medium,Low
+PL1838,Shreyas de Kock,28,All-Rounder,8,69,62,4,6,122,98,No,2,4,2,78,19,Medium,Low
+PL1839,Ben Pant,20,Batsman,1,1,59,6,4,132,63,No,6,0,4,55,50,Medium,Low
+PL1840,David Bavuma,39,Wicket Keeper,4,1,63,4,8,132,41,No,5,1,6,68,34,Medium,Low
+PL1841,Rohit Finch,23,Bowler,6,245,85,6,6,144,58,Yes,0,6,3,95,17,Medium,High
+PL1842,Lokesh Sharma,40,Batsman,6,15,41,4,9,103,85,Yes,8,1,5,72,46,Low,Medium
+PL1843,Mitchell Bumrah,30,All-Rounder,7,143,70,6,8,125,73,No,5,4,4,50,28,Medium,Medium
+PL1844,Rashid Pandya,34,Batsman,7,5,33,5,5,140,89,No,6,1,2,83,34,Medium,Low
+PL1845,Travis Yadav,24,Bowler,8,126,87,2,6,153,47,No,2,3,2,40,36,High,Medium
+PL1846,David Warner,20,Bowler,3,232,63,1,10,112,49,Yes,1,4,3,61,4,Medium,Medium
+PL1847,Kagiso Maxwell,32,Batsman,6,18,60,4,7,144,52,Yes,6,0,2,53,3,Medium,High
+PL1848,Travis Gill,20,All-Rounder,5,147,45,3,4,137,84,No,4,4,2,56,40,Medium,Medium
+PL1849,Joe Kohli,21,Bowler,2,159,67,4,7,108,54,Yes,1,6,2,56,63,Medium,Medium
+PL1850,Kane Head,21,Bowler,2,136,64,4,7,101,94,No,0,3,1,93,8,Low,Low
+PL1851,Shaheen Rahul,18,Batsman,2,1,60,6,7,92,86,No,7,1,4,61,23,Low,Low
+PL1852,Rishabh Starc,28,Batsman,3,8,39,4,7,104,94,No,4,1,5,53,50,Low,Low
+PL1853,Anrich Pant,23,Bowler,6,187,71,4,4,126,96,Yes,2,4,3,71,6,Medium,High
+PL1854,Virat Finch,39,All-Rounder,1,154,52,6,9,99,73,Yes,2,2,4,87,44,Low,Medium
+PL1855,Suryakumar Buttler,24,Batsman,1,17,21,3,4,121,68,Yes,5,1,5,43,18,Medium,Medium
+PL1856,Mohammad Starc,29,All-Rounder,1,172,63,1,10,77,79,Yes,3,3,3,72,42,Low,Medium
+PL1857,Anrich Yadav,18,Wicket Keeper,1,7,65,2,10,95,62,No,4,0,5,57,72,Low,Low
+PL1858,Travis Khan,23,Bowler,6,194,88,7,10,107,78,Yes,2,3,2,98,3,Medium,Medium
+PL1859,Hardik de Kock,32,All-Rounder,4,84,68,6,4,122,98,Yes,5,4,3,98,9,Medium,Medium
+PL1860,Jofra Stokes,26,All-Rounder,1,68,73,4,5,138,42,No,4,4,3,40,19,Medium,Medium
+PL1861,Kane Smith,16,Wicket Keeper,8,7,69,7,9,132,58,No,3,0,5,71,62,Medium,Low
+PL1862,Temba Sharma,39,All-Rounder,8,130,43,5,7,146,40,No,5,5,4,80,51,Medium,Medium
+PL1863,Hardik Gill,27,Wicket Keeper,8,4,32,6,5,149,87,Yes,4,1,7,77,38,Medium,Medium
+PL1864,Hardik Gill,34,Bowler,8,123,83,5,10,100,100,Yes,1,6,4,45,63,Medium,Medium
+PL1865,Rishabh Rahul,29,All-Rounder,8,156,61,1,6,128,83,No,5,3,4,92,22,Medium,Medium
+PL1866,Jofra Rabada,19,All-Rounder,6,168,76,5,5,126,87,Yes,4,2,4,58,35,Medium,High
+PL1867,Shreyas Williamson,39,Bowler,3,113,88,3,8,112,76,No,0,6,3,100,23,Low,Low
+PL1868,Rishabh Warner,30,Batsman,5,2,36,2,9,111,87,Yes,6,1,5,94,49,Low,Medium
+PL1869,Glenn Head,31,Bowler,6,214,69,7,4,156,51,No,0,5,3,57,4,High,Medium
+PL1870,Kagiso Buttler,38,Batsman,5,5,31,1,5,153,49,No,6,0,5,96,54,Medium,Low
+PL1871,Quinton Rizwan,18,Bowler,7,100,67,2,5,140,66,No,1,5,1,47,12,Medium,Medium
+PL1872,Mohammad Stokes,33,Bowler,3,135,78,1,9,119,46,Yes,1,6,2,46,61,Medium,Medium
+PL1873,David de Kock,20,All-Rounder,1,132,58,5,10,96,59,No,2,2,4,92,9,Low,Low
+PL1874,Lokesh Rizwan,27,Bowler,3,226,94,5,7,115,52,No,0,3,2,85,66,Medium,Low
+PL1875,Suryakumar Head,30,Wicket Keeper,4,8,44,6,5,129,60,No,5,0,5,67,0,Medium,Medium
+PL1876,Lokesh Archer,40,Bowler,8,213,87,3,10,128,44,Yes,1,7,2,62,3,Medium,High
+PL1877,Travis Rizwan,39,All-Rounder,4,101,80,1,5,136,57,No,2,3,5,79,12,Medium,Medium
+PL1878,Pat Afridi,30,All-Rounder,7,74,43,2,9,113,84,No,5,3,3,67,26,Medium,Low
+PL1879,Glenn Rizwan,36,Batsman,6,15,48,7,4,134,83,No,6,0,3,49,34,Medium,Medium
+PL1880,Jasprit Head,29,Wicket Keeper,5,5,63,1,7,121,65,No,3,0,8,79,72,Medium,Low
+PL1881,Ben Iyer,26,Wicket Keeper,3,5,68,1,7,107,92,No,3,1,7,70,60,Low,Low
+PL1882,Virat Finch,33,Bowler,8,131,67,5,8,127,89,Yes,2,7,3,42,26,Medium,Medium
+PL1883,Shaheen Archer,27,Batsman,1,3,33,5,9,98,43,No,5,1,2,82,26,Low,Low
+PL1884,David Jadeja,29,All-Rounder,1,84,50,6,4,107,92,Yes,4,2,5,79,69,Low,Medium
+PL1885,Anrich Smith,40,Batsman,8,17,23,7,9,134,65,Yes,8,1,2,84,21,Medium,Medium
+PL1886,Rishabh Pandya,38,All-Rounder,2,144,47,1,8,109,49,Yes,4,3,5,78,15,Medium,Medium
+PL1887,Mohammad Azam,37,Wicket Keeper,8,9,70,2,8,128,78,No,6,0,4,67,7,Medium,Low
+PL1888,Mitchell Warner,21,All-Rounder,1,95,79,7,8,96,80,No,3,4,3,51,8,Medium,Low
+PL1889,Babur Rabada,38,Bowler,3,199,77,3,7,113,88,No,2,6,3,51,38,Medium,Low
+PL1890,Joe de Kock,40,Bowler,3,233,71,7,6,117,67,Yes,0,4,2,40,15,Medium,High
+PL1891,Mitchell Stokes,40,Bowler,7,224,64,3,9,134,53,Yes,1,4,2,87,43,Medium,Medium
+PL1892,Suryakumar Afridi,34,Wicket Keeper,8,5,49,2,6,138,90,No,5,0,8,79,19,Medium,Low
+PL1893,Travis Khan,19,Bowler,6,222,78,1,8,127,59,No,1,5,2,99,6,Medium,Low
+PL1894,Lokesh Buttler,36,All-Rounder,6,53,46,5,9,105,81,Yes,2,2,3,87,39,Low,Medium
+PL1895,Joe Smith,20,Wicket Keeper,6,4,55,7,8,130,74,No,5,0,8,77,66,Medium,Low
+PL1896,Aaron Head,35,Batsman,6,7,43,7,5,126,96,Yes,4,0,3,56,64,Medium,Medium
+PL1897,Shubman Stokes,39,Wicket Keeper,1,4,65,2,7,105,65,No,3,0,8,49,37,Medium,Low
+PL1898,Temba Bumrah,22,Batsman,2,16,33,1,6,117,46,No,6,0,5,40,72,Medium,Low
+PL1899,Glenn Rizwan,18,Wicket Keeper,7,1,70,4,4,152,59,Yes,5,1,7,94,23,Medium,High
+PL1900,Rishabh Jadeja,26,Bowler,2,165,92,2,7,127,43,No,2,3,1,100,13,Medium,Low
+PL1901,Shubman Afridi,16,Batsman,6,16,60,4,10,116,70,No,7,0,2,67,22,Medium,Low
+PL1902,Kane Khan,29,Wicket Keeper,4,10,35,3,10,100,94,No,4,0,6,54,21,Low,Low
+PL1903,Suryakumar Bumrah,24,All-Rounder,5,163,43,1,4,161,48,Yes,4,4,2,71,32,Medium,High
+PL1904,Hardik Buttler,17,Bowler,6,164,97,5,4,156,68,Yes,0,7,2,70,10,High,High
+PL1905,Rashid Stokes,26,Wicket Keeper,4,8,55,2,10,111,75,Yes,6,0,8,80,29,Low,Medium
+PL1906,Quinton Stokes,18,Batsman,3,6,52,6,7,106,74,No,5,1,5,95,59,Low,Low
+PL1907,Ravindra Head,25,Wicket Keeper,2,7,59,2,10,103,66,No,5,1,7,79,10,Low,Low
+PL1908,Aaron Williamson,17,Batsman,2,9,34,2,7,110,50,Yes,5,1,5,74,21,Low,Medium
+PL1909,Suryakumar Finch,33,Batsman,1,16,30,3,6,96,78,Yes,8,0,3,69,29,Low,Medium
+PL1910,Lokesh Yadav,35,All-Rounder,6,151,57,2,6,118,95,Yes,2,5,2,76,36,Medium,Medium
+PL1911,Mitchell Head,18,Bowler,6,157,80,4,7,114,95,No,0,6,3,93,41,Medium,Low
+PL1912,Pat Iyer,36,Batsman,7,17,40,3,5,152,45,No,4,1,3,52,33,Medium,Medium
+PL1913,Rishabh Starc,26,Batsman,4,3,24,2,7,107,97,Yes,8,1,4,63,28,Low,Medium
+PL1914,Rishabh Head,30,Bowler,3,156,53,1,10,81,89,No,1,5,1,93,42,Low,Low
+PL1915,Hardik Afridi,18,Batsman,5,5,31,5,9,118,72,No,5,1,5,64,47,Low,Low
+PL1916,Kagiso Warner,35,Batsman,7,5,51,1,8,142,57,Yes,5,0,5,90,14,Medium,Medium
+PL1917,Shubman Azam,29,All-Rounder,1,110,47,6,5,118,55,Yes,2,5,3,86,33,Medium,Medium
+PL1918,Aaron Williamson,39,Batsman,7,20,44,1,10,120,64,No,7,0,4,87,58,Low,Low
+PL1919,Jos Finch,22,Batsman,4,9,45,3,10,84,92,Yes,7,1,3,58,30,Low,Medium
+PL1920,Kane Afridi,18,All-Rounder,6,83,40,6,8,135,42,Yes,5,5,2,41,7,Medium,High
+PL1921,Shaheen de Kock,39,Bowler,6,123,87,3,10,117,54,No,1,3,2,99,0,Medium,Low
+PL1922,Babur Starc,36,Wicket Keeper,5,3,55,1,8,131,56,No,5,1,5,64,53,Medium,Low
+PL1923,Lokesh Maxwell,31,Wicket Keeper,7,0,46,6,4,153,62,Yes,4,0,4,99,35,Medium,High
+PL1924,Jasprit de Kock,24,Bowler,7,201,84,6,6,130,70,No,2,4,4,93,18,Medium,Medium
+PL1925,David Gill,28,Bowler,4,237,79,5,8,121,72,No,2,7,1,74,24,Medium,Low
+PL1926,Rashid Bavuma,31,Wicket Keeper,8,0,46,2,10,109,99,Yes,5,1,7,68,18,Low,Medium
+PL1927,Virat Nortje,34,Batsman,5,3,45,5,5,131,98,Yes,8,0,5,49,51,Medium,Medium
+PL1928,Jos Smith,38,Wicket Keeper,6,7,49,1,5,141,69,No,5,0,8,97,6,Medium,Low
+PL1929,Babur Rabada,32,All-Rounder,7,102,49,5,10,140,46,No,2,3,2,59,35,Medium,Low
+PL1930,Hardik Warner,30,All-Rounder,5,157,61,2,6,114,95,No,4,5,2,42,47,Medium,Low
+PL1931,Shaheen Maxwell,40,Batsman,3,8,58,1,10,95,78,No,6,1,2,83,17,Low,Low
+PL1932,Joe Nortje,26,Batsman,4,9,23,2,8,106,76,Yes,4,1,2,100,30,Low,Medium
+PL1933,Quinton Maxwell,26,Wicket Keeper,5,8,45,6,8,106,86,No,4,1,7,71,39,Low,Low
+PL1934,David Sharma,17,Bowler,2,127,99,4,6,96,94,Yes,1,7,4,41,51,Medium,Medium
+PL1935,Suryakumar Finch,19,All-Rounder,8,151,79,6,6,141,77,Yes,5,3,4,97,37,Medium,High
+PL1936,Kagiso Pant,26,Bowler,2,233,90,1,9,93,93,Yes,0,4,1,61,58,Medium,Medium
+PL1937,Kane Jadeja,38,Bowler,6,216,50,1,10,93,100,No,1,6,1,76,19,Low,Low
+PL1938,Joe Afridi,23,Batsman,5,10,21,4,5,134,80,Yes,4,1,3,62,28,Medium,Medium
+PL1939,Joe Stokes,31,Wicket Keeper,5,5,32,7,7,104,94,Yes,3,0,5,69,8,Low,Medium
+PL1940,Glenn de Kock,18,Batsman,6,15,50,3,8,123,53,No,6,1,3,71,31,Medium,Low
+PL1941,Quinton Khan,23,All-Rounder,2,111,70,4,9,109,49,No,4,2,2,87,60,Medium,Low
+PL1942,Temba Rabada,27,Bowler,3,225,68,7,5,126,50,No,1,3,3,62,71,Medium,Medium
+PL1943,Travis Bumrah,29,Bowler,2,215,54,5,6,115,86,No,0,4,1,49,3,Medium,Medium
+PL1944,Shaheen Iyer,21,All-Rounder,8,79,64,2,9,131,59,No,5,3,5,40,3,Medium,Medium
+PL1945,Kagiso Rabada,39,Batsman,7,11,47,5,9,117,100,No,8,1,4,86,62,Low,Low
+PL1946,Aaron Stokes,16,Bowler,5,103,77,7,8,129,66,No,2,3,1,53,30,Medium,Low
+PL1947,Travis Head,39,Wicket Keeper,2,1,47,7,9,96,97,Yes,5,0,7,79,15,Low,Medium
+PL1948,Travis Sharma,28,Bowler,1,182,75,1,5,106,77,Yes,2,4,2,82,55,Medium,Medium
+PL1949,Rishabh Smith,34,All-Rounder,5,100,57,7,10,107,89,No,3,5,5,65,32,Medium,Low
+PL1950,Lokesh Buttler,33,Bowler,4,189,82,3,5,122,100,Yes,2,6,3,80,64,Medium,Medium
+PL1951,Ravindra Archer,27,Batsman,3,16,49,7,6,104,95,No,4,1,4,78,12,Low,Low
+PL1952,Aaron Rizwan,21,Bowler,4,218,63,1,10,106,78,Yes,2,7,1,99,69,Low,Medium
+PL1953,Aaron Azam,25,Batsman,6,13,34,4,7,126,98,No,8,0,5,69,65,Low,Low
+PL1954,Temba Rahul,32,All-Rounder,6,98,56,4,6,125,81,No,2,3,2,96,18,Medium,Low
+PL1955,Mohammad Finch,21,Batsman,4,5,58,5,4,142,44,No,8,0,2,91,56,Medium,Low
+PL1956,Steve Rabada,36,Bowler,4,175,66,3,8,108,67,Yes,2,5,3,93,69,Medium,Medium
+PL1957,Jofra Head,16,Batsman,7,3,53,3,7,132,83,Yes,7,1,3,62,8,Medium,Medium
+PL1958,Rohit Maxwell,31,Batsman,1,4,42,4,9,102,57,No,4,1,4,99,61,Low,Low
+PL1959,Anrich Sharma,39,All-Rounder,8,52,66,3,9,107,97,Yes,5,4,2,92,31,Low,Medium
+PL1960,Glenn Maxwell,17,Wicket Keeper,3,4,58,6,9,105,66,Yes,4,0,4,72,69,Low,Medium
+PL1961,Mohammad Iyer,36,All-Rounder,4,133,50,5,10,118,63,Yes,2,3,3,96,67,Low,Medium
+PL1962,Quinton Bumrah,16,All-Rounder,8,79,56,2,4,152,74,Yes,4,3,5,99,8,Medium,High
+PL1963,Jos Root,32,All-Rounder,5,158,49,3,8,121,75,No,2,2,4,55,55,Medium,Low
+PL1964,Virat Buttler,25,All-Rounder,6,156,63,4,9,127,44,No,2,5,2,96,52,Medium,Low
+PL1965,Kane Maxwell,18,Bowler,8,197,95,4,5,158,40,No,0,5,1,72,21,High,Medium
+PL1966,Hardik Starc,28,Bowler,8,217,77,2,8,140,69,No,0,6,3,50,49,Medium,Medium
+PL1967,Temba Khan,39,All-Rounder,2,94,60,6,5,95,100,Yes,2,3,4,73,57,Medium,Medium
+PL1968,David Jadeja,36,Batsman,7,2,51,6,9,133,61,Yes,6,1,4,83,3,Medium,Medium
+PL1969,Jasprit Stokes,31,Wicket Keeper,1,4,35,2,6,116,45,No,5,0,7,48,37,Medium,Low
+PL1970,Jofra Rizwan,23,Batsman,7,16,55,4,8,147,44,No,6,1,5,82,5,Medium,Medium
+PL1971,Shubman Maxwell,26,All-Rounder,6,153,56,7,6,144,63,Yes,5,4,4,97,26,Medium,High
+PL1972,Ravindra Starc,24,Bowler,2,245,97,1,5,125,43,No,1,6,3,98,28,Medium,Medium
+PL1973,Pat Afridi,37,Bowler,2,182,91,6,10,101,62,Yes,0,7,4,57,9,Medium,Medium
+PL1974,Joe Finch,21,Wicket Keeper,4,9,32,2,6,132,51,Yes,3,0,7,96,40,Low,Medium
+PL1975,Virat Jadeja,35,Bowler,1,171,76,7,8,102,49,Yes,1,4,4,69,56,Medium,Medium
+PL1976,Travis Rahul,25,Bowler,7,127,65,1,10,132,43,Yes,2,5,1,68,40,Medium,Medium
+PL1977,Jos Stokes,40,All-Rounder,1,89,64,5,6,118,41,No,2,3,4,51,40,Medium,Medium
+PL1978,Aaron Rabada,19,Bowler,4,123,58,3,10,98,81,No,2,5,2,68,25,Low,Low
+PL1979,Suryakumar Bumrah,16,Batsman,7,12,45,6,5,141,70,Yes,4,1,4,54,15,Medium,High
+PL1980,Ravindra Smith,23,Batsman,7,4,57,6,5,142,57,Yes,4,0,3,46,53,Medium,High
+PL1981,Pat Maxwell,35,Batsman,6,1,55,2,8,117,72,Yes,5,1,3,43,61,Medium,Medium
+PL1982,Joe Nortje,37,Bowler,3,116,62,2,5,127,70,Yes,1,3,3,47,54,Medium,Medium
+PL1983,Jofra Kohli,38,Wicket Keeper,5,6,31,3,10,106,71,Yes,4,1,8,80,49,Low,Medium
+PL1984,Jos Head,38,Batsman,2,2,57,4,5,136,55,No,4,0,4,56,36,Medium,Low
+PL1985,Joe Smith,29,Bowler,2,113,61,7,9,115,52,No,0,7,4,90,27,Medium,Low
+PL1986,Mohammad Buttler,37,Wicket Keeper,4,10,49,4,4,134,84,No,6,1,4,40,44,Medium,Medium
+PL1987,Suryakumar Finch,39,Batsman,4,16,46,4,10,106,74,No,5,0,4,56,68,Low,Low
+PL1988,Ben Rabada,19,All-Rounder,7,162,42,6,9,112,82,Yes,4,4,3,95,19,Medium,Medium
+PL1989,Rashid Maxwell,22,All-Rounder,3,167,51,1,7,126,50,Yes,3,4,3,92,24,Medium,Medium
+PL1990,Shreyas Cummins,39,All-Rounder,6,64,60,7,9,117,96,No,4,3,2,94,6,Low,Low
+PL1991,Aaron Root,38,Batsman,8,10,50,1,4,149,61,Yes,8,1,4,64,42,Medium,High
+PL1992,Ben Kohli,40,All-Rounder,6,171,77,7,7,125,61,No,3,3,5,52,66,High,Medium
+PL1993,Ben Head,17,Wicket Keeper,2,9,39,4,6,112,65,No,5,1,6,61,20,Medium,Low
+PL1994,Glenn Sharma,29,All-Rounder,1,50,55,5,7,115,50,Yes,3,2,3,92,26,Low,Medium
+PL1995,Rishabh de Kock,33,Wicket Keeper,6,0,67,6,8,113,81,No,6,1,5,52,10,Medium,Low
+PL1996,Rohit Starc,28,All-Rounder,6,109,78,5,5,165,40,No,3,4,3,42,1,High,Medium
+PL1997,Lokesh Root,27,All-Rounder,6,107,71,5,4,135,93,No,2,4,3,60,20,Medium,Medium
+PL1998,Anrich de Kock,21,Bowler,4,231,89,4,9,116,57,No,2,7,3,73,70,Medium,Low
+PL1999,Ben Cummins,19,Bowler,3,238,96,6,5,145,40,No,1,3,3,93,39,Medium,Medium
+PL2000,David Stokes,35,All-Rounder,8,104,67,7,9,110,99,No,4,2,5,67,52,Medium,Low
